@@ -188,5 +188,17 @@
     "gameVersion": null,
     "language": "en",
     "notes": "Screen heading: CHOOSE A BACKER CONTRACT. Instruction: Earn bonus credits for completing a contract's action. Visible options: THE BROKER — Spend time airborne.; THE HUTT — Perform jumps.; THE PIRATE — Spend time Slipstreaming. A check mark appears below The Broker. These are backer-contract labels, not evidence of named characters, parts, abilities, or racer styles; preserved as source notes only because no matching catalog kind exists. No bonus amount, mode, or character is established. Evidence maximum dimension 1900 pixels; original unchanged in upload session."
+  },
+  {
+    "id": "screenshot-part-rewards-15",
+    "kind": "screenshot",
+    "title": "Owner screenshot 15 — Speeder Bike Clean Racer build and Overtaking Surge tooltip",
+    "path": "content/evidence/screenshots/part-rewards-15.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Despite the requested source ID and evidence filename, actual image15 is an installed build, not reward candidates. Shows Speeder Bike, Clean Racer, displayed Speed 359 (units unspecified), and Installed Parts 4/4. Native-resolution crop confirms Optimized Fuel III: When fully fueled, Afterburner power increased by 100%.; Optimized Surge II: Surging is 50% more potent. Afterburner Efficiency III and Extended Alarm IV labels are visible behind the tooltip; no new effects are inferred from obscured text. Ability labels: Overtaking Surge II in Ability 1, Status Scrubber in Ability 2, and Ion Blast as Crash Ability. Overtaking Surge tooltip: Gain Surging for 10s, lost on impact. Overtakes extend the duration and increase its potency. Ability category tooltip: Equippable tech that provides offensive, defensive, or utility capabilities. Consume Energy to activate. Numeric energy cost is not shown. Ability/style details retained here only, outside this parts-only intake scope. Do not infer rarity from dots, compatibility, mode, character, or baseline stats. No reward observation created. Evidence maximum dimension 1900 pixels, kept under ignored content/evidence; original unchanged in upload session."
   }
 ]

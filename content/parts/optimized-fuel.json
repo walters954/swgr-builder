@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "optimized-fuel",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Optimized Fuel",
+    "sourceIds": [
+      "screenshot-part-rewards-15"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed rank III variant increases Afterburner power by 100% when fully fueled.",
+    "sourceIds": [
+      "screenshot-part-rewards-15"
+    ]
+  },
+  "tags": [
+    "afterburner"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "iii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "III",
+        "sourceIds": [
+          "screenshot-part-rewards-15"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; dots and card colors are not sufficient evidence."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "When fully fueled, Afterburner power increased by 100%.",
+        "sourceIds": [
+          "screenshot-part-rewards-15"
+        ]
+      }
+    }
+  ]
+}

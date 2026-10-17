@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "optimized-surge",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Optimized Surge",
+    "sourceIds": [
+      "screenshot-part-rewards-15"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed rank II variant makes Surging 50% more potent.",
+    "sourceIds": [
+      "screenshot-part-rewards-15"
+    ]
+  },
+  "tags": [
+    "surging"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "ii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "II",
+        "sourceIds": [
+          "screenshot-part-rewards-15"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; dots and card colors are not sufficient evidence."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Surging is 50% more potent.",
+        "sourceIds": [
+          "screenshot-part-rewards-15"
+        ]
+      }
+    }
+  ]
+}

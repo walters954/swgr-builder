@@ -8,10 +8,10 @@ An unofficial Star Wars: Galactic Racer wiki and racer/loadout builder, with an 
 - The implemented UI has four routes: `/` overview with a custom teal/orange responsive sidebar, `/wiki` source-backed search with mode filters and details, `/builder` stage editing (clone/add/delete, notes, Part variants, abilities, and a separate Crash Ability), and `/builds` browser-local saved plans.
 - Research and proposed content structure: [docs/game-research.md](docs/game-research.md).
 - Typed JSON catalog and schema/reference validation for characters, abilities, vehicle classes, Racer Styles, Parts, and build observations. See [content editing](docs/content-editing.md) for update commands and conventions.
-- The current catalog contains seven characters, six abilities (only Flame Vent remains draft), fourteen Part families, two Racer Styles, one vehicle class, five build observations, and seventeen sources including fourteen screenshots. Build observations are excluded from the public UI catalog; raw screenshots and crops remain private evidence, not approved public assets.
+- The current catalog contains seven characters, six abilities (only Flame Vent remains draft), sixteen Part families, two Racer Styles, one vehicle class, five build observations, and eighteen sources including fifteen screenshots. Build observations are excluded from the public UI catalog; raw screenshots and crops remain private evidence, not approved public assets.
 - Screenshot 11 shows Skim Speeder / Stunt Runner at displayed speed 371, Vectored Shockwave II and Impact Surge II (confirmed by native crop), and 4/4 Parts with identities obscured/unknown. Its Vectored Shockwave tooltip establishes the generic effect, not a numerical rank difference; Impact Surge II’s effect and numeric Energy costs remain unknown. Mode, character, and round remain unknown.
 - A typed round progression model in `src/lib/builds/plan.ts` and tests provide complete per-round snapshots and Part diffs. See [round-builder design and reference research](docs/round-builder.md), including Stadium Builds. The model now powers the stage editor.
-- Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Implementation is present; parent browser checks are pending.
+- Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Browser checks confirmed wiki search, variant details, round editing, local saving, and importing a shared plan on the production domain.
 - The cached `getPublicCatalog` helper filters drafts and omits private source image paths before supplying UI data.
 
 ## Local development
@@ -44,7 +44,7 @@ The initial full dependency audit reported five high-severity development-only f
 
 ## Deployment
 
-The public repository is available at [walters954/swgr-builder](https://github.com/walters954/swgr-builder); this is not a claim that it contains the latest local changes. Vercel deployment is underway under the `dark-nimbus` scope (DarkNimbus). Readiness and a public deployment URL are not yet confirmed. Real login, database-backed builds, and account sync remain unimplemented.
+Live app: **[swgr-builder.vercel.app](https://swgr-builder.vercel.app)**. The production project is `dark-nimbus/swgr-builder` under **Dark Nimbus**, connected to the public [walters954/swgr-builder](https://github.com/walters954/swgr-builder) repository. Vercel reports production Ready; `/`, `/wiki`, `/builder`, and `/builds` returned HTTP 200. The production mobile page was checked at 390 × 844 with no horizontal overflow or browser errors. Real login, database-backed builds, and account sync remain unimplemented.
 
 ## Content policy
 
