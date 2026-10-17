@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "extended-cooling",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Extended Cooling",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The offered rank I variant extends Cooled by 5 seconds.",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "tags": [
+    "cooled"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "I",
+        "sourceIds": [
+          "screenshot-part-rewards-12"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Cooled lasts 5s longer.",
+        "sourceIds": [
+          "screenshot-part-rewards-12"
+        ]
+      }
+    }
+  ]
+}

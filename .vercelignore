@@ -1,0 +1,6 @@
+content/evidence/**
+dogfood-output/**
+.git/**
+.env*
+coverage/**
+*.tsbuildinfo

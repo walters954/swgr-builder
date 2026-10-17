@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "sebulba",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Sebulba", "sourceIds": ["screenshot-sebulba-character-select"] },
+  "aliases": [],
+  "summary": { "status": "screenshot-verified", "value": "Sebulba carved out a well-deserved place in history as one of the galaxy's greatest racers. As canny as ever despite his advancing years, he's insisted on finding a role for himself in the Galactic League, unwilling to allow his legendary name to be forgotten.", "sourceIds": ["screenshot-sebulba-character-select"], "notes": "Transcribed character biography from the selection panel." },
+  "roles": { "status": "screenshot-verified", "value": ["racer"], "sourceIds": ["screenshot-sebulba-character-select"] },
+  "species": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Species is not stated in this screenshot; no inference from appearance." },
+  "playableModes": { "status": "screenshot-verified", "value": ["podrace"], "sourceIds": ["screenshot-sebulba-character-select"], "notes": "Owner identified the mode. Other modes and individual Podrace submodes remain unverified; this is not an exhaustive availability claim." },
+  "vehicleProfiles": [
+    {
+      "id": "plug-f-mammoth-podrace",
+      "mode": { "status": "screenshot-verified", "value": "podrace", "sourceIds": ["screenshot-sebulba-character-select"], "notes": "Mode context supplied by the owner." },
+      "vehicleName": { "status": "screenshot-verified", "value": "Plug-F Mammoth", "sourceIds": ["screenshot-sebulba-character-select"] },
+      "vehicleClass": { "status": "screenshot-verified", "value": "podracer", "sourceIds": ["screenshot-sebulba-character-select"] },
+      "description": { "status": "screenshot-verified", "value": "The legendary Sebulba's Plug-F Mammoth is an icon as well as a brute, boasting a robust exterior designed to take down opponents while preserving its own integrity. That isn't to mention the removable systems built for bending former track regulations, such as flame vents.", "sourceIds": ["screenshot-sebulba-character-select"] },
+      "traits": [
+        {
+          "name": { "status": "screenshot-verified", "value": "Built for Battle", "sourceIds": ["screenshot-sebulba-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Vehicle collisions result in lower received damage and higher given damage.", "sourceIds": ["screenshot-sebulba-character-select"] }
+        },
+        {
+          "name": { "status": "screenshot-verified", "value": "Old Dog, Old Tricks", "sourceIds": ["screenshot-sebulba-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Afterburner tank refills at a reduced rate.", "sourceIds": ["screenshot-sebulba-character-select"] }
+        }
+      ]
+    }
+  ],
+  "loadouts": [],
+  "tags": ["podrace", "podracer", "collisions", "afterburner"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Vehicle traits only, not Racer Style traits or selectable abilities. Mention of flame vents in vehicle prose does not prove an equipped Flame Vent ability. No numerical effect sizes are shown."
+}

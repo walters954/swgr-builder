@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "gasgano",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Gasgano", "sourceIds": ["screenshot-gasgano-character-select"] },
+  "aliases": [],
+  "summary": { "status": "screenshot-verified", "value": "Unwilling to back down despite ruthless competitors, Gasgano leaves nothing behind on the track. With his four arms, he makes podracing look easy, earning the Xexto celebrity status.", "sourceIds": ["screenshot-gasgano-character-select"], "notes": "Transcribed character biography from the selection panel." },
+  "roles": { "status": "screenshot-verified", "value": ["racer"], "sourceIds": ["screenshot-gasgano-character-select"] },
+  "species": { "status": "screenshot-verified", "value": "Xexto", "sourceIds": ["screenshot-gasgano-character-select"] },
+  "playableModes": { "status": "screenshot-verified", "value": ["podrace"], "sourceIds": ["screenshot-gasgano-character-select"], "notes": "Owner identified the mode. Other modes and individual Podrace submodes remain unverified; this is not an exhaustive availability claim." },
+  "vehicleProfiles": [
+    {
+      "id": "custom-ord-pedrovia-podrace",
+      "mode": { "status": "screenshot-verified", "value": "podrace", "sourceIds": ["screenshot-gasgano-character-select"], "notes": "Mode context supplied by the owner." },
+      "vehicleName": { "status": "screenshot-verified", "value": "Custom Ord Pedrovia", "sourceIds": ["screenshot-gasgano-character-select"] },
+      "vehicleClass": { "status": "screenshot-verified", "value": "podracer", "sourceIds": ["screenshot-gasgano-character-select"] },
+      "description": { "status": "screenshot-verified", "value": "Built from scratch to suit Gasgano's needs, his custom Ord Pedrovia podracer features a bespoke Afterburner tank, easily leaving competitors in the dust. Though this strength comes at the cost of increased drag, it's no matter to Gasgano, who's already pulled into the lead.", "sourceIds": ["screenshot-gasgano-character-select"] },
+      "traits": [
+        {
+          "name": { "status": "screenshot-verified", "value": "Energy Surplus", "sourceIds": ["screenshot-gasgano-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Afterburner power and tank refill rate are increased.", "sourceIds": ["screenshot-gasgano-character-select"] }
+        },
+        {
+          "name": { "status": "screenshot-verified", "value": "Large Cross-Section", "sourceIds": ["screenshot-gasgano-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Vehicle drag is increased, reducing top speed.", "sourceIds": ["screenshot-gasgano-character-select"] }
+        }
+      ]
+    }
+  ],
+  "loadouts": [],
+  "tags": ["podrace", "podracer", "afterburner"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Vehicle traits only, not Racer Style traits or selectable abilities. No numerical effect sizes or equipped cards are shown. Screenshot evidence is stored outside public/."
+}

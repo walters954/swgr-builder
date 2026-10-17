@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "afterburner-efficiency",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Afterburner Efficiency",
+    "sourceIds": [
+      "screenshot-stunt-runner-efficiency-build"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed rank IV variant allows Afterburner to burn 200% longer.",
+    "sourceIds": [
+      "screenshot-stunt-runner-efficiency-build"
+    ]
+  },
+  "tags": [
+    "afterburner"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "iv",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "IV",
+        "sourceIds": [
+          "screenshot-stunt-runner-efficiency-build"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Afterburner can burn 200% longer.",
+        "sourceIds": [
+          "screenshot-stunt-runner-efficiency-build"
+        ]
+      }
+    }
+  ]
+}

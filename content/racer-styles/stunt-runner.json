@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "stunt-runner",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Stunt Runner",
+    "sourceIds": [
+      "screenshot-stunt-runner-build"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "A racer style that starts with Vectored Shockwave and uses Perfect Landings and airtime to enhance Afterburner use.",
+    "sourceIds": [
+      "screenshot-stunt-runner-build"
+    ]
+  },
+  "tags": [
+    "perfect-landing",
+    "airtime",
+    "afterburner"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No racer style rank was verified in the screenshot."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Center of Attention",
+        "sourceIds": [
+          "screenshot-stunt-runner-build"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Start with Vectored Shockwave Ability installed.",
+        "sourceIds": [
+          "screenshot-stunt-runner-build"
+        ]
+      }
+    },
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Repulsor Fuel Link",
+        "sourceIds": [
+          "screenshot-stunt-runner-build"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Perfect Landings fully refill Afterburner tank and increase the power of its next use by 100%.",
+        "sourceIds": [
+          "screenshot-stunt-runner-build"
+        ]
+      }
+    },
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Potential Energy",
+        "sourceIds": [
+          "screenshot-stunt-runner-build"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Each second spent airborne increases Repulsor Fuel Link trait bonus by +10%.",
+        "sourceIds": [
+          "screenshot-stunt-runner-build"
+        ]
+      }
+    }
+  ]
+}

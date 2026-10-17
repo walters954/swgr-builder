@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "overcharging-afterburner",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Overcharging Afterburner",
+    "sourceIds": [
+      "screenshot-part-rewards"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed variant refills Afterburner fuel 200% faster while Overcharged; its rank is unverified.",
+    "sourceIds": [
+      "screenshot-part-rewards"
+    ]
+  },
+  "tags": [
+    "overcharged",
+    "afterburner"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "No rank numeral is visible on the observed card."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "While Overcharged, Afterburner fuel refills 200% faster.",
+        "sourceIds": [
+          "screenshot-part-rewards"
+        ]
+      }
+    }
+  ]
+}

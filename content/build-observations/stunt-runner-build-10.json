@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "kind": "build-observation",
+  "id": "stunt-runner-build-10",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Stunt Runner build — screenshot 10", "sourceIds": ["screenshot-stunt-runner-efficiency-build"], "notes": "Editorial evidence label, not a user build title or round number." },
+  "aliases": [],
+  "summary": { "status": "screenshot-verified", "value": "Skim Speeder with Stunt Runner, Vectored Shockwave II, Impact Surge, and four installed parts including Afterburner Efficiency IV.", "sourceIds": ["screenshot-stunt-runner-efficiency-build"] },
+  "mode": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Mode not named on the build screen." },
+  "characterId": { "status": "unknown", "value": null, "sourceIds": [], "notes": "No named character shown." },
+  "vehicleClass": { "status": "screenshot-verified", "value": "skim-speeder", "sourceIds": ["screenshot-stunt-runner-efficiency-build"] },
+  "displayedSpeed": { "status": "screenshot-verified", "value": 359, "sourceIds": ["screenshot-stunt-runner-efficiency-build"], "notes": "Observed display only; units and stat formula unknown." },
+  "racerStyleId": { "status": "screenshot-verified", "value": "stunt-runner", "sourceIds": ["screenshot-stunt-runner-efficiency-build"] },
+  "equippedAbilityIds": { "status": "screenshot-verified", "value": ["vectored-shockwave", "impact-surge"], "sourceIds": ["screenshot-stunt-runner-efficiency-build"], "notes": "Shown in Ability 1 and Ability 2 respectively. Impact Surge has no numeral in its title." },
+  "equippedAbilityVariants": { "status": "screenshot-verified", "value": [{ "abilityId": "vectored-shockwave", "variantId": "ii" }], "sourceIds": ["screenshot-stunt-runner-efficiency-build"], "notes": "Only the known rank assignment; Impact Surge rank remains unknown." },
+  "installedParts": {
+    "status": "screenshot-verified",
+    "value": [
+      { "partId": "afterburner-efficiency", "variantId": "iv" },
+      { "partId": "heated-fuel", "variantId": "ii" },
+      { "partId": "depleted-shielding", "variantId": "observed" },
+      { "partId": "expanding-fuel-tank", "variantId": "observed" }
+    ],
+    "sourceIds": ["screenshot-stunt-runner-efficiency-build"]
+  },
+  "abilitySlots": { "status": "screenshot-verified", "value": 4, "sourceIds": ["screenshot-stunt-runner-efficiency-build"] },
+  "crashAbilitySlots": { "status": "screenshot-verified", "value": 1, "sourceIds": ["screenshot-stunt-runner-efficiency-build"] },
+  "partSlots": { "status": "screenshot-verified", "value": 4, "sourceIds": ["screenshot-stunt-runner-efficiency-build"], "notes": "Observed capacity only, not a global game limit." },
+  "installedPartCount": { "status": "screenshot-verified", "value": 4, "sourceIds": ["screenshot-stunt-runner-efficiency-build"] },
+  "tags": ["observation", "stunt-runner", "skim-speeder"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Screenshot numbering is not in-game round numbering. Relative to screenshot9 this snapshot has Afterburner Efficiency IV instead of Cooling Dampers II and Impact Surge instead of Surge. This records differences, not proof of a specific upgrade path, shop transaction, or speed calculation."
+}

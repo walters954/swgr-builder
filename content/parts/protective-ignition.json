@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "protective-ignition",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Protective Ignition",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The offered rank III variant grants Shielded on Perfect Start until it is broken.",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "tags": [
+    "perfect-start",
+    "shielded"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "iii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "III",
+        "sourceIds": [
+          "screenshot-part-rewards-12"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Perfect Start grants Shielded until it is broken.",
+        "sourceIds": [
+          "screenshot-part-rewards-12"
+        ]
+      }
+    }
+  ]
+}

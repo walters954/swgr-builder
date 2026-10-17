@@ -1,0 +1,11 @@
+{
+  "json.schemas": [
+    { "fileMatch": ["/content/characters/*.json", "/content/templates/character.json"], "url": "./content/schemas/character.schema.json" },
+    { "fileMatch": ["/content/abilities/*.json", "/content/templates/ability.json"], "url": "./content/schemas/ability.schema.json" },
+    { "fileMatch": ["/content/vehicle-classes/*.json"], "url": "./content/schemas/vehicle-class.schema.json" },
+    { "fileMatch": ["/content/racer-styles/*.json"], "url": "./content/schemas/racer-style.schema.json" },
+    { "fileMatch": ["/content/parts/*.json"], "url": "./content/schemas/part.schema.json" },
+    { "fileMatch": ["/content/build-observations/*.json"], "url": "./content/schemas/build-observation.schema.json" },
+    { "fileMatch": ["/content/sources.json"], "url": "./content/schemas/sources.schema.json" }
+  ]
+}

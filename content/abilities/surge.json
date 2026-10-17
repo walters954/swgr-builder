@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "surge",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Surge",
+    "sourceIds": [
+      "screenshot-stunt-runner-full-build"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Shown equipped in Ability 2; its rank and effect are not shown.",
+    "sourceIds": [
+      "screenshot-stunt-runner-full-build"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Appearance on one build does not verify mode compatibility."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Appearance on one build does not verify vehicle class compatibility."
+  },
+  "variants": []
+}

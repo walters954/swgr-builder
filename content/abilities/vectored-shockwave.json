@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "vectored-shockwave",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Vectored Shockwave",
+    "sourceIds": [
+      "screenshot-stunt-runner-build",
+      "screenshot-stunt-runner-full-build"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.",
+    "sourceIds": [
+      "screenshot-vectored-shockwave-tooltip"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Appearance on one build does not verify mode compatibility."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Appearance on one build does not verify vehicle class compatibility."
+  },
+  "variants": [
+    {
+      "id": "ii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "II",
+        "sourceIds": ["screenshot-stunt-runner-full-build"]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.",
+        "sourceIds": ["screenshot-vectored-shockwave-tooltip"],
+        "notes": "Generic tooltip shown while rank II is equipped; no evidence of rank-specific multipliers, damage, range, or cooldown."
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Energy cost is not shown."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Cooldown is not shown."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Duration is not shown."
+      },
+      "tags": []
+    }
+  ]
+}

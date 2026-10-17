@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "thermocycling-dampers",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Thermocycling Dampers",
+    "sourceIds": [
+      "screenshot-survivor-build-13"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed rank II variant resets Ramjet temperature on landing.",
+    "sourceIds": [
+      "screenshot-survivor-build-13"
+    ]
+  },
+  "tags": [
+    "landing",
+    "ramjet"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "ii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "II",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; dots are not sufficient evidence."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "On landing, reset Ramjet temperature.",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      }
+    }
+  ]
+}

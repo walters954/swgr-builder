@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "flame-vent",
+  "publication": "draft",
+  "name": { "status": "reported", "value": "Flame Vent", "sourceIds": ["ign-builds-2026"] },
+  "aliases": [],
+  "summary": { "status": "reported", "value": "A vent ability discussed in Ramjet-focused builds for its cooling interaction.", "sourceIds": ["ign-builds-2026"], "notes": "Paraphrased guide summary, not exact in-game card text." },
+  "compatibleModes": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Full mode compatibility has not been verified." },
+  "compatibleVehicleClasses": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Do not assume compatibility across all four vehicle classes." },
+  "variants": [],
+  "tags": ["ramjet", "cooling"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Awaiting card screenshots for exact wording, ranks, costs, cooldowns, and duration."
+}

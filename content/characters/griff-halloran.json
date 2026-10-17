@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "griff-halloran",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Griff Halloran", "sourceIds": ["screenshot-griff-halloran-character-select"] },
+  "aliases": [],
+  "summary": { "status": "screenshot-verified", "value": "Still sporting the armor from his days flying in the Imperial Navy, Griff Halloran struggles to fit into the changing galaxy. Flying is the one thing he knows he's good at—and the one thing he'll fight to keep.", "sourceIds": ["screenshot-griff-halloran-character-select"], "notes": "Transcribed biography from the character-selection panel." },
+  "roles": { "status": "screenshot-verified", "value": ["racer"], "sourceIds": ["screenshot-griff-halloran-character-select"] },
+  "species": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Species is not named on the panel; no inference from appearance." },
+  "playableModes": { "status": "screenshot-verified", "value": ["multiplayer-tour"], "sourceIds": ["screenshot-griff-halloran-character-select"], "notes": "Mode follows the owner's ongoing Multiplayer Tour screenshot context. No claim about other modes." },
+  "vehicleProfiles": [],
+  "loadouts": [
+    {
+      "id": "multiplayer-tour-afterburner",
+      "mode": "multiplayer-tour",
+      "racerStyle": { "status": "screenshot-verified", "value": "Afterburner", "sourceIds": ["screenshot-griff-halloran-character-select"] },
+      "racerStyleDescription": { "status": "screenshot-verified", "value": "A straightforward style that relies on the power of Afterburner rather than the Ramjet.", "sourceIds": ["screenshot-griff-halloran-character-select"] },
+      "abilityIds": { "status": "unknown", "value": null, "sourceIds": [], "notes": "No equipped ability cards are shown. Unknown does not mean an empty ability loadout." },
+      "traits": [
+        {
+          "name": { "status": "screenshot-verified", "value": "Afterburner Superiority", "sourceIds": ["screenshot-griff-halloran-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Afterburner is more powerful.", "sourceIds": ["screenshot-griff-halloran-character-select"] }
+        },
+        {
+          "name": { "status": "screenshot-verified", "value": "Afterburner Fuel Tank", "sourceIds": ["screenshot-griff-halloran-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Afterburner lasts longer.", "sourceIds": ["screenshot-griff-halloran-character-select"] }
+        },
+        {
+          "name": { "status": "screenshot-verified", "value": "Burn Bright", "sourceIds": ["screenshot-griff-halloran-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Each overtake refills Afterburner tank by 10%.", "sourceIds": ["screenshot-griff-halloran-character-select"] }
+        }
+      ]
+    }
+  ],
+  "tags": ["multiplayer-tour", "afterburner", "overtaking"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "These are Racer Style traits, distinct from the vehicle-specific traits in the Podrace panels. Do not infer a style rank, vehicle model, or power/duration multipliers from this screen."
+}

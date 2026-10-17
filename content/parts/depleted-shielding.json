@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "depleted-shielding",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Depleted Shielding",
+    "sourceIds": [
+      "screenshot-stunt-runner-full-build"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed variant grants Shielded for 5 seconds after a full Afterburner use.",
+    "sourceIds": [
+      "screenshot-stunt-runner-full-build"
+    ]
+  },
+  "tags": [
+    "afterburner",
+    "shielded"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "No rank numeral is visible on the observed card; dots are not sufficient evidence."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "After a full Afterburner use, become Shielded for 5s.",
+        "sourceIds": [
+          "screenshot-stunt-runner-full-build"
+        ]
+      }
+    }
+  ]
+}

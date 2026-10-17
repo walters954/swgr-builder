@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "new-ability",
+  "publication": "draft",
+  "name": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Add the exact name and its supporting source."
+  },
+  "aliases": [],
+  "summary": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Awaiting source or screenshot verification."
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "kind": "ability",
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Awaiting source or screenshot verification."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Awaiting source or screenshot verification."
+  },
+  "variants": []
+}

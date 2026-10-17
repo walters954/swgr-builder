@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "survivor",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Survivor",
+    "sourceIds": [
+      "screenshot-survivor-build-13"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "A racer style with a starting Shield ability, a Speed increase lost on Crash, and Surging gained when Shielded is lost.",
+    "sourceIds": [
+      "screenshot-survivor-build-13"
+    ]
+  },
+  "tags": [
+    "shielded",
+    "surging",
+    "speed"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No style rank is shown."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Protected",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Start with Shield Ability installed.",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      }
+    },
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Mint Condition",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Considerably increases Speed. Lost on Crash.",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      }
+    },
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Power to Thrusters",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "When Shielded is lost, gain Surging for 10s.",
+        "sourceIds": [
+          "screenshot-survivor-build-13"
+        ]
+      }
+    }
+  ]
+}

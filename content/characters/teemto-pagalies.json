@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "teemto-pagalies",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Teemto Pagalies", "sourceIds": ["screenshot-teemto-pagalies-character-select"] },
+  "aliases": [],
+  "summary": { "status": "screenshot-verified", "value": "The charming Teemto Pagalies is popular everywhere except his own homeworld, from which he was outcast. The Veknoid doesn't complain. He's got all the fans he needs cheering for him on the track.", "sourceIds": ["screenshot-teemto-pagalies-character-select"], "notes": "Transcribed character biography from the selection panel." },
+  "roles": { "status": "screenshot-verified", "value": ["racer"], "sourceIds": ["screenshot-teemto-pagalies-character-select"] },
+  "species": { "status": "screenshot-verified", "value": "Veknoid", "sourceIds": ["screenshot-teemto-pagalies-character-select"] },
+  "playableModes": { "status": "screenshot-verified", "value": ["podrace"], "sourceIds": ["screenshot-teemto-pagalies-character-select"], "notes": "Owner identified the mode. Other modes and individual Podrace submodes remain unverified; this is not an exhaustive availability claim." },
+  "vehicleProfiles": [
+    {
+      "id": "ipg-x1131-longtail-podrace",
+      "mode": { "status": "screenshot-verified", "value": "podrace", "sourceIds": ["screenshot-teemto-pagalies-character-select"], "notes": "Mode context supplied by the owner." },
+      "vehicleName": { "status": "screenshot-verified", "value": "IPG-X1131 LongTail", "sourceIds": ["screenshot-teemto-pagalies-character-select"], "notes": "Panel body styles the name LongTail; the all-caps heading reads LONGTAIL." },
+      "vehicleClass": { "status": "screenshot-verified", "value": "podracer", "sourceIds": ["screenshot-teemto-pagalies-character-select"] },
+      "description": { "status": "screenshot-verified", "value": "Teemto Pagalies' IPG-X1131 LongTail features a unique circular shape. The internal cycling ring functions as a gyroscopic stabilizer, allowing it to keep up with more aerodynamic podracers. But what improvements the cycling ring grants in cornering, it sacrifices in speed.", "sourceIds": ["screenshot-teemto-pagalies-character-select"] },
+      "traits": [
+        {
+          "name": { "status": "screenshot-verified", "value": "Bleeding-Edge Tech", "sourceIds": ["screenshot-teemto-pagalies-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Afterburner power is increased and Cornering maneuverability improved.", "sourceIds": ["screenshot-teemto-pagalies-character-select"] }
+        },
+        {
+          "name": { "status": "screenshot-verified", "value": "Small Thrusters", "sourceIds": ["screenshot-teemto-pagalies-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "Maximum top speed is reduced.", "sourceIds": ["screenshot-teemto-pagalies-character-select"] }
+        }
+      ]
+    }
+  ],
+  "loadouts": [],
+  "tags": ["podrace", "podracer", "afterburner", "cornering"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Vehicle traits only, not Racer Style traits or selectable abilities. No numerical effect sizes or equipped cards are shown. Screenshot evidence is stored outside public/."
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "dud-bolt",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Dud Bolt", "sourceIds": ["screenshot-dud-bolt-character-select"] },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Dud Bolt holds no shame in doing whatever it takes to win...or earn a paycheck. The Vulptereen is a fan favorite on the track, as well as an ally of Sebulba's, who has on many occasions paid the racer to take down fellow competitors mid-race.",
+    "sourceIds": ["screenshot-dud-bolt-character-select"],
+    "notes": "Transcribed character biography from the selection panel."
+  },
+  "roles": { "status": "screenshot-verified", "value": ["racer"], "sourceIds": ["screenshot-dud-bolt-character-select"] },
+  "species": { "status": "screenshot-verified", "value": "Vulptereen", "sourceIds": ["screenshot-dud-bolt-character-select"] },
+  "playableModes": { "status": "screenshot-verified", "value": ["podrace"], "sourceIds": ["screenshot-dud-bolt-character-select"], "notes": "Owner identified the mode. Other modes and individual Podrace submodes remain unverified; this is not an exhaustive availability claim." },
+  "vehicleProfiles": [
+    {
+      "id": "vulptereen-327-podrace",
+      "mode": { "status": "screenshot-verified", "value": "podrace", "sourceIds": ["screenshot-dud-bolt-character-select"], "notes": "Mode context supplied by the owner." },
+      "vehicleName": { "status": "screenshot-verified", "value": "Vulptereen 327", "sourceIds": ["screenshot-dud-bolt-character-select"] },
+      "vehicleClass": { "status": "screenshot-verified", "value": "podracer", "sourceIds": ["screenshot-dud-bolt-character-select"] },
+      "description": { "status": "screenshot-verified", "value": "Built on his homeworld of Vulpter, the Vulptereen 327 podracer is perfect for the aggressive Dud Bolt, boasting excellent traction to power down straights. A vehicle built tough, Dud Bolt's favorite pastime is ramming into his opponents as he flies by unscathed, laughing as he does.", "sourceIds": ["screenshot-dud-bolt-character-select"] },
+      "traits": [
+        {
+          "name": { "status": "screenshot-verified", "value": "Optimized Nozzles", "sourceIds": ["screenshot-dud-bolt-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "While on straights, Afterburner power and top speed are increased.", "sourceIds": ["screenshot-dud-bolt-character-select"] }
+        },
+        {
+          "name": { "status": "screenshot-verified", "value": "Draggy Control Surfaces", "sourceIds": ["screenshot-dud-bolt-character-select"] },
+          "description": { "status": "screenshot-verified", "value": "While Cornering, top speed is reduced.", "sourceIds": ["screenshot-dud-bolt-character-select"] }
+        }
+      ]
+    }
+  ],
+  "loadouts": [],
+  "tags": ["podrace", "podracer", "afterburner", "straights"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Vehicle traits only, not Racer Style traits or selectable abilities. No numerical effect sizes or equipped cards are shown. Screenshot evidence is stored outside public/."
+}

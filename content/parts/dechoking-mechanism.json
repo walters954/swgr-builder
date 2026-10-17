@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "dechoking-mechanism",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Dechoking Mechanism",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The offered variant protects from Choked while Surging.",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "tags": [
+    "surging",
+    "choked"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "No rank numeral is visible on the observed card; dots are not sufficient evidence."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "While Surging, protected from Choked.",
+        "sourceIds": [
+          "screenshot-part-rewards-12"
+        ]
+      }
+    }
+  ]
+}

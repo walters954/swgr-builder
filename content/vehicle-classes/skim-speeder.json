@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle-class",
+  "id": "skim-speeder",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Skim Speeder", "sourceIds": ["screenshot-skim-speeder-vehicle-select"] },
+  "aliases": [],
+  "summary": { "status": "official", "value": "A repulsorcraft class that favors flowing racing lines and momentum, with banked turns and a Knife Edge maneuver for tighter gaps and corners.", "sourceIds": ["official-vehicle-guide-2026"], "notes": "Editorial paraphrase of official vehicle guidance; exact on-screen class descriptions are preserved in traits." },
+  "availableModes": { "status": "screenshot-verified", "value": ["multiplayer-tour"], "sourceIds": ["screenshot-skim-speeder-vehicle-select"], "notes": "Mode supplied by the owner. This records observed availability, not an exhaustive list of compatible modes." },
+  "traits": [
+    {
+      "name": { "status": "screenshot-verified", "value": "Streamlined Intakes", "sourceIds": ["screenshot-skim-speeder-vehicle-select"] },
+      "description": { "status": "screenshot-verified", "value": "Maintain a high top speed via smooth, wide racing lines.", "sourceIds": ["screenshot-skim-speeder-vehicle-select"] }
+    },
+    {
+      "name": { "status": "screenshot-verified", "value": "Sweeping Airfoils", "sourceIds": ["screenshot-skim-speeder-vehicle-select"] },
+      "description": { "status": "screenshot-verified", "value": "Graceful banked cornering.", "sourceIds": ["screenshot-skim-speeder-vehicle-select"] }
+    },
+    {
+      "name": { "status": "screenshot-verified", "value": "Knife Edge", "sourceIds": ["screenshot-skim-speeder-vehicle-select"] },
+      "description": { "status": "screenshot-verified", "value": "Use [input icon] to roll onto a Knife Edge for tighter cornering.", "sourceIds": ["screenshot-skim-speeder-vehicle-select"], "notes": "The screenshot uses a control glyph. [input icon] preserves its position without guessing a platform-specific key binding." }
+    }
+  ],
+  "tags": ["multiplayer-tour", "cornering", "knife-edge"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "The vehicle model and racer are not named on this screen. These class characteristics are not equipped ability cards. Landspeeder and Speeder Bike buttons are visible but their detail panels are not shown."
+}

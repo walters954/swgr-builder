@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "lethal-velocity",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Lethal Velocity",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The offered rank II variant moderately increases Speed with every Takedown.",
+    "sourceIds": [
+      "screenshot-part-rewards-12"
+    ]
+  },
+  "tags": [
+    "takedown",
+    "speed"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "ii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "II",
+        "sourceIds": [
+          "screenshot-part-rewards-12"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Every Takedown moderately increases Speed.",
+        "sourceIds": [
+          "screenshot-part-rewards-12"
+        ]
+      }
+    }
+  ]
+}

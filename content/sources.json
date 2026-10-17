@@ -1,0 +1,192 @@
+[
+  {
+    "id": "official-launch-2026",
+    "kind": "official",
+    "title": "StarWars.com — Rivalries Heat Up in Star Wars: Galactic Racer",
+    "url": "https://www.starwars.com/news/star-wars-galactic-racer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "official-vehicle-guide-2026",
+    "kind": "official",
+    "title": "StarWars.com — Get a Crash Course on the Vehicles of Star Wars: Galactic Racer",
+    "url": "https://www.starwars.com/news/star-wars-galactic-racer-vehicle-guide",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "ign-builds-2026",
+    "kind": "secondary",
+    "title": "IGN — Best Vehicle Builds",
+    "url": "https://www.ign.com/wikis/star-wars-galactic-racer/Best_Vehicle_Builds",
+    "accessedAt": "2026-10-17",
+    "notes": "Secondary reporting, not verified against owner screenshots. Do not infer equipped slot counts from recommended alternatives."
+  },
+  {
+    "id": "screenshot-dud-bolt-character-select",
+    "kind": "screenshot",
+    "title": "Owner screenshot 1 — Dud Bolt character selection",
+    "path": "content/evidence/screenshots/dud-bolt-character-select.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+  },
+  {
+    "id": "screenshot-gasgano-character-select",
+    "kind": "screenshot",
+    "title": "Owner screenshot 2 — Gasgano character selection",
+    "path": "content/evidence/screenshots/gasgano-character-select.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+  },
+  {
+    "id": "screenshot-teemto-pagalies-character-select",
+    "kind": "screenshot",
+    "title": "Owner screenshot 3 — Teemto Pagalies character selection",
+    "path": "content/evidence/screenshots/teemto-pagalies-character-select.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+  },
+  {
+    "id": "screenshot-sebulba-character-select",
+    "kind": "screenshot",
+    "title": "Owner screenshot 4 — Sebulba character selection",
+    "path": "content/evidence/screenshots/sebulba-character-select.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+  },
+  {
+    "id": "screenshot-skim-speeder-vehicle-select",
+    "kind": "screenshot",
+    "title": "Owner screenshot 5 — Skim Speeder vehicle selection",
+    "path": "content/evidence/screenshots/skim-speeder-vehicle-select.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Owner identifies the mode as Multiplayer Tour. The screen shows a vehicle class, not a named character or specific vehicle model. Keyboard/controller input glyph is not transcribed as a binding."
+  },
+  {
+    "id": "screenshot-griff-halloran-character-select",
+    "kind": "screenshot",
+    "title": "Owner screenshot 6 — Griff Halloran and Afterburner Racer Style",
+    "path": "content/evidence/screenshots/griff-halloran-character-select.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Supplied in the ongoing Multiplayer Tour screenshot sequence following the owner's mode clarification. No equipped abilities, vehicle class, rank, or numerical Afterburner power multiplier are established by this panel."
+  },
+  {
+    "id": "screenshot-stunt-runner-build",
+    "kind": "screenshot",
+    "title": "Owner screenshot 7 — Skim Speeder Stunt Runner build screen",
+    "path": "content/evidence/screenshots/stunt-runner-build.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Build screen, not a character-selection panel. Character and mode are not named. Speed 322 is a displayed observation with unspecified units, not a class baseline. Installed Parts shows 1/4. Contains voice-chat overlays; keep evidence private and do not publish without redaction."
+  },
+  {
+    "id": "screenshot-part-rewards",
+    "kind": "screenshot",
+    "title": "Owner screenshot 8 — Choose a Part rewards",
+    "path": "content/evidence/screenshots/part-rewards.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Four offered reward candidates, not four equipped parts. Mode and character are not named in text. Do not infer rank or rarity from dot indicators, icons, or colors. Redlining tooltip is cut off; only use readable card effects. Speed 334 is not a baseline or proof of a specific stat change."
+  },
+  {
+    "id": "screenshot-stunt-runner-full-build",
+    "kind": "screenshot",
+    "title": "Owner screenshot 9 — Skim Speeder Stunt Runner build, four installed parts",
+    "path": "content/evidence/screenshots/stunt-runner-full-build.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Shows 4/4 installed parts, Vectored Shockwave II in Ability 1, Surge in Ability 2, and speed 347. Character, mode, round number, currency label, and units are not named. Do not infer rarity/rank from dot counts. No assumption that this speed difference was caused by any one part."
+  },
+  {
+    "id": "screenshot-stunt-runner-efficiency-build",
+    "kind": "screenshot",
+    "title": "Owner screenshot 10 — Stunt Runner with Afterburner Efficiency IV and Impact Surge",
+    "path": "content/evidence/screenshots/stunt-runner-efficiency-build.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Shows Skim Speeder, Stunt Runner, 4/4 parts, Afterburner Efficiency IV, Heated Fuel II, Depleted Shielding, Expanding Fuel Tank, Vectored Shockwave II, Impact Surge, and speed359. No round number or mode is shown. Different ability names alone do not prove a rank/upgrade relationship."
+  },
+  {
+    "id": "screenshot-vectored-shockwave-tooltip",
+    "kind": "screenshot",
+    "title": "Owner screenshot 11 — Vectored Shockwave tooltip and Impact Surge II",
+    "path": "content/evidence/screenshots/vectored-shockwave-tooltip.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Native-resolution crop confirms Vectored Shockwave II and Impact Surge II labels. Generic tooltip describes blasting opponents away, forward propulsion, and System Malfunction; it does not state numeric rank bonuses. Ability category tooltip: Equippable tech that provides offensive, defensive, or utility capabilities. Consume Energy to activate. Numeric energy cost is not shown. Parts are partially obscured by the tooltip."
+  },
+  {
+    "id": "screenshot-part-rewards-12",
+    "kind": "screenshot",
+    "title": "Owner screenshot 12 — Choose a Part rewards and Perfect Start / Shielded tooltips",
+    "path": "content/evidence/screenshots/part-rewards-12.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Four offered reward candidates, not installed parts. Native-resolution crop confirms Protective Ignition III. Lethal Velocity II and Extended Cooling I have visible numerals; Dechoking Mechanism has no visible numeral. Do not infer rank or rarity from dots, icons, or colors. Mode and character are not established. Perfect Start tooltip: Temporary boost gained from Perfect acceleration check upon race start. Shielded tooltip: Increases protection from collisions and impacts as well as blocks externally-applied status effects. Evidence normalized to a maximum dimension of 2200 pixels; original retained in the upload session."
+  },
+  {
+    "id": "screenshot-survivor-build-13",
+    "kind": "screenshot",
+    "title": "Owner screenshot 13 — Landspeeder Survivor build",
+    "path": "content/evidence/screenshots/survivor-build-13.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Actual image13 is a build screen, not reward choices. Shows Landspeeder, displayed Speed 359 (units unspecified), Survivor style, 4/4 installed parts, Impact Shield in Ability 1, and Shockwave in Ability 2. Native-resolution crops confirm Thermocycling Dampers II: On landing, reset Ramjet temperature.; Heated Fuel II: Redlining increases power of next Afterburner by 50%.; Extended Alarm IV: Redlining duration is 200% longer.; Heat Reduction IV: Ramjet generates 30% less heat. Survivor traits: Protected — Start with Shield Ability installed.; Mint Condition — Considerably increases Speed. Lost on Crash.; Power to Thrusters — When Shielded is lost, gain Surging for 10s. Shield in the trait is not assumed to be an alias of Impact Shield. No character or mode is named. Do not infer numeric stats from bars, rarity from dots, or compatibility from this single build. Evidence maximum dimension 1900 pixels; original unchanged in upload session."
+  },
+  {
+    "id": "screenshot-backer-contracts-14",
+    "kind": "screenshot",
+    "title": "Owner screenshot 14 — Choose a Backer Contract",
+    "path": "content/evidence/screenshots/screenshot-14.png",
+    "accessedAt": "2026-10-17",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en",
+    "notes": "Screen heading: CHOOSE A BACKER CONTRACT. Instruction: Earn bonus credits for completing a contract's action. Visible options: THE BROKER — Spend time airborne.; THE HUTT — Perform jumps.; THE PIRATE — Spend time Slipstreaming. A check mark appears below The Broker. These are backer-contract labels, not evidence of named characters, parts, abilities, or racer styles; preserved as source notes only because no matching catalog kind exists. No bonus amount, mode, or character is established. Evidence maximum dimension 1900 pixels; original unchanged in upload session."
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "hibi",
+  "publication": "published",
+  "name": { "status": "official", "value": "Hibi", "sourceIds": ["official-launch-2026"] },
+  "aliases": [],
+  "summary": { "status": "official", "value": "Shade's Ardennian mechanic, running a workshop in each planet's paddock to fit and sell parts.", "sourceIds": ["official-launch-2026"] },
+  "roles": { "status": "official", "value": ["mechanic"], "sourceIds": ["official-launch-2026"] },
+  "species": { "status": "official", "value": "Ardennian", "sourceIds": ["official-vehicle-guide-2026"] },
+  "playableModes": { "status": "unknown", "value": null, "sourceIds": [], "notes": "A workshop role is not evidence for or against playable availability." },
+  "loadouts": [],
+  "tags": ["campaign", "workshop"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Do not treat every character in the wiki as a selectable racer."
+}

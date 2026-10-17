@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "heated-fuel",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Heated Fuel",
+    "sourceIds": [
+      "screenshot-part-rewards"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed rank I variant increases the power of the next Afterburner by 25% through Redlining.",
+    "sourceIds": [
+      "screenshot-part-rewards"
+    ]
+  },
+  "tags": [
+    "redlining",
+    "afterburner"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "I",
+        "sourceIds": [
+          "screenshot-part-rewards"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Redlining increases power of next Afterburner by 25%.",
+        "sourceIds": [
+          "screenshot-part-rewards"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "II",
+        "sourceIds": ["screenshot-stunt-runner-full-build"]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Redlining increases power of next Afterburner by 50%.",
+        "sourceIds": ["screenshot-stunt-runner-full-build"]
+      }
+    }
+  ]
+}

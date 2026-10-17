@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "kind": "build-observation",
+  "id": "stunt-runner-build-9",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Stunt Runner build — screenshot 9", "sourceIds": ["screenshot-stunt-runner-full-build"], "notes": "Editorial evidence label, not a user build title or round number." },
+  "aliases": [],
+  "summary": { "status": "screenshot-verified", "value": "Skim Speeder with Stunt Runner, Vectored Shockwave II, Surge, and four installed parts.", "sourceIds": ["screenshot-stunt-runner-full-build"] },
+  "mode": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Game mode is not named on the build screen." },
+  "characterId": { "status": "unknown", "value": null, "sourceIds": [], "notes": "No named character shown." },
+  "vehicleClass": { "status": "screenshot-verified", "value": "skim-speeder", "sourceIds": ["screenshot-stunt-runner-full-build"] },
+  "displayedSpeed": { "status": "screenshot-verified", "value": 347, "sourceIds": ["screenshot-stunt-runner-full-build"], "notes": "Observed display only; units and formula unknown." },
+  "racerStyleId": { "status": "screenshot-verified", "value": "stunt-runner", "sourceIds": ["screenshot-stunt-runner-full-build"] },
+  "equippedAbilityIds": { "status": "screenshot-verified", "value": ["vectored-shockwave", "surge"], "sourceIds": ["screenshot-stunt-runner-full-build"], "notes": "Shown in Ability 1 and Ability 2 respectively; Surge has no numeral in its title." },
+  "equippedAbilityVariants": { "status": "screenshot-verified", "value": [{ "abilityId": "vectored-shockwave", "variantId": "ii" }], "sourceIds": ["screenshot-stunt-runner-full-build"], "notes": "Only the known rank assignment; Surge's rank remains unknown." },
+  "installedParts": {
+    "status": "screenshot-verified",
+    "value": [
+      { "partId": "cooling-dampers", "variantId": "ii" },
+      { "partId": "heated-fuel", "variantId": "ii" },
+      { "partId": "depleted-shielding", "variantId": "observed" },
+      { "partId": "expanding-fuel-tank", "variantId": "observed" }
+    ],
+    "sourceIds": ["screenshot-stunt-runner-full-build"]
+  },
+  "abilitySlots": { "status": "screenshot-verified", "value": 4, "sourceIds": ["screenshot-stunt-runner-full-build"] },
+  "crashAbilitySlots": { "status": "screenshot-verified", "value": 1, "sourceIds": ["screenshot-stunt-runner-full-build"] },
+  "partSlots": { "status": "screenshot-verified", "value": 4, "sourceIds": ["screenshot-stunt-runner-full-build"], "notes": "Observed capacity only, not a global rule." },
+  "installedPartCount": { "status": "screenshot-verified", "value": 4, "sourceIds": ["screenshot-stunt-runner-full-build"] },
+  "tags": ["observation", "stunt-runner", "skim-speeder"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Screenshot numbering is not in-game round numbering. Do not infer unlocks, currency type, rank from dot counts, stat bar values, stacking rules, or causal speed increases."
+}

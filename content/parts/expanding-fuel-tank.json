@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "expanding-fuel-tank",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Expanding Fuel Tank",
+    "sourceIds": [
+      "screenshot-stunt-runner-full-build"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "The observed variant expands the Afterburner tank by 10% each time Redlining occurs.",
+    "sourceIds": [
+      "screenshot-stunt-runner-full-build"
+    ]
+  },
+  "tags": [
+    "redlining",
+    "afterburner"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "No rank numeral is visible on the observed card; dots are not sufficient evidence."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Redlining expands Afterburner tank by 10% each time.",
+        "sourceIds": [
+          "screenshot-stunt-runner-full-build"
+        ]
+      }
+    }
+  ]
+}

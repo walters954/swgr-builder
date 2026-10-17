@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "kind": "build-observation",
+  "id": "part-rewards-8",
+  "publication": "published",
+  "name": { "status": "screenshot-verified", "value": "Choose a Part — screenshot 8", "sourceIds": ["screenshot-part-rewards"], "notes": "Editorial evidence label." },
+  "aliases": [],
+  "summary": { "status": "screenshot-verified", "value": "Four offered reward parts: Heated Fuel I, Extended Alarm I, Overcharging Afterburner, and Coolant Cycler II.", "sourceIds": ["screenshot-part-rewards"] },
+  "mode": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Mode not named on this panel." },
+  "characterId": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Portrait visible but character not named; no identity inferred." },
+  "vehicleClass": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Only an unlabeled vehicle icon is visible." },
+  "displayedSpeed": { "status": "screenshot-verified", "value": 334, "sourceIds": ["screenshot-part-rewards"], "notes": "Display value only; units and baseline unknown." },
+  "racerStyleId": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Style panel is not shown." },
+  "equippedAbilityIds": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Equipped ability names are not shown." },
+  "installedParts": { "status": "unknown", "value": null, "sourceIds": [], "notes": "A part icon is visible, but no installed part title. Reward choices are not installed selections." },
+  "offeredParts": {
+    "status": "screenshot-verified",
+    "value": [
+      { "partId": "heated-fuel", "variantId": "i" },
+      { "partId": "extended-alarm", "variantId": "i" },
+      { "partId": "overcharging-afterburner", "variantId": "observed" },
+      { "partId": "coolant-cycler", "variantId": "ii" }
+    ],
+    "sourceIds": ["screenshot-part-rewards"],
+    "notes": "No reward selection or purchase is established."
+  },
+  "abilitySlots": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Ability slots not shown." },
+  "crashAbilitySlots": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Crash Ability slot not shown." },
+  "partSlots": { "status": "screenshot-verified", "value": 4, "sourceIds": ["screenshot-part-rewards"], "notes": "Four visible part locations on the build sidebar; observed layout, not a universal limit." },
+  "installedPartCount": { "status": "screenshot-verified", "value": 1, "sourceIds": ["screenshot-part-rewards"], "notes": "One occupied part icon and three empty locations; specific installed part identity is not inferred." },
+  "tags": ["observation", "reward-choices"],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Overcharging Afterburner has no numeral in its title. Dots and card colors are preserved in the screenshot, not interpreted as verified rank or rarity. No round number established."
+}

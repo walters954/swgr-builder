@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "impact-surge",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Impact Surge",
+    "sourceIds": [
+      "screenshot-stunt-runner-efficiency-build"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Shown equipped in Ability 2, with rank II now observed; its effect is not shown.",
+    "sourceIds": [
+      "screenshot-stunt-runner-efficiency-build",
+      "screenshot-vectored-shockwave-tooltip"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Appearance on one build does not verify mode compatibility."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Appearance on one build does not verify vehicle class compatibility."
+  },
+  "variants": [
+    {
+      "id": "ii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "II",
+        "sourceIds": ["screenshot-vectored-shockwave-tooltip"]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified."
+      },
+      "description": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "The rank II label is visible, but the Impact Surge effect is not shown."
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Energy cost is not shown."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Cooldown is not shown."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Duration is not shown."
+      },
+      "tags": []
+    }
+  ]
+}
