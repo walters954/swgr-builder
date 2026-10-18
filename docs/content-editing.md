@@ -32,7 +32,7 @@ Import `readCatalog`, `queryCatalog`, or `findEntry` from `@/lib/content/catalog
 
 Runtime `readCatalog` checks JSON schemas and references only. `npm run content:check` uses those schema/reference checks without checking file existence, so public clones work without private evidence. `npm run content:check:assets` performs the same validation and then calls CLI-only `checkCatalogAssets` in `src/lib/content/asset-validation.ts` to check referenced private evidence and public display image files on disk; this requires the owner’s local evidence originals/copies. Keeping asset filesystem checks out of runtime imports avoids output tracing pulling the entire repository into the deployment; do not add a broad repository tracing include.
 
-Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Implementation is present; parent browser checks are pending.
+Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. The import/card refresh is published and verified; see [deployment.md](deployment.md) for current production checks.
 
 ## Comprehensive imports
 

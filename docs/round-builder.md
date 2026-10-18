@@ -20,7 +20,7 @@ Do not copy Overwatch's seven-round limit, income/cost model, rarity taxonomy, p
 
 The implemented UI has four routes: `/` overview with a custom teal/orange responsive sidebar, `/wiki` source-backed search with mode filters and details, `/builder` stage editing (clone/add/delete, notes, Part variants, abilities, and a separate Crash Ability), and `/builds` browser-local saved plans.
 
-Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Implementation is present; parent browser checks are pending.
+Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. The import/card refresh is published and verified; see [deployment.md](deployment.md) for current production checks.
 
 The following is the original design direction, not a checklist of completed features. Author identity, account-private visibility, public discovery, and any unimplemented guidance remain proposals.
 
@@ -39,7 +39,7 @@ The builder consumes published imported catalog records; six ambiguous vehicle-n
 
 Shared `GameCard` panels display Part-family picker choices, installed Parts, and selected abilities/Crash Ability/style with explicit variants, Roman rank labels, and highlighted existing terms. The picker pages 24 Part families; search covers all eligible records, not just the current page. Wiki uses the same cards in previews/details with Load more in increments of 36 and explicitly sourced price/unlock details. Prices are not a simulated budget or proof that random rewards will offer an item.
 
-Only nine pictograms are actual owner-upload game crops; remaining icons are illustrative Lucide fallbacks. See [game-card-artwork.md](game-card-artwork.md) for normalization and provenance. Neither card styling nor a selected loadout introduces fake game stats, legality checks, accounts, or server persistence. The parent reports 52 tests passing; final refresh checks and production publication are pending, separately from earlier production verification.
+Only nine pictograms are actual owner-upload game crops; remaining icons are illustrative Lucide fallbacks. See [game-card-artwork.md](game-card-artwork.md) for normalization and provenance. Neither card styling nor a selected loadout introduces fake game stats, legality checks, accounts, or server persistence. The refresh is published and verified with 52 tests passing; see [deployment.md](deployment.md) for current checks. Production desktop checks selected Clean Racer, Optimized Fuel III, Overtaking Surge II, and Ion Blast; changing round 2 to Optimized Fuel II preserved round 1 at III. An isolated browser imported the UI-generated two-round share and rendered three actual game icons. Mobile document width matched the 390-pixel viewport with no overflow or browser errors.
 
 ## Implemented foundation
 
@@ -88,7 +88,7 @@ Browser-local saves and self-contained hash-link copy/share are implemented as d
 - Public output must not expose email addresses, session data, private source paths, or raw screenshots/overlays.
 - Stable server-backed share routes and eventual account-owned copy/fork support. Current copy-link UI serializes a snapshot into the URL hash; later edits do not change an already copied link.
 
-The catalog, typed progression model, stage editor, browser-local saved library, and hash-link sharing are implemented. No real login, database, account sync, or server-persistent builds are implemented. Browser verification remains pending the parent’s checks.
+The catalog, typed progression model, stage editor, browser-local saved library, and hash-link sharing are implemented. No real login, database, account sync, or server-persistent builds are implemented. Production browser verification passed; see [deployment.md](deployment.md) for the current record.
 
 For visible previews, run `npm run dev` and open [Overview](http://localhost:3000/), [Wiki](http://localhost:3000/wiki), [Builder](http://localhost:3000/builder), or [My builds](http://localhost:3000/builds).
 

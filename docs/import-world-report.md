@@ -11,7 +11,7 @@ npm run content:check
 npm run content:check:assets
 ```
 
-The last command requires owner-local private evidence; the default check validates schema/references without private files. The parent reports 52 passing tests; final type/lint/build and desktop/mobile browser checks and production publication of this refresh remain pending. The 705-line worker report below is preserved verbatim as historical import evidence, including then-pending parent actions; those actions are no longer unresolved integration blockers. Reported secondary claims have not been promoted to official or screenshot verification.
+The last command requires owner-local private evidence; the default check validates schema/references without private files. The world manifest’s 128 new source entries are merged; the registry total is 543. The refresh from commit `1b7742c` is published under Dark Nimbus as deployment `dpl_ADAEXwKA949gW8JneqovjJE3HjuJ`, serving [swgr-builder.vercel.app](https://swgr-builder.vercel.app), with CLI inspect confirming Ready (exit 0). All 52 tests, type checking with `--incremental false`, full/focused lint, build, and production desktop/mobile/share/privacy/asset checks passed. See [deployment.md](deployment.md) for the current verification record. The 705-line worker report below is preserved verbatim as historical import evidence, including then-pending parent actions; those actions are no longer unresolved integration blockers. Reported secondary claims have not been promoted to official or screenshot verification.
 
 ## Original worker report (preserved)
 

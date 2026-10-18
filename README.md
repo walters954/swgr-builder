@@ -13,7 +13,7 @@ An unofficial Star Wars: Galactic Racer wiki and racer/loadout builder, with an 
 - Shared `GameCard` visuals cover wiki previews/details and builder choices/selections: teal panels, Roman rank labels, highlighted existing effect terms, and self-hosted Oxanium. Only nine pictograms are extracted game artwork; the rest are illustrative Lucide fallbacks, not game assets. See [artwork provenance](docs/game-card-artwork.md).
 - Wiki loads 36 more results at a time; the builder pages 24 Part families. Search covers all records, not just visible cards. Style choices distinguish campaign rank; wiki details expose explicitly sourced prices/unlocks.
 - A typed round progression model in `src/lib/builds/plan.ts` and tests provide complete per-round snapshots and Part diffs. See [round-builder design and reference research](docs/round-builder.md), including Stadium Builds. The model now powers the stage editor.
-- Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Earlier production browser checks covered these core flows; the comprehensive import/card refresh still awaits final parent checks and production publication.
+- Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. The visual/import refresh is published; browser checks confirmed selected game-like cards, independent per-round ranks, and a two-round share imported on production.
 - The cached `getPublicCatalog` helper filters drafts and omits private source image paths before supplying UI data.
 
 ## Local development
@@ -46,7 +46,7 @@ The initial full dependency audit reported five high-severity development-only f
 
 ## Deployment
 
-Existing deployment: [swgr-builder.vercel.app](https://swgr-builder.vercel.app), project `dark-nimbus/swgr-builder` under Dark Nimbus, connected to [walters954/swgr-builder](https://github.com/walters954/swgr-builder). Earlier Ready/HTTP/mobile results apply to that published version, not this import/card refresh. The parent reports 52 passing tests locally; final type/lint/build and desktop/mobile checks are being completed before production publication. See [deployment record](docs/deployment.md). Real login, database-backed builds, and account sync remain unimplemented.
+Live: [swgr-builder.vercel.app](https://swgr-builder.vercel.app), project `dark-nimbus/swgr-builder` under Dark Nimbus, connected to [walters954/swgr-builder](https://github.com/walters954/swgr-builder). The visual/import refresh (`1b7742c`) is deployed and Ready. Catalog/asset checks, 52 tests, TypeScript, ESLint, and production build passed with exit 0. All four routes return HTTP 200; desktop/mobile cards, independent round ranks, and production shared-plan import were browser-verified. Nine production PNGs match the local assets exactly. See the [deployment record](docs/deployment.md). Real login, database-backed builds, and account sync remain unimplemented.
 
 ## Content policy
 

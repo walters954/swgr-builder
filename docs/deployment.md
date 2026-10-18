@@ -6,12 +6,31 @@
 - Project: `swgr-builder`.
 - GitHub: https://github.com/walters954/swgr-builder (public).
 - Initial app commit: `6442198`.
-- Production deployment: `dpl_785cofZRhLxtPS8sRAu7LdHYwMSC`.
-- Deployment dashboard: https://vercel.com/dark-nimbus/swgr-builder/785cofZRhLxtPS8sRAu7LdHYwMSC
+- Visual/import implementation commit: `1b7742c`.
+- Verified visual/import deployment: `dpl_ADAEXwKA949gW8JneqovjJE3HjuJ`.
+- Deployment dashboard: https://vercel.com/dark-nimbus/swgr-builder/ADAEXwKA949gW8JneqovjJE3HjuJ
+- Build URL: https://swgr-builder-oeacl936v-dark-nimbus.vercel.app
 
-## Comprehensive import/card refresh — not yet published
+## Comprehensive import/card refresh — published and verified
 
-The local implementation now contains 543 merged sources, comprehensive reported catalog imports, shared visual cards, and nine derived owner-upload PNG pictograms. The parent reports `npm run test:content` at 52 passing tests; this documentation task did not rerun it or establish a final exit code. Final `npx tsc --noEmit`, `npm run lint -- src/app src/components src/lib scripts tests`, `npm run build`, and desktop/mobile browser checks are parent-owned before publication. Do not treat the deployment ID, Ready status, HTTP checks, or screenshots below as verification of these new data/cards. The parent will update this record after production publication.
+The refresh contains 543 merged sources, reported catalog imports, shared visual cards, and nine derived owner-upload PNG pictograms. Implementation commit `1b7742c` was pushed to `master` and deployed under Dark Nimbus.
+
+Verification (all commands exited 0):
+
+- `npm run content:check` and `npm run content:check:assets`.
+- `npm run test:content`: **52 passed**, 0 failed.
+- `npx tsc --noEmit --incremental false`.
+- `npm run lint -- src/app src/components src/lib scripts tests`; focused follow-up `npm run lint -- src/components/build-planner.tsx` after the final label adjustment.
+- `npm run build`: all four product routes prerendered.
+- `git diff --check`; all 10 VS Code schema associations resolve to valid JSON.
+- Native-crop reproduction check: all nine 128×128 RGBA assets match the extraction script, use white pictograms and transparency, and preserve 12px minimum padding. Originals were not modified.
+- `vercel --yes --prod --scope dark-nimbus`: deployed; `vercel inspect https://swgr-builder.vercel.app --scope dark-nimbus`: **Ready**.
+- Production `/`, `/wiki`, `/builder`, `/builds`: HTTP **200**; private evidence, session, and review paths absent from all four HTML responses.
+- All nine production PNGs match the local normalized assets by SHA-256.
+- Agent-browser verified desktop cards/variant selection, Clean Racer, Optimized Fuel III, Overtaking Surge II, and Ion Blast. Changing round 2 to II preserved round 1 at III.
+- An isolated production browser imported the UI-generated two-round share URL and rendered the expected selected cards. Mobile 390×844: document width 390, no horizontal overflow or browser errors observed.
+
+Early automation attempts against off-screen controls or unsupported selectors did not change the form despite command success. They were not counted as passing interactions. Retesting used fresh accessibility refs, explicit scroll-into-view, and DOM value assertions. Detailed local evidence is in the ignored `dogfood-output/built-app/visual-import-report.md`; raw screenshots remain unpublished.
 
 See [content editing/import reports](content-editing.md) and [artwork provenance](game-card-artwork.md). Login/account sync and server-persistent builds are still not implemented. Local saves and unlisted URL-fragment sharing remain unchanged.
 
