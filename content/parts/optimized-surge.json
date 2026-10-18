@@ -36,16 +36,107 @@
         ]
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; dots and card colors are not sufficient evidence."
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-ii"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "Surging is 50% more potent.",
         "sourceIds": [
           "screenshot-part-rewards-15"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 85 events.",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-ii"
+        ]
+      }
+    },
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Surging is 20% more potent.",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 55 events.",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-i"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Surging is 100% more potent.",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 109 events.",
+        "sourceIds": [
+          "gameslantern-part-optimized-surge-iii"
         ]
       }
     }

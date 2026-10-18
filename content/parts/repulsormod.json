@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "repulsormod",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Repulsormod",
+    "sourceIds": [
+      "gameslantern-part-repulsormod-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "On Perfect Landing, massively increase Speed for 5s.",
+    "sourceIds": [
+      "gameslantern-part-repulsormod-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, massively increase Speed for 5s.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-repulsormod-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, massively increase Speed for 10s.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-repulsormod-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, massively increase Speed for 15s.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 16 events.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iii"
+        ]
+      }
+    },
+    {
+      "id": "iv",
+      "rank": {
+        "status": "reported",
+        "value": "IV",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iv"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iv"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, massively increase Speed for 20s.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iv"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iv"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 40 events.",
+        "sourceIds": [
+          "gameslantern-part-repulsormod-iv"
+        ]
+      }
+    }
+  ]
+}

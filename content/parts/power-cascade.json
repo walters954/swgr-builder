@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "power-cascade",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Power Cascade",
+    "sourceIds": [
+      "gameslantern-part-power-cascade-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "On Takedown, gain Surging and Overcharged for 10s.",
+    "sourceIds": [
+      "gameslantern-part-power-cascade-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, gain Surging and Overcharged for 10s.",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-power-cascade-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 60 events.",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, gain Surging and Overcharged for 15s.",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-power-cascade-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 75 events.",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, gain Surging and Overcharged for 20s.",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-power-cascade-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 103 events.",
+        "sourceIds": [
+          "gameslantern-part-power-cascade-iii"
+        ]
+      }
+    }
+  ]
+}

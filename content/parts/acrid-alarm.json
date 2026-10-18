@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "acrid-alarm",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Acrid Alarm",
+    "sourceIds": [
+      "gameslantern-part-acrid-alarm"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: While Redlining, become Corroded.",
+    "sourceIds": [
+      "gameslantern-part-acrid-alarm"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-acrid-alarm"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Redlining, become Corroded.",
+        "sourceIds": [
+          "gameslantern-part-acrid-alarm"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-acrid-alarm"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-acrid-alarm"
+        ]
+      }
+    }
+  ]
+}

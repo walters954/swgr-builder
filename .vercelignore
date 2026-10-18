@@ -4,3 +4,5 @@ dogfood-output/**
 .env*
 coverage/**
 *.tsbuildinfo
+**/__pycache__/**
+**/*.pyc

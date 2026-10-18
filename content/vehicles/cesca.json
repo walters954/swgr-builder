@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "cesca",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Cesca",
+    "sourceIds": [
+      "world-gl-vehicles-cesca"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Cesca is a skim speeder kit from Keren Resto.",
+    "sourceIds": [
+      "world-gl-vehicles-cesca"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "skim-speeder",
+    "sourceIds": [
+      "world-gl-vehicles-cesca"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Keren Resto",
+    "sourceIds": [
+      "world-gl-vehicles-cesca"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

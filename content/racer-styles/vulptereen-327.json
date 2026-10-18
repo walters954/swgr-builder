@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "vulptereen-327",
+  "publication": "draft",
+  "name": {
+    "status": "reported",
+    "value": "Vulptereen 327",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-vulptereen-327"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Optimized Nozzles",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-vulptereen-327"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While on straights, Afterburner power and top speed are increased.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-vulptereen-327"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Draggy Control Surfaces",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-vulptereen-327"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Cornering, top speed is reduced.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-vulptereen-327"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

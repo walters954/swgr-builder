@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "moksi",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Mok'si",
+    "sourceIds": [
+      "world-gl-vehicles-moksi"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Mok'si is a skim speeder kit from Gentes Race Customs.",
+    "sourceIds": [
+      "world-gl-vehicles-moksi"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "skim-speeder",
+    "sourceIds": [
+      "world-gl-vehicles-moksi"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Gentes Race Customs",
+    "sourceIds": [
+      "world-gl-vehicles-moksi"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

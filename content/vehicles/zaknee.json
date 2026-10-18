@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "zaknee",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Zak'nee",
+    "sourceIds": [
+      "world-gl-vehicles-zaknee"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Zak'nee is a landspeeder kit from Gentes Race Customs.",
+    "sourceIds": [
+      "world-gl-vehicles-zaknee"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-zaknee"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Gentes Race Customs",
+    "sourceIds": [
+      "world-gl-vehicles-zaknee"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

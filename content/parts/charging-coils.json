@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "charging-coils",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Charging Coils",
+    "sourceIds": [
+      "gameslantern-part-charging-coils"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Perfect Start grants Overcharged for 30s.",
+    "sourceIds": [
+      "gameslantern-part-charging-coils"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-charging-coils"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Perfect Start grants Overcharged for 30s.",
+        "sourceIds": [
+          "gameslantern-part-charging-coils"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-charging-coils"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 16 events.",
+        "sourceIds": [
+          "gameslantern-part-charging-coils"
+        ]
+      }
+    }
+  ]
+}

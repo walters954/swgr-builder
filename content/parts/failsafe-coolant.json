@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "failsafe-coolant",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Failsafe Coolant",
+    "sourceIds": [
+      "gameslantern-part-failsafe-coolant"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: On System Malfunction, become Frozen.",
+    "sourceIds": [
+      "gameslantern-part-failsafe-coolant"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-failsafe-coolant"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On System Malfunction, become Frozen.",
+        "sourceIds": [
+          "gameslantern-part-failsafe-coolant"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-failsafe-coolant"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-failsafe-coolant"
+        ]
+      }
+    }
+  ]
+}

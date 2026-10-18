@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "scrap-recycler",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Scrap Recycler",
+    "sourceIds": [
+      "gameslantern-part-scrap-recycler-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "On Takedown, recharge 1 Energy.",
+    "sourceIds": [
+      "gameslantern-part-scrap-recycler-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, recharge 1 Energy.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, recharge 2 Energy.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, recharge 3 Energy.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 85 events.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iii"
+        ]
+      }
+    },
+    {
+      "id": "iv",
+      "rank": {
+        "status": "reported",
+        "value": "IV",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iv"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iv"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, recharge 4 Energy.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iv"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iv"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 115 events.",
+        "sourceIds": [
+          "gameslantern-part-scrap-recycler-iv"
+        ]
+      }
+    }
+  ]
+}

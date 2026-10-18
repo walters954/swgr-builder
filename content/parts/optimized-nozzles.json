@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "optimized-nozzles",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Optimized Nozzles",
+    "sourceIds": [
+      "gameslantern-part-optimized-nozzles"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While on straights, Afterburner power and top speed are increased.",
+    "sourceIds": [
+      "gameslantern-part-optimized-nozzles"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-optimized-nozzles"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While on straights, Afterburner power and top speed are increased.",
+        "sourceIds": [
+          "gameslantern-part-optimized-nozzles"
+        ]
+      },
+      "priceCredits": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "unlock": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      }
+    }
+  ]
+}

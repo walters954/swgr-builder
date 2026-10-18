@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "tech-expert-campaign-rank-2",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Tech Expert",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tech-expert"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A technical style for racers who want to take full advantage of Abilities.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tech-expert"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 2",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tech-expert"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Trapper",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tech-expert"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Concussion Mine Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tech-expert"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Careful",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tech-expert"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Status Scrubber Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tech-expert"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Optimized Reserves",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tech-expert"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Whenever Energy is fully depleted, gain Overcharged for 30s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tech-expert"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    }
+  ]
+}

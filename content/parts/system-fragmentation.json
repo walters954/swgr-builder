@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "system-fragmentation",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "System Fragmentation",
+    "sourceIds": [
+      "gameslantern-part-system-fragmentation"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: System Malfunction lasts 200% longer.",
+    "sourceIds": [
+      "gameslantern-part-system-fragmentation"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-system-fragmentation"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "System Malfunction lasts 200% longer.",
+        "sourceIds": [
+          "gameslantern-part-system-fragmentation"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-system-fragmentation"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-system-fragmentation"
+        ]
+      }
+    }
+  ]
+}

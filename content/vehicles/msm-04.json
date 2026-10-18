@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "msm-04",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "MSM 04",
+    "sourceIds": [
+      "world-gl-vehicles-msm-04"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "MSM 04 is a skim speeder kit from Jadrax Race Rigs.",
+    "sourceIds": [
+      "world-gl-vehicles-msm-04"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "skim-speeder",
+    "sourceIds": [
+      "world-gl-vehicles-msm-04"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Jadrax Race Rigs",
+    "sourceIds": [
+      "world-gl-vehicles-msm-04"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "concussion-mine",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Concussion Mine",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-concussion-mine"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Drop a charge that explodes on proximity and applies Concussed and System Malfunction to nearby opponents.",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-concussion-mine"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general mode compatibility established."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general vehicle-class compatibility established."
+  },
+  "variants": [
+    {
+      "id": "concussion-mine-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Drop a charge that explodes on proximity and applies Concussed and System Malfunction to nearby opponents.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-concussion-mine"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    },
+    {
+      "id": "concussion-mine-ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-concussion-mine-ii"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Drop 2 charges that explode on proximity and apply Concussed and System Malfunction to nearby opponents.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-concussion-mine-ii"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    },
+    {
+      "id": "concussion-mine-iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-concussion-mine-iii"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Drop 3 charges that explode on proximity and apply Concussed and System Malfunction to nearby opponents.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-concussion-mine-iii"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ]
+}

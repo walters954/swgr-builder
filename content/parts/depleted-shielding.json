@@ -33,19 +33,34 @@
         "status": "unknown",
         "value": null,
         "sourceIds": [],
-        "notes": "No rank numeral is visible on the observed card; dots are not sufficient evidence."
+        "notes": "Not explicitly stated on the source page."
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-depleted-shielding"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "After a full Afterburner use, become Shielded for 5s.",
         "sourceIds": [
           "screenshot-stunt-runner-full-build"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-depleted-shielding"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-depleted-shielding"
         ]
       }
     }

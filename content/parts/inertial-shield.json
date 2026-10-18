@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "inertial-shield",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Inertial Shield",
+    "sourceIds": [
+      "gameslantern-part-inertial-shield"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "When speed reaches 450, gain Shielded for 10s.",
+    "sourceIds": [
+      "gameslantern-part-inertial-shield"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-inertial-shield"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "When speed reaches 450, gain Shielded for 10s.",
+        "sourceIds": [
+          "gameslantern-part-inertial-shield"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-inertial-shield"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 20 events.",
+        "sourceIds": [
+          "gameslantern-part-inertial-shield"
+        ]
+      }
+    }
+  ]
+}

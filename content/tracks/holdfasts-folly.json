@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "holdfasts-folly",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Holdfast's Folly",
+    "sourceIds": [
+      "world-gl-tracks-holdfasts-folly"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Holdfast's Folly is a race course on Lantaana.",
+    "sourceIds": [
+      "world-gl-tracks-holdfasts-folly"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Lantaana",
+    "sourceIds": [
+      "world-gl-tracks-holdfasts-folly"
+    ]
+  },
+  "hazards": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No reviewed course-specific hazard claim; planet conditions are not propagated."
+  },
+  "availableModes": {
+    "status": "reported",
+    "value": [
+      "arcade"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-holdfasts-folly"
+    ],
+    "notes": "Arcade events are explicitly recorded; this is not an exhaustive compatibility list."
+  }
+}

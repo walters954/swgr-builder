@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "release-actuators",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Release Actuators",
+    "sourceIds": [
+      "gameslantern-part-release-actuators"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "On Takedown, ready Ramjet and reset heat.",
+    "sourceIds": [
+      "gameslantern-part-release-actuators"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-release-actuators"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, ready Ramjet and reset heat.",
+        "sourceIds": [
+          "gameslantern-part-release-actuators"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-release-actuators"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 25 events.",
+        "sourceIds": [
+          "gameslantern-part-release-actuators"
+        ]
+      }
+    }
+  ]
+}

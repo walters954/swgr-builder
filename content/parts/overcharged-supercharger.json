@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "overcharged-supercharger",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Overcharged Supercharger",
+    "sourceIds": [
+      "gameslantern-part-overcharged-supercharger"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While Overcharged, gain Surging.",
+    "sourceIds": [
+      "gameslantern-part-overcharged-supercharger"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-overcharged-supercharger"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Overcharged, gain Surging.",
+        "sourceIds": [
+          "gameslantern-part-overcharged-supercharger"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-overcharged-supercharger"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 80 events.",
+        "sourceIds": [
+          "gameslantern-part-overcharged-supercharger"
+        ]
+      }
+    }
+  ]
+}

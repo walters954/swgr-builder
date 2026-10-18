@@ -43,3 +43,7 @@ next-env.d.ts
 # Private owner uploads and local browser review artifacts
 /content/evidence/
 /dogfood-output/
+
+# Local Python importer caches
+__pycache__/
+*.py[cod]

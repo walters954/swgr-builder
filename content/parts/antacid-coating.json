@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "antacid-coating",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Antacid Coating",
+    "sourceIds": [
+      "gameslantern-part-antacid-coating"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Corroded no longer causes Choked.",
+    "sourceIds": [
+      "gameslantern-part-antacid-coating"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-antacid-coating"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-antacid-coating"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Corroded no longer causes Choked.",
+        "sourceIds": [
+          "gameslantern-part-antacid-coating"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-antacid-coating"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 103 events.",
+        "sourceIds": [
+          "gameslantern-part-antacid-coating"
+        ]
+      }
+    }
+  ]
+}

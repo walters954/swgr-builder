@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "prologue-jakku",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Prologue",
+    "sourceIds": [
+      "world-gl-tracks-prologue-jakku"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Prologue is a race course on Jakku.",
+    "sourceIds": [
+      "world-gl-tracks-prologue-jakku"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Jakku",
+    "sourceIds": [
+      "world-gl-tracks-prologue-jakku"
+    ]
+  },
+  "hazards": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No reviewed course-specific hazard claim; planet conditions are not propagated."
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Standard, Shakedown and Memory route labels are not mapped to game modes."
+  }
+}

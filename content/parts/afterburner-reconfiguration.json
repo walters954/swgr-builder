@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "afterburner-reconfiguration",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Afterburner Reconfiguration",
+    "sourceIds": [
+      "gameslantern-part-afterburner-reconfiguration"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "During System Malfunction, Afterburner is 100% more powerful.",
+    "sourceIds": [
+      "gameslantern-part-afterburner-reconfiguration"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "During System Malfunction, Afterburner is 100% more powerful.",
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 75 events.",
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration"
+        ]
+      }
+    },
+    {
+      "id": "afterburner-reconfiguration-2",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration-2"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "During System Malfunction, Afterburner is 100% more powerful.",
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration-2"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration-2"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 45 events.",
+        "sourceIds": [
+          "gameslantern-part-afterburner-reconfiguration-2"
+        ]
+      }
+    }
+  ]
+}

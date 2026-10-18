@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "napaco-d",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Napaco D",
+    "sourceIds": [
+      "world-gl-vehicles-napaco-d"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Napaco D is a landspeeder kit from Kor Sarun.",
+    "sourceIds": [
+      "world-gl-vehicles-napaco-d"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-napaco-d"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kor Sarun",
+    "sourceIds": [
+      "world-gl-vehicles-napaco-d"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

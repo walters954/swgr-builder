@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "subzero-cooling",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Subzero Cooling",
+    "sourceIds": [
+      "gameslantern-part-subzero-cooling"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While Frozen, Cooled is 100% more potent.",
+    "sourceIds": [
+      "gameslantern-part-subzero-cooling"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-subzero-cooling"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Frozen, Cooled is 100% more potent.",
+        "sourceIds": [
+          "gameslantern-part-subzero-cooling"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-subzero-cooling"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 115 events.",
+        "sourceIds": [
+          "gameslantern-part-subzero-cooling"
+        ]
+      }
+    }
+  ]
+}

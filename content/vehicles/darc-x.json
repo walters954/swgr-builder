@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "darc-x",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Darc X",
+    "sourceIds": [
+      "world-gl-vehicles-darc-x"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Darc X is a landspeeder kit from Kor Sarun.",
+    "sourceIds": [
+      "world-gl-vehicles-darc-x"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-darc-x"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kor Sarun",
+    "sourceIds": [
+      "world-gl-vehicles-darc-x"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "polished-inlets",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Polished Inlets",
+    "sourceIds": [
+      "gameslantern-part-polished-inlets"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "All Slipstreaming bonuses are retained until impact.",
+    "sourceIds": [
+      "gameslantern-part-polished-inlets"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-polished-inlets"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "All Slipstreaming bonuses are retained until impact.",
+        "sourceIds": [
+          "gameslantern-part-polished-inlets"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-polished-inlets"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 40 events.",
+        "sourceIds": [
+          "gameslantern-part-polished-inlets"
+        ]
+      }
+    }
+  ]
+}

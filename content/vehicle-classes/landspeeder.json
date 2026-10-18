@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle-class",
+  "id": "landspeeder",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Landspeeder",
+    "sourceIds": [
+      "world-gl-vehicle-classes-landspeeder"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Stable racing craft designed for drifting through turns.",
+    "sourceIds": [
+      "world-gl-vehicle-classes-landspeeder"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Class listing does not establish an exhaustive mode list."
+  },
+  "traits": []
+}

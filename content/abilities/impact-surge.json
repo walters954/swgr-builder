@@ -42,7 +42,9 @@
       "rank": {
         "status": "screenshot-verified",
         "value": "II",
-        "sourceIds": ["screenshot-vectored-shockwave-tooltip"]
+        "sourceIds": [
+          "screenshot-vectored-shockwave-tooltip"
+        ]
       },
       "rarity": {
         "status": "unknown",
@@ -51,10 +53,11 @@
         "notes": "Rarity is not verified."
       },
       "description": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "The rank II label is visible, but the Impact Surge effect is not shown."
+        "status": "reported",
+        "value": "Gain Surging for 10s. Overtakes, Takedowns , and vehicle collisions extend the duration. Takedowns recharge Energy .",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-impact-surge-ii"
+        ]
       },
       "energyCost": {
         "status": "unknown",
@@ -73,6 +76,47 @@
         "value": null,
         "sourceIds": [],
         "notes": "Duration is not shown."
+      },
+      "tags": []
+    },
+    {
+      "id": "impact-surge-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Surging for 10s. Overtakes, Takedowns , and vehicle collisions extend the duration​.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-impact-surge"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
       },
       "tags": []
     }

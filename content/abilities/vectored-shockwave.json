@@ -42,7 +42,9 @@
       "rank": {
         "status": "screenshot-verified",
         "value": "II",
-        "sourceIds": ["screenshot-stunt-runner-full-build"]
+        "sourceIds": [
+          "screenshot-stunt-runner-full-build"
+        ]
       },
       "rarity": {
         "status": "unknown",
@@ -53,7 +55,9 @@
       "description": {
         "status": "screenshot-verified",
         "value": "Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.",
-        "sourceIds": ["screenshot-vectored-shockwave-tooltip"],
+        "sourceIds": [
+          "screenshot-vectored-shockwave-tooltip"
+        ],
         "notes": "Generic tooltip shown while rank II is equipped; no evidence of rank-specific multipliers, damage, range, or cooldown."
       },
       "energyCost": {
@@ -73,6 +77,47 @@
         "value": null,
         "sourceIds": [],
         "notes": "Duration is not shown."
+      },
+      "tags": []
+    },
+    {
+      "id": "vectored-shockwave-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-vectored-shockwave"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
       },
       "tags": []
     }

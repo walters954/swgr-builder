@@ -3,13 +3,121 @@
   "kind": "ability",
   "id": "impact-shield",
   "publication": "published",
-  "name": { "status": "screenshot-verified", "value": "Impact Shield", "sourceIds": ["screenshot-survivor-build-13"] },
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Impact Shield",
+    "sourceIds": [
+      "screenshot-survivor-build-13"
+    ]
+  },
   "aliases": [],
-  "summary": { "status": "screenshot-verified", "value": "Shown equipped in Ability 1 on the Survivor build screen; its rank and effect are not shown.", "sourceIds": ["screenshot-survivor-build-13"] },
-  "compatibleModes": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Awaiting in-game evidence." },
-  "compatibleVehicleClasses": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Awaiting in-game evidence." },
-  "variants": [],
-  "tags": ["defense"],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Shown equipped in Ability 1 on the Survivor build screen; its rank and effect are not shown.",
+    "sourceIds": [
+      "screenshot-survivor-build-13"
+    ]
+  },
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Awaiting in-game evidence."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Awaiting in-game evidence."
+  },
+  "variants": [
+    {
+      "id": "impact-shield-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Shielded for 10s. Collisions trigger System Malfunction on opponents.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-impact-shield"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    },
+    {
+      "id": "impact-shield-ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-impact-shield-ii"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Shielded for 10s. Collisions extend Shielded duration and trigger System Malfunction on opponents.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-impact-shield-ii"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ],
+  "tags": [
+    "defense"
+  ],
   "image": null,
   "updatedAt": "2026-10-17",
   "gameVersion": null,

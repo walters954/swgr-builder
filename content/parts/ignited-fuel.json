@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "ignited-fuel",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ignited Fuel",
+    "sourceIds": [
+      "gameslantern-part-ignited-fuel"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Upon emptying Afterburner tank, become Burning for 20s.",
+    "sourceIds": [
+      "gameslantern-part-ignited-fuel"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-ignited-fuel"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon emptying Afterburner tank, become Burning for 20s.",
+        "sourceIds": [
+          "gameslantern-part-ignited-fuel"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-ignited-fuel"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-ignited-fuel"
+        ]
+      }
+    }
+  ]
+}

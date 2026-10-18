@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "critical-assist",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Critical Assist",
+    "sourceIds": [
+      "gameslantern-part-critical-assist"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Perfect recovery zone during Critical Malfunction is larger.",
+    "sourceIds": [
+      "gameslantern-part-critical-assist"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-critical-assist"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Perfect recovery zone during Critical Malfunction is larger.",
+        "sourceIds": [
+          "gameslantern-part-critical-assist"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-critical-assist"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 30 events.",
+        "sourceIds": [
+          "gameslantern-part-critical-assist"
+        ]
+      }
+    }
+  ]
+}

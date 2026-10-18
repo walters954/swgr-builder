@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "corrosion-shedding",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Corrosion Shedding",
+    "sourceIds": [
+      "gameslantern-part-corrosion-shedding"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Corroded clears 300% faster.",
+    "sourceIds": [
+      "gameslantern-part-corrosion-shedding"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-corrosion-shedding"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Corroded clears 300% faster.",
+        "sourceIds": [
+          "gameslantern-part-corrosion-shedding"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-corrosion-shedding"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 65 events.",
+        "sourceIds": [
+          "gameslantern-part-corrosion-shedding"
+        ]
+      }
+    }
+  ]
+}

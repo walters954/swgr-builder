@@ -59,7 +59,7 @@ test("readCatalog validates JSON and source references without accessing asset f
   t.after(() => rm(root, { recursive: true, force: true }));
   const catalog = fixture();
   await put(root, "content/sources.json", JSON.stringify(catalog.sources));
-  for (const directory of ["characters", "abilities", "vehicle-classes", "racer-styles", "parts", "build-observations"]) {
+  for (const directory of ["characters", "abilities", "vehicle-classes", "racer-styles", "parts", "build-observations", "vehicles", "tracks", "planets"]) {
     await mkdir(path.join(root, "content", directory), { recursive: true });
   }
   await put(root, "content/characters/asset-racer.json", JSON.stringify(catalog.characters[0]));

@@ -1,7 +1,10 @@
 import { readCatalog } from "./catalog";
-import type { Ability, Character, Part, RacerStyle, VehicleClassEntry, Source } from "./schema";
+import type { Vehicle, Track, Planet, Ability, Character, Part, RacerStyle, VehicleClassEntry, Source } from "./schema";
 
 export interface PublicCatalog {
+  vehicles: Vehicle[];
+  tracks: Track[];
+  planets: Planet[];
   characters: Character[];
   abilities: Ability[];
   parts: Part[];
@@ -16,6 +19,9 @@ export async function getPublicCatalog(): Promise<PublicCatalog> {
   const catalog = await readCatalog();
   const published = <T extends { publication: string }>(entries: T[]) => entries.filter((entry) => entry.publication === "published");
   return {
+    vehicles: published(catalog.vehicles),
+    tracks: published(catalog.tracks),
+    planets: published(catalog.planets),
     characters: published(catalog.characters),
     abilities: published(catalog.abilities),
     parts: published(catalog.parts),

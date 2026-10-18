@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "plug-f-mammoth",
+  "publication": "draft",
+  "name": {
+    "status": "reported",
+    "value": "Plug-F Mammoth",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-plug-f-mammoth"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Built for Battle",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-plug-f-mammoth"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Vehicle collisions result in lower received damage and higher given damage.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-plug-f-mammoth"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Old Dog, Old Tricks",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-plug-f-mammoth"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner tank refills at a reduced rate.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-plug-f-mammoth"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

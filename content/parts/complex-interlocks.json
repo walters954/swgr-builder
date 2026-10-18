@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "complex-interlocks",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Complex Interlocks",
+    "sourceIds": [
+      "gameslantern-part-complex-interlocks"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Vehicle collisions result in higher received damage.",
+    "sourceIds": [
+      "gameslantern-part-complex-interlocks"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-complex-interlocks"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Vehicle collisions result in higher received damage.",
+        "sourceIds": [
+          "gameslantern-part-complex-interlocks"
+        ]
+      },
+      "priceCredits": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "unlock": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      }
+    }
+  ]
+}

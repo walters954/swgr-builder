@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "the-pyroducts",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "The Pyroducts",
+    "sourceIds": [
+      "world-gl-tracks-the-pyroducts"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "The Pyroducts is a race course on Lantaana.",
+    "sourceIds": [
+      "world-gl-tracks-the-pyroducts"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Lantaana",
+    "sourceIds": [
+      "world-gl-tracks-the-pyroducts"
+    ]
+  },
+  "hazards": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No reviewed course-specific hazard claim; planet conditions are not propagated."
+  },
+  "availableModes": {
+    "status": "reported",
+    "value": [
+      "arcade"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-the-pyroducts"
+    ],
+    "notes": "Arcade events are explicitly recorded; this is not an exhaustive compatibility list."
+  }
+}

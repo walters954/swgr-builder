@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "ben-quadinaros",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ben Quadinaros",
+    "sourceIds": [
+      "world-gl-racers-ben-quadinaros"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Ben Quadinaros is listed as a Galactic League racer.",
+    "sourceIds": [
+      "world-gl-racers-ben-quadinaros"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "racer"
+    ],
+    "sourceIds": [
+      "world-gl-racers-ben-quadinaros"
+    ]
+  },
+  "species": {
+    "status": "reported",
+    "value": "Toong",
+    "sourceIds": [
+      "world-gl-racers-ben-quadinaros"
+    ]
+  },
+  "playableModes": {
+    "status": "reported",
+    "value": [
+      "podrace-tour"
+    ],
+    "sourceIds": [
+      "world-gl-racers-ben-quadinaros"
+    ],
+    "notes": "Explicit tour participation, not an exhaustive availability list."
+  },
+  "vehicleProfiles": [],
+  "loadouts": []
+}

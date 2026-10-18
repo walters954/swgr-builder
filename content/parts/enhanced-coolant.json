@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "enhanced-coolant",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Enhanced Coolant",
+    "sourceIds": [
+      "gameslantern-part-enhanced-coolant-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Cooled is 10% more potent.",
+    "sourceIds": [
+      "gameslantern-part-enhanced-coolant-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Cooled is 10% more potent.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 12 events.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Cooled is 30% more potent.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 12 events.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Cooled is 80% more potent.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 45 events.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iii"
+        ]
+      }
+    },
+    {
+      "id": "iv",
+      "rank": {
+        "status": "reported",
+        "value": "IV",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iv"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iv"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Cooled is 150% more potent.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iv"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iv"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 80 events.",
+        "sourceIds": [
+          "gameslantern-part-enhanced-coolant-iv"
+        ]
+      }
+    }
+  ]
+}

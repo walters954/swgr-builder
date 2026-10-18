@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "surplus-cooling",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Surplus Cooling",
+    "sourceIds": [
+      "gameslantern-part-surplus-cooling"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "At 8+ Energy, gain Cooled.",
+    "sourceIds": [
+      "gameslantern-part-surplus-cooling"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-surplus-cooling"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "At 8+ Energy, gain Cooled.",
+        "sourceIds": [
+          "gameslantern-part-surplus-cooling"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-surplus-cooling"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 70 events.",
+        "sourceIds": [
+          "gameslantern-part-surplus-cooling"
+        ]
+      }
+    }
+  ]
+}

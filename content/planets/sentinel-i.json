@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "planet",
+  "id": "sentinel-i",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Sentinel I",
+    "sourceIds": [
+      "world-gl-planets-sentinel-i"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Sentinel I is a racing destination in the Galactic League.",
+    "sourceIds": [
+      "world-gl-planets-sentinel-i"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "environment": {
+    "status": "reported",
+    "value": "Acid rivers and mineral-harvesting installations.",
+    "sourceIds": [
+      "world-gl-planets-sentinel-i"
+    ]
+  }
+}

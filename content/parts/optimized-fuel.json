@@ -36,16 +36,145 @@
         ]
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; dots and card colors are not sufficient evidence."
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iii"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "When fully fueled, Afterburner power increased by 100%.",
         "sourceIds": [
           "screenshot-part-rewards-15"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 8 events.",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iii"
+        ]
+      }
+    },
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "When fully fueled, Afterburner power increased by 25%.",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "When fully fueled, Afterburner power increased by 50%.",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-ii"
+        ]
+      }
+    },
+    {
+      "id": "iv",
+      "rank": {
+        "status": "reported",
+        "value": "IV",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iv"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iv"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "When fully fueled, Afterburner power increased by 150%.",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iv"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iv"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 60 events.",
+        "sourceIds": [
+          "gameslantern-part-optimized-fuel-iv"
         ]
       }
     }

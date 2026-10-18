@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "clean-racer",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Clean Racer",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "A racer style that starts with Overtaking Surge, recovers Energy through overtakes, and increases speed after sustained Surging.",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "tags": [
+    "surging",
+    "overtaking",
+    "energy"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No racer style rank is shown."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Overtaker",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Start with Overtaking Surge Ability installed.",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ]
+      }
+    },
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "Victory Charge",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Every 5 overtakes, recover 1 Energy.",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ]
+      }
+    },
+    {
+      "name": {
+        "status": "screenshot-verified",
+        "value": "In The Zone",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ]
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Upon Surging for 10s, speed is increased. Lost on System Malfunction or when Surging ends.",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ]
+      }
+    }
+  ]
+}

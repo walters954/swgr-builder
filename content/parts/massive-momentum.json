@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "massive-momentum",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Massive Momentum",
+    "sourceIds": [
+      "gameslantern-part-massive-momentum"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Cornering maneuverability is reduced.",
+    "sourceIds": [
+      "gameslantern-part-massive-momentum"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-massive-momentum"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Cornering maneuverability is reduced.",
+        "sourceIds": [
+          "gameslantern-part-massive-momentum"
+        ]
+      },
+      "priceCredits": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "unlock": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      }
+    }
+  ]
+}

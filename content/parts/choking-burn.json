@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "choking-burn",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Choking Burn",
+    "sourceIds": [
+      "gameslantern-part-choking-burn"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: While Burning, become Choked.",
+    "sourceIds": [
+      "gameslantern-part-choking-burn"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-choking-burn"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Burning, become Choked.",
+        "sourceIds": [
+          "gameslantern-part-choking-burn"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-choking-burn"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-choking-burn"
+        ]
+      }
+    }
+  ]
+}

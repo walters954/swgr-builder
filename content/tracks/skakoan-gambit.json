@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "skakoan-gambit",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Skakoan Gambit",
+    "sourceIds": [
+      "world-gl-tracks-skakoan-gambit"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Skakoan Gambit is a race course on Sentinel I.",
+    "sourceIds": [
+      "world-gl-tracks-skakoan-gambit"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Sentinel I",
+    "sourceIds": [
+      "world-gl-tracks-skakoan-gambit"
+    ]
+  },
+  "hazards": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No reviewed course-specific hazard claim; planet conditions are not propagated."
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Standard, Shakedown and Memory route labels are not mapped to game modes."
+  }
+}

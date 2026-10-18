@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "brawler-multiplayer-loadout-2",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Brawler",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-brawler"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "An aggressive style that rewards battling and Takedowns.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-brawler"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Firestarter",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-brawler"
+        ],
+        "notes": "Multiplayer (alternate source section 2)"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Flame Vent Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-brawler"
+        ],
+        "notes": "Multiplayer (alternate source section 2)"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Energy Hunter",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-brawler"
+        ],
+        "notes": "Multiplayer (alternate source section 2)"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Takedowns recover 1 Energy .",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-brawler"
+        ],
+        "notes": "Multiplayer (alternate source section 2)"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Combat Adrenaline",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-brawler"
+        ],
+        "notes": "Multiplayer (alternate source section 2)"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Takedowns grant Surging for 10s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-brawler"
+        ],
+        "notes": "Multiplayer (alternate source section 2)"
+      }
+    }
+  ]
+}

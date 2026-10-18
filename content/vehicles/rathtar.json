@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "rathtar",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Rathtar",
+    "sourceIds": [
+      "world-gl-vehicles-rathtar"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Rathtar is a skim speeder kit from Sriluur Customs.",
+    "sourceIds": [
+      "world-gl-vehicles-rathtar"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "skim-speeder",
+    "sourceIds": [
+      "world-gl-vehicles-rathtar"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Sriluur Customs",
+    "sourceIds": [
+      "world-gl-vehicles-rathtar"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

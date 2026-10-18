@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "unstable-plating",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Unstable Plating",
+    "sourceIds": [
+      "gameslantern-part-unstable-plating"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: On System Malfunction, become Corroded.",
+    "sourceIds": [
+      "gameslantern-part-unstable-plating"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-unstable-plating"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On System Malfunction, become Corroded.",
+        "sourceIds": [
+          "gameslantern-part-unstable-plating"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-unstable-plating"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-unstable-plating"
+        ]
+      }
+    }
+  ]
+}

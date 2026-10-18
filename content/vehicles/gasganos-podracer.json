@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "gasganos-podracer",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Gasgano's Podracer",
+    "sourceIds": [
+      "world-gl-vehicles-gasganos-podracer"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Gasgano's Podracer is a podracer kit.",
+    "sourceIds": [
+      "world-gl-vehicles-gasganos-podracer"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "podracer",
+    "sourceIds": [
+      "world-gl-vehicles-gasganos-podracer"
+    ]
+  },
+  "manufacturer": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No explicit, reviewed source for this field."
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

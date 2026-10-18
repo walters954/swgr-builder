@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "incendiary-overcharge",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Incendiary Overcharge",
+    "sourceIds": [
+      "gameslantern-part-incendiary-overcharge"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: While Overcharged, become Burning.",
+    "sourceIds": [
+      "gameslantern-part-incendiary-overcharge"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-incendiary-overcharge"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Overcharged, become Burning.",
+        "sourceIds": [
+          "gameslantern-part-incendiary-overcharge"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-incendiary-overcharge"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-incendiary-overcharge"
+        ]
+      }
+    }
+  ]
+}

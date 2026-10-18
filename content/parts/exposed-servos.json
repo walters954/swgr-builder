@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "exposed-servos",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Exposed Servos",
+    "sourceIds": [
+      "gameslantern-part-exposed-servos"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Frozen has 50% greater impairment on Cornering.",
+    "sourceIds": [
+      "gameslantern-part-exposed-servos"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-exposed-servos"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Frozen has 50% greater impairment on Cornering.",
+        "sourceIds": [
+          "gameslantern-part-exposed-servos"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-exposed-servos"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-exposed-servos"
+        ]
+      }
+    }
+  ]
+}

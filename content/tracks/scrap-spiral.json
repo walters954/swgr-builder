@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "scrap-spiral",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Scrap Spiral",
+    "sourceIds": [
+      "world-gl-tracks-scrap-spiral"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Scrap Spiral is a race course on Jakku.",
+    "sourceIds": [
+      "world-gl-tracks-scrap-spiral"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Jakku",
+    "sourceIds": [
+      "world-gl-tracks-scrap-spiral"
+    ]
+  },
+  "hazards": {
+    "status": "reported",
+    "value": [
+      "Mines on some routes"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-scrap-spiral"
+    ],
+    "notes": "Route-specific; not present on every configuration."
+  },
+  "availableModes": {
+    "status": "reported",
+    "value": [
+      "arcade"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-scrap-spiral"
+    ],
+    "notes": "Arcade events are explicitly recorded; this is not an exhaustive compatibility list."
+  }
+}

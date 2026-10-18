@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "multi-scrubber",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Multi-Scrubber",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-multi-scrubber"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Clear negative status effects. If any are cleared, recover 3 Energy .",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-multi-scrubber"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general mode compatibility established."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general vehicle-class compatibility established."
+  },
+  "variants": [
+    {
+      "id": "multi-scrubber-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Clear negative status effects. If any are cleared, recover 3 Energy .",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-multi-scrubber"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    },
+    {
+      "id": "multi-scrubber-ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-multi-scrubber-ii"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Clear negative status effects. If any are cleared, recover 4 Energy .",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-multi-scrubber-ii"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ]
+}

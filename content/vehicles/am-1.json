@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "am-1",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "AM-1",
+    "sourceIds": [
+      "world-gl-vehicles-am-1"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "AM-1 is a speeder bike kit from Kuat Special Vehicles.",
+    "sourceIds": [
+      "world-gl-vehicles-am-1"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "speeder-bike",
+    "sourceIds": [
+      "world-gl-vehicles-am-1"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kuat Special Vehicles",
+    "sourceIds": [
+      "world-gl-vehicles-am-1"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

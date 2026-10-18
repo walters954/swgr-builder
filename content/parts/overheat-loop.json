@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "overheat-loop",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Overheat Loop",
+    "sourceIds": [
+      "gameslantern-part-overheat-loop-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Redlining adds +1% Ramjet power, lost on Crash.",
+    "sourceIds": [
+      "gameslantern-part-overheat-loop-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining adds +1% Ramjet power, lost on Crash.",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 40 events.",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining adds +3% Ramjet power, lost on Crash.",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 50 events.",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining adds +5% Ramjet power, lost on Crash.",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 75 events.",
+        "sourceIds": [
+          "gameslantern-part-overheat-loop-iii"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "debris-dunes",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Debris Dunes",
+    "sourceIds": [
+      "world-gl-tracks-debris-dunes"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Debris Dunes is a race course on Jakku.",
+    "sourceIds": [
+      "world-gl-tracks-debris-dunes"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Jakku",
+    "sourceIds": [
+      "world-gl-tracks-debris-dunes"
+    ]
+  },
+  "hazards": {
+    "status": "reported",
+    "value": [
+      "Mines on some routes"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-debris-dunes"
+    ],
+    "notes": "Route-specific; not present on every configuration."
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Standard, Shakedown and Memory route labels are not mapped to game modes."
+  }
+}

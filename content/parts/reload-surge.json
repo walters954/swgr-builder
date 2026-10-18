@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "reload-surge",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Reload Surge",
+    "sourceIds": [
+      "gameslantern-part-reload-surge"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While Surging, all Abilities reload 150% faster.",
+    "sourceIds": [
+      "gameslantern-part-reload-surge"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-reload-surge"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Surging, all Abilities reload 150% faster.",
+        "sourceIds": [
+          "gameslantern-part-reload-surge"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-reload-surge"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 75 events.",
+        "sourceIds": [
+          "gameslantern-part-reload-surge"
+        ]
+      }
+    }
+  ]
+}

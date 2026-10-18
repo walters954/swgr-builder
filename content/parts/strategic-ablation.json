@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "strategic-ablation",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Strategic Ablation",
+    "sourceIds": [
+      "gameslantern-part-strategic-ablation"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "After every Crash, +8% top speed.",
+    "sourceIds": [
+      "gameslantern-part-strategic-ablation"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-strategic-ablation"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "After every Crash, +8% top speed.",
+        "sourceIds": [
+          "gameslantern-part-strategic-ablation"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-strategic-ablation"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 75 events.",
+        "sourceIds": [
+          "gameslantern-part-strategic-ablation"
+        ]
+      }
+    }
+  ]
+}

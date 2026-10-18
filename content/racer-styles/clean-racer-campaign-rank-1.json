@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "clean-racer-campaign-rank-1",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Clean Racer",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-clean-racer"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A deft style that rewards non-combative racing.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-clean-racer"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 1",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-clean-racer"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Overtaker",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-clean-racer"
+        ],
+        "notes": "Campaign rank 1"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Overtaking Surge Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-clean-racer"
+        ],
+        "notes": "Campaign rank 1"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Victory Charge",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-clean-racer"
+        ],
+        "notes": "Campaign rank 1"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Every 5 overtakes, recover 1 Energy .",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-clean-racer"
+        ],
+        "notes": "Campaign rank 1"
+      }
+    }
+  ]
+}

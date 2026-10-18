@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "goli-02-r0",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Goli & 02-R0",
+    "sourceIds": [
+      "world-gl-racers-goli-02-r0"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Goli & 02-R0 is listed as a Galactic League racer.",
+    "sourceIds": [
+      "world-gl-racers-goli-02-r0"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "racer"
+    ],
+    "sourceIds": [
+      "world-gl-racers-goli-02-r0"
+    ]
+  },
+  "species": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No unambiguous species identification reviewed; no species inferred from appearance or name."
+  },
+  "playableModes": {
+    "status": "reported",
+    "value": [
+      "multiplayer-tour"
+    ],
+    "sourceIds": [
+      "world-gl-racers-goli-02-r0"
+    ],
+    "notes": "Explicit tour participation, not an exhaustive availability list."
+  },
+  "vehicleProfiles": [],
+  "loadouts": [
+    {
+      "id": "reported-multiplayer-tour",
+      "mode": "multiplayer-tour",
+      "racerStyle": {
+        "status": "reported",
+        "value": "Clean Racer",
+        "sourceIds": [
+          "world-gl-racers-goli-02-r0"
+        ],
+        "notes": "Style heading in the multiplayer traits section."
+      },
+      "abilityIds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Ability names remain unlinked pending parent ability manifest integration."
+      },
+      "traits": []
+    }
+  ]
+}

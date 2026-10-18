@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "surging-fuel",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Surging Fuel",
+    "sourceIds": [
+      "gameslantern-part-surging-fuel"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "When entering Surging, fully refill Afterburner.",
+    "sourceIds": [
+      "gameslantern-part-surging-fuel"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-surging-fuel"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "When entering Surging, fully refill Afterburner.",
+        "sourceIds": [
+          "gameslantern-part-surging-fuel"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-surging-fuel"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 80 events.",
+        "sourceIds": [
+          "gameslantern-part-surging-fuel"
+        ]
+      }
+    }
+  ]
+}

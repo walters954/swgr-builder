@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "rar-27",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "RAR 27",
+    "sourceIds": [
+      "world-gl-vehicles-rar-27"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "RAR 27 is a speeder bike kit from Jadrax Race Rigs.",
+    "sourceIds": [
+      "world-gl-vehicles-rar-27"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "speeder-bike",
+    "sourceIds": [
+      "world-gl-vehicles-rar-27"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Jadrax Race Rigs",
+    "sourceIds": [
+      "world-gl-vehicles-rar-27"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

@@ -3,20 +3,55 @@
   "kind": "character",
   "id": "shade",
   "publication": "published",
-  "name": { "status": "official", "value": "Shade", "sourceIds": ["official-launch-2026"] },
+  "name": {
+    "status": "official",
+    "value": "Shade",
+    "sourceIds": [
+      "official-launch-2026"
+    ]
+  },
   "aliases": [],
   "summary": {
     "status": "official",
     "value": "The campaign protagonist, an up-and-coming racer seeking to unseat Galactic League champion Kestar Bool.",
-    "sourceIds": ["official-launch-2026"]
+    "sourceIds": [
+      "official-launch-2026"
+    ]
   },
-  "roles": { "status": "official", "value": ["protagonist", "racer"], "sourceIds": ["official-launch-2026"] },
-  "species": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Species has not been verified in the catalog sources." },
-  "playableModes": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Awaiting mode-specific racer screens; narrative role does not establish a complete playable-mode list." },
+  "roles": {
+    "status": "official",
+    "value": [
+      "protagonist",
+      "racer"
+    ],
+    "sourceIds": [
+      "official-launch-2026"
+    ]
+  },
+  "species": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Species has not been verified in the catalog sources."
+  },
+  "playableModes": {
+    "status": "reported",
+    "value": [
+      "multiplayer-tour"
+    ],
+    "sourceIds": [
+      "world-gl-racers-shade"
+    ],
+    "notes": "Explicit tour participation, not an exhaustive availability list."
+  },
   "loadouts": [],
-  "tags": ["campaign", "galactic-league"],
+  "tags": [
+    "campaign",
+    "galactic-league"
+  ],
   "image": null,
   "updatedAt": "2026-10-17",
   "gameVersion": null,
-  "editorialNotes": "Narrative information only. Gameplay traits and loadouts await verification."
+  "editorialNotes": "Narrative information only. Gameplay traits and loadouts await verification.",
+  "vehicleProfiles": []
 }

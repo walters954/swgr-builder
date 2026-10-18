@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "ramjet-reconfiguration",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ramjet Reconfiguration",
+    "sourceIds": [
+      "gameslantern-part-ramjet-reconfiguration"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "During System Malfunction, Ramjet is 100% more powerful.",
+    "sourceIds": [
+      "gameslantern-part-ramjet-reconfiguration"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-ramjet-reconfiguration"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "During System Malfunction, Ramjet is 100% more powerful.",
+        "sourceIds": [
+          "gameslantern-part-ramjet-reconfiguration"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-ramjet-reconfiguration"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 75 events.",
+        "sourceIds": [
+          "gameslantern-part-ramjet-reconfiguration"
+        ]
+      }
+    }
+  ]
+}

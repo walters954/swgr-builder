@@ -9,10 +9,14 @@ content/
   characters/<id>.json       Characters, mode availability, vehicle profiles, loadouts
   abilities/<id>.json        Ability summaries, compatibility, rank variants
   vehicle-classes/<id>.json  Class characteristics and observed mode availability
-  racer-styles/<id>.json     Racer Styles (Stunt Runner and Survivor)
-  parts/<id>.json            Part families with distinct variants (currently fourteen)
+  racer-styles/<id>.json     Style loadouts, separated by context/campaign rank
+  parts/<id>.json            197 Part families with 319 distinct variants
   build-observations/<id>.json Separate screenshot build/reward evidence
-  sources.json               Shared source registry
+  vehicles/<id>.json         Named vehicles (50)
+  tracks/<id>.json           Reported tracks/circuits (46)
+  planets/<id>.json          Planets (7)
+  imports/                  Textual source manifests for registry merging
+  sources.json               Shared source registry (543 sources)
   evidence/screenshots/      Owner-local screenshots, ignored by Git and Vercel
   schemas/                   Generated editor JSON schemas
   templates/                 Generated empty character/ability examples
@@ -30,6 +34,31 @@ Runtime `readCatalog` checks JSON schemas and references only. `npm run content:
 
 Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Implementation is present; parent browser checks are pending.
 
+## Comprehensive imports
+
+Current catalog: 21 characters, 29 abilities (28 published; only Flame Vent draft), 197 Part families / 319 variants, 62 style loadouts (56 published; six ambiguous vehicle-named drafts), 50 vehicles, 46 tracks, seven planets, four vehicle classes, and five evidence observations. Homepage style totals deduplicate family names rather than treating campaign ranks as new styles.
+
+Sources: [Galactic Racer Wiki](https://swgalacticracer.wiki/), [GamesLantern Parts](https://galacticracer.gameslantern.com/vehicle-parts), and discovered public detail/index pages. Every newly imported claim is `reported`, using a `secondary` source—even if the external page labels itself “Official.” These pages can expose internal/prologue variants; a catalog record is not confirmed availability or playability. Known screenshot claims, IDs, and curated context are preserved; disagreements and duplicate-page ambiguities are logged, not silently overwritten.
+
+- [Parts report](import-parts-report.md): all 318 source Part pages, including 59 Fault pages, map to 197 families / 319 variants (one preserved observed variant). Exactly 305 prices and 300 unlock descriptions have explicit page-local evidence. Missing values remain unknown; never infer price from rarity or unlocks from another rank. Wiki details expose available price/unlock claims.
+- [Loadouts report](import-loadouts-report.md): 75 fetched/reused pages, including 45 ability and 20 style detail pages; multiplayer sections and campaign ranks remain distinct. Six vehicle-named ambiguous records stay draft, not invented Racer Styles.
+- [World report](import-world-report.md): 155 fetched/cached pages; 21 characters, 50 named vehicles, 46 tracks, seven planets, four classes. Source names and partial participation context do not establish universal compatibility.
+
+Repeatable helpers are `scripts/import-gameslantern-parts.py`, `scripts/import-gameslantern-loadouts.py`, and `scripts/import-world.py`; consult their reports/help before rerunning. Textual manifests under `content/imports/` retain per-page sources. Raw HTML/cache evidence stays ignored under `content/evidence/`; do not publish it. The parent merged the manifests with:
+
+```bash
+npx tsx scripts/merge-content-sources.ts
+npm run content:check
+```
+
+The registry now has 543 sources. The merge retains existing source records, rejects conflicting identities, and adds missing IDs; it does not validate the truth of imported claims. World kinds are included in runtime loading, CLI counts/asset enumeration, and generated editor schemas. Source 17 is byte-identical to already imported owner upload 16, not independent evidence or a reason to duplicate claims.
+
+## Visual cards
+
+`GameCard` is reused for wiki previews/details and builder Part pickers, installed Parts, and selected abilities/style. Wiki Load more increments by 36; builder Part-family pages contain 24 families. Search runs over the full catalog, not just visible results. Campaign rank labels distinguish style choices. Formatting highlights existing effect terms without rewriting them or generating fake stats.
+
+Only nine PNG pictograms under `public/game-icons/` are actual extracted game artwork; remaining Lucide illustrations are not game assets. [game-card-artwork.md](game-card-artwork.md) records IDs, native crop coordinates, normalization, and safe regeneration. Oxanium is self-hosted by `next/font`; font downloads may still be needed at build time. Full screenshots, overlays, and third-party web artwork are not published.
+
 ## Add or edit a record
 
 ```bash
@@ -37,7 +66,7 @@ npm run content:new -- character new-racer
 npm run content:new -- ability new-ability
 ```
 
-The `content:new` CLI still supports only `character` and `ability`; it does not automate copying every catalog type. The command creates a draft with unknown facts instead of placeholder statistics. It fails rather than replacing an existing file. Edit the resulting JSON; the filename must match `id`. Vehicle class entries can be copied from `content/vehicle-classes/skim-speeder.json` and changed to another known class ID (`landspeeder`, `speeder-bike`, `skim-speeder`, `podracer`). For Racer Styles, Parts, or build observations, use an existing JSON record in the corresponding directory as a structural example, assign a new stable ID, and validate the result. There is no full-copy automation. Remove all copied facts and evidence that do not apply.
+The `content:new` CLI still supports only `character` and `ability`; it does not automate copying every catalog type. The command creates a draft with unknown facts instead of placeholder statistics. It fails rather than replacing an existing file. Edit the resulting JSON; the filename must match `id`. Vehicle class entries can be copied from `content/vehicle-classes/skim-speeder.json` and changed to another known class ID (`landspeeder`, `speeder-bike`, `skim-speeder`, `podracer`). For Racer Styles, Parts, world entities, or build observations, use an existing JSON record in the corresponding directory as a structural example, assign a new stable ID, and validate the result. There is no full-copy automation. Remove all copied facts and evidence that do not apply.
 
 IDs are lowercase kebab-case and should remain stable once builds reference them. Changing a display name should not require changing the ID. Add spelling alternatives to `aliases` where supported by evidence.
 
@@ -68,7 +97,7 @@ Verification belongs to each claim, not the entire record. `official` needs an o
 
 For a new screenshot, add a source in `content/sources.json` with `kind: "screenshot"`, a local path under `content/evidence/screenshots/`, `accessedAt`, and `capturedAt`, `platform`, `gameVersion`, and `language` (use null when unknown). The corresponding evidence file must be retained in the owner-local evidence set; `content:check:assets` checks its existence, while the default `content:check` allows it to be absent from public clones. Capture date and access date are different; uploading today does not prove the screenshot was captured today.
 
-Fourteen screenshot sources are registered; evidence copies and derived crops are for private inspection, with processing details recorded per source. Original uploads remain owner-local/in the original external session. Raw evidence and crops under `content/evidence/`, plus browser-review artifacts under `dogfood-output/`, are excluded by both `.gitignore` and `.vercelignore`; no screenshots are committed. The public repository contains typed textual data and source references, not the private image files. Evidence copies are not website images. `image` stays null unless an approved public asset is added separately under `public/images/`, with provenance, alt text, and permission status.
+The screenshot inventory below records the earlier evidence batches; later owner uploads and import sources are recorded in the source registry/reports, not counted by that table; evidence copies and derived crops are for private inspection, with processing details recorded per source. Original uploads remain owner-local/in the original external session. Raw evidence and crops under `content/evidence/`, plus browser-review artifacts under `dogfood-output/`, are excluded by both `.gitignore` and `.vercelignore`; no screenshots are committed. The public repository contains typed textual data, source references, and the nine isolated public pictograms, not the private evidence files. Evidence copies are not website images. `image` stays null unless an approved display asset is added with provenance, alt text, and permission status; the separate pictogram map is documented in [game-card-artwork.md](game-card-artwork.md), not a blanket approval for screenshot reuse.
 
 ## Modes and kinds of traits
 
@@ -94,7 +123,7 @@ npx tsc --noEmit
 npm run lint -- src/lib/content scripts tests
 ```
 
-Schema and reference checks support Racer Styles, Part families/variants, and build observations, including installed versus offered Parts and ability variant references. Validation catches schema errors, unrecognized fields, duplicate IDs, mismatched filenames, missing or mismatched sources, broken ability references, duplicate child IDs, and unapproved published image metadata. The default `npm run content:check` does not check whether referenced files exist. For that additional check, use:
+Schema and reference checks support Racer Styles, Part families/variants, world entities, and build observations, including installed versus offered Parts and ability variant references. Validation catches schema errors, unrecognized fields, duplicate IDs, mismatched filenames, missing or mismatched sources, broken ability references, duplicate child IDs, and unapproved published image metadata. The default `npm run content:check` does not check whether referenced files exist. For that additional check, use:
 
 ```bash
 npm run content:check:assets
@@ -131,7 +160,7 @@ Editor JSON schemas have been regenerated for the expanded catalog. VS Code asso
 
 Screenshot 11 confirms Vectored Shockwave II and Impact Surge II from a native-resolution crop. The Vectored Shockwave tooltip reads exactly: “Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.” This establishes its generic description, not a numerical rank-II difference. Impact Surge II’s effect remains unknown. The general Ability tooltip describes offensive, defensive, or utility equippable technology that consumes Energy; it gives no numeric Energy cost. Parts are partially obscured: `installedParts` remains unknown despite the observed 4/4 count, with no inventory carried over from screenshot 10.
 
-Screenshots 7–11 are separate evidence snapshots, not confirmed consecutive rounds; do not attach them to Griff Halloran or infer a mode or character. Screenshot 10 shows Afterburner Efficiency IV instead of Cooling Dampers II and Impact Surge instead of Surge, not proof of a transaction or a speed formula. Heated Fuel I (25%) and II (50%) are preserved separately; unlabeled dots do not establish rarity. More card screenshots are still needed, but the catalog is no longer awaiting all card evidence: Vectored Shockwave, Surge, Impact Surge, Stunt Runner, and fourteen Part families are recorded. Flame Vent is the only remaining ability draft; Impact Shield is now published.
+Screenshots 7–11 are separate evidence snapshots, not confirmed consecutive rounds; do not attach them to Griff Halloran or infer a mode or character. Screenshot 10 shows Afterburner Efficiency IV instead of Cooling Dampers II and Impact Surge instead of Surge, not proof of a transaction or a speed formula. Heated Fuel I (25%) and II (50%) are preserved separately; unlabeled dots do not establish rarity. More card screenshots are still needed, but the catalog is no longer awaiting all card evidence: Vectored Shockwave, Surge, Impact Surge, Stunt Runner, and the earlier screenshot-derived Part families are recorded; the comprehensive reported import now totals 197 families. Flame Vent is the only remaining ability draft; Impact Shield is now published.
 
 The typed progression model and tests are separate from these observations; see [round-builder.md](round-builder.md) for complete round snapshots, Stadium Builds reference research, and limitations. The round editor, browser-local saves, and hash-link sharing are implemented; real login and server persistence are not.
 

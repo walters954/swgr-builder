@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "glitched-fuel",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Glitched Fuel",
+    "sourceIds": [
+      "gameslantern-part-glitched-fuel"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Upon emptying Afterburner tank, System Malfunction for 20s.",
+    "sourceIds": [
+      "gameslantern-part-glitched-fuel"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-glitched-fuel"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon emptying Afterburner tank, System Malfunction for 20s.",
+        "sourceIds": [
+          "gameslantern-part-glitched-fuel"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-glitched-fuel"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-glitched-fuel"
+        ]
+      }
+    }
+  ]
+}

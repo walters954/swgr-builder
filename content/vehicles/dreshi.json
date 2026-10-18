@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "dreshi",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Dre'shi",
+    "sourceIds": [
+      "world-gl-vehicles-dreshi"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Dre'shi is a landspeeder kit from Gentes Race Customs.",
+    "sourceIds": [
+      "world-gl-vehicles-dreshi"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-dreshi"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Gentes Race Customs",
+    "sourceIds": [
+      "world-gl-vehicles-dreshi"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

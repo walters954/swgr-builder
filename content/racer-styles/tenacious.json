@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "tenacious",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Tenacious",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tenacious"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A steadfast style that improves performance in risky situations.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tenacious"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Calculated",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Autopilot Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Keep Your Cool",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While in ninth position or lower, gain Cooled .",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Bounce Back",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon resetting from a Crash , gain Surging for 15s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

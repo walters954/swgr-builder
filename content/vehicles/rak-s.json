@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "rak-s",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Rak S",
+    "sourceIds": [
+      "world-gl-vehicles-rak-s"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Rak S is a skim speeder kit from Kor Sarun.",
+    "sourceIds": [
+      "world-gl-vehicles-rak-s"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "skim-speeder",
+    "sourceIds": [
+      "world-gl-vehicles-rak-s"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kor Sarun",
+    "sourceIds": [
+      "world-gl-vehicles-rak-s"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

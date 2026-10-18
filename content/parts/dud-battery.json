@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "dud-battery",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Dud Battery",
+    "sourceIds": [
+      "gameslantern-part-dud-battery"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: -2 total Energy.",
+    "sourceIds": [
+      "gameslantern-part-dud-battery"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-dud-battery"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "-2 total Energy.",
+        "sourceIds": [
+          "gameslantern-part-dud-battery"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-dud-battery"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-dud-battery"
+        ]
+      }
+    }
+  ]
+}

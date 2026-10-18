@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "dud-bolts-podracer-aged",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Dud Bolt's Podracer (Aged)",
+    "sourceIds": [
+      "world-gl-vehicles-dud-bolts-podracer-aged"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Dud Bolt's Podracer (Aged) is a podracer kit.",
+    "sourceIds": [
+      "world-gl-vehicles-dud-bolts-podracer-aged"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "podracer",
+    "sourceIds": [
+      "world-gl-vehicles-dud-bolts-podracer-aged"
+    ]
+  },
+  "manufacturer": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No explicit, reviewed source for this field."
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

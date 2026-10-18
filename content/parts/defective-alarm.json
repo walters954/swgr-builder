@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "defective-alarm",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Defective Alarm",
+    "sourceIds": [
+      "gameslantern-part-defective-alarm"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Redlining duration is significantly shorter.",
+    "sourceIds": [
+      "gameslantern-part-defective-alarm"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-defective-alarm"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining duration is significantly shorter.",
+        "sourceIds": [
+          "gameslantern-part-defective-alarm"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-defective-alarm"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-defective-alarm"
+        ]
+      }
+    }
+  ]
+}

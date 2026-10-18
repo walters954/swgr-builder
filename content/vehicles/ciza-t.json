@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "ciza-t",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ciza T",
+    "sourceIds": [
+      "world-gl-vehicles-ciza-t"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Ciza T is a speeder bike kit from Kor Sarun.",
+    "sourceIds": [
+      "world-gl-vehicles-ciza-t"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "speeder-bike",
+    "sourceIds": [
+      "world-gl-vehicles-ciza-t"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kor Sarun",
+    "sourceIds": [
+      "world-gl-vehicles-ciza-t"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

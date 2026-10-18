@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "surging-shield",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Surging Shield",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-surging-shield"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Gain Shielded for 10s. Impacts grant Surging for 5s.",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-surging-shield"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general mode compatibility established."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general vehicle-class compatibility established."
+  },
+  "variants": [
+    {
+      "id": "surging-shield-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Shielded for 10s. Impacts grant Surging for 5s.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-surging-shield"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    },
+    {
+      "id": "surging-shield-ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-surging-shield-ii"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Shielded , retained until it is broken. Impacts grant Surging for 5s.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-surging-shield-ii"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ]
+}

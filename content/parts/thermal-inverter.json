@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "thermal-inverter",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Thermal Inverter",
+    "sourceIds": [
+      "gameslantern-part-thermal-inverter"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While Burning, gain Overcharged.",
+    "sourceIds": [
+      "gameslantern-part-thermal-inverter"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-thermal-inverter"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Burning, gain Overcharged.",
+        "sourceIds": [
+          "gameslantern-part-thermal-inverter"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-thermal-inverter"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 85 events.",
+        "sourceIds": [
+          "gameslantern-part-thermal-inverter"
+        ]
+      }
+    }
+  ]
+}

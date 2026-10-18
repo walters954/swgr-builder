@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "autopilot",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Autopilot",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-autopilot"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Vehicle flies automatically for 10s. Ramjet heating reduced while active.",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-autopilot"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general mode compatibility established."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general vehicle-class compatibility established."
+  },
+  "variants": [
+    {
+      "id": "autopilot-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Vehicle flies automatically for 10s. Ramjet heating reduced while active.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-autopilot"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ]
+}

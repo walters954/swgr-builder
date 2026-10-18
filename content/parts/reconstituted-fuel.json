@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "reconstituted-fuel",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Reconstituted Fuel",
+    "sourceIds": [
+      "gameslantern-part-reconstituted-fuel-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "On Perfect Landing, refill Afterburner fuel by 50%.",
+    "sourceIds": [
+      "gameslantern-part-reconstituted-fuel-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, refill Afterburner fuel by 50%.",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 50 events.",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, fully refill Afterburner fuel.",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 60 events.",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On landing, fully refill Afterburner fuel.",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 91 events.",
+        "sourceIds": [
+          "gameslantern-part-reconstituted-fuel-iii"
+        ]
+      }
+    }
+  ]
+}

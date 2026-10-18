@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "redline-purge",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Redline Purge",
+    "sourceIds": [
+      "gameslantern-part-redline-purge"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Releasing Ramjet while Redlining readies it but increases heat gain.",
+    "sourceIds": [
+      "gameslantern-part-redline-purge"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-redline-purge"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Releasing Ramjet while Redlining readies it but increases heat gain.",
+        "sourceIds": [
+          "gameslantern-part-redline-purge"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-redline-purge"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 91 events.",
+        "sourceIds": [
+          "gameslantern-part-redline-purge"
+        ]
+      }
+    }
+  ]
+}

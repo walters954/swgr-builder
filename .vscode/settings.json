@@ -6,6 +6,9 @@
     { "fileMatch": ["/content/racer-styles/*.json"], "url": "./content/schemas/racer-style.schema.json" },
     { "fileMatch": ["/content/parts/*.json"], "url": "./content/schemas/part.schema.json" },
     { "fileMatch": ["/content/build-observations/*.json"], "url": "./content/schemas/build-observation.schema.json" },
+    { "fileMatch": ["/content/vehicles/*.json"], "url": "./content/schemas/vehicle.schema.json" },
+    { "fileMatch": ["/content/tracks/*.json"], "url": "./content/schemas/track.schema.json" },
+    { "fileMatch": ["/content/planets/*.json"], "url": "./content/schemas/planet.schema.json" },
     { "fileMatch": ["/content/sources.json"], "url": "./content/schemas/sources.schema.json" }
   ]
 }

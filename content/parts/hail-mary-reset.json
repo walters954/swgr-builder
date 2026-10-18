@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "hail-mary-reset",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Hail-Mary Reset",
+    "sourceIds": [
+      "gameslantern-part-hail-mary-reset-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "60% chance Ramjet resets and strengthens rather than explodes.",
+    "sourceIds": [
+      "gameslantern-part-hail-mary-reset-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "60% chance Ramjet resets and strengthens rather than explodes.",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 65 events.",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "75% chance Ramjet resets and strengthens rather than explodes.",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 85 events.",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "90% chance Ramjet resets and strengthens rather than explodes.",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 109 events.",
+        "sourceIds": [
+          "gameslantern-part-hail-mary-reset-iii"
+        ]
+      }
+    }
+  ]
+}

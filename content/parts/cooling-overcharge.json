@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "cooling-overcharge",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Cooling Overcharge",
+    "sourceIds": [
+      "gameslantern-part-cooling-overcharge"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While Cooled, gain Overcharged.",
+    "sourceIds": [
+      "gameslantern-part-cooling-overcharge"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-cooling-overcharge"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Cooled, gain Overcharged.",
+        "sourceIds": [
+          "gameslantern-part-cooling-overcharge"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-cooling-overcharge"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 65 events.",
+        "sourceIds": [
+          "gameslantern-part-cooling-overcharge"
+        ]
+      }
+    }
+  ]
+}

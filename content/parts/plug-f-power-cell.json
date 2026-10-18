@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "plug-f-power-cell",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Plug-F Power Cell",
+    "sourceIds": [
+      "gameslantern-part-plug-f-power-cell"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "+13 Energy",
+    "sourceIds": [
+      "gameslantern-part-plug-f-power-cell"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Experimental",
+        "sourceIds": [
+          "gameslantern-part-plug-f-power-cell"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "+13 Energy",
+        "sourceIds": [
+          "gameslantern-part-plug-f-power-cell"
+        ]
+      },
+      "priceCredits": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "unlock": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      }
+    }
+  ]
+}

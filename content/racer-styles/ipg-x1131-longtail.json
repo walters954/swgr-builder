@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "ipg-x1131-longtail",
+  "publication": "draft",
+  "name": {
+    "status": "reported",
+    "value": "IPG-X1131 LongTail",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-ipg-x1131-longtail"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Bleeding-Edge Tech",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ipg-x1131-longtail"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner power is increased and Cornering maneuverability improved.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ipg-x1131-longtail"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Small Thrusters",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ipg-x1131-longtail"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Maximum top speed is reduced.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ipg-x1131-longtail"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "frosted-injectors",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Frosted Injectors",
+    "sourceIds": [
+      "gameslantern-part-frosted-injectors"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: While using Afterburner, gradually become Frozen.",
+    "sourceIds": [
+      "gameslantern-part-frosted-injectors"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-frosted-injectors"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While using Afterburner, gradually become Frozen.",
+        "sourceIds": [
+          "gameslantern-part-frosted-injectors"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-frosted-injectors"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-frosted-injectors"
+        ]
+      }
+    }
+  ]
+}

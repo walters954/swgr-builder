@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "shades-podracer",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Shade's Podracer",
+    "sourceIds": [
+      "world-gl-vehicles-shades-podracer"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Shade's Podracer is a podracer kit from Jadrax Race Rigs.",
+    "sourceIds": [
+      "world-gl-vehicles-shades-podracer"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "podracer",
+    "sourceIds": [
+      "world-gl-vehicles-shades-podracer"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Jadrax Race Rigs",
+    "sourceIds": [
+      "world-gl-vehicles-shades-podracer"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

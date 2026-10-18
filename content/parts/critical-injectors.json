@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "critical-injectors",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Critical Injectors",
+    "sourceIds": [
+      "gameslantern-part-critical-injectors-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Perfect recovery from Critical Malfunction considerably increases Speed.",
+    "sourceIds": [
+      "gameslantern-part-critical-injectors-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Perfect recovery from Critical Malfunction considerably increases Speed.",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 60 events.",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Perfect recovery from Critical Malfunction greatly increases Speed.",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 85 events.",
+        "sourceIds": [
+          "gameslantern-part-critical-injectors-ii"
+        ]
+      }
+    }
+  ]
+}

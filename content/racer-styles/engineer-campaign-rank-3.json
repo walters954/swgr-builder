@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "engineer-campaign-rank-3",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Engineer",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-engineer"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A strategic style that benefits from clearing negative status effects.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-engineer"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 3",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-engineer"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Careful",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Status Scrubber Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "What Doesn’t Kill You",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "When System Malfunction clears, gain Surging for 10s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Accelerated Recovery",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Recover more quickly from System Malfunction . Critical Malfunction is easier to clear.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Good As New",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "When System Malfunction clears, reset Ramjet heat, fully refill Afterburner tank, and clear all negative status effects.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-engineer"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    }
+  ]
+}

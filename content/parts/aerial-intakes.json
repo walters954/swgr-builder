@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "aerial-intakes",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Aerial Intakes",
+    "sourceIds": [
+      "gameslantern-part-aerial-intakes"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While airborne, Ramjet generates no heat.",
+    "sourceIds": [
+      "gameslantern-part-aerial-intakes"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-aerial-intakes"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While airborne, Ramjet generates no heat.",
+        "sourceIds": [
+          "gameslantern-part-aerial-intakes"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-aerial-intakes"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-aerial-intakes"
+        ]
+      }
+    }
+  ]
+}

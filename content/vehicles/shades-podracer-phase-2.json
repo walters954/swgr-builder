@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "shades-podracer-phase-2",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Shade's Podracer (Phase 2)",
+    "sourceIds": [
+      "world-gl-vehicles-shades-podracer-phase-2"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Shade's Podracer (Phase 2) is a podracer kit.",
+    "sourceIds": [
+      "world-gl-vehicles-shades-podracer-phase-2"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "podracer",
+    "sourceIds": [
+      "world-gl-vehicles-shades-podracer-phase-2"
+    ]
+  },
+  "manufacturer": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No explicit, reviewed source for this field."
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

@@ -37,16 +37,107 @@
         ]
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-ii"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "After a full Afterburner use, gain Cooled for 10s.",
         "sourceIds": [
           "screenshot-part-rewards"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 25 events.",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-ii"
+        ]
+      }
+    },
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "After a full Afterburner use, gain Cooled for 5s.",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 4 events.",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-i"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "After a full Afterburner use, gain Cooled for 15s.",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 70 events.",
+        "sourceIds": [
+          "gameslantern-part-coolant-cycler-iii"
         ]
       }
     }

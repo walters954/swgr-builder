@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "tenacious-campaign-rank-2",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Tenacious",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tenacious"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A steadfast style that improves performance in risky situations.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tenacious"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 2",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-tenacious"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Calculated",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Autopilot Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "One More Chance",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Allowed 1 extra Crash .",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Bounce Back",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon resetting from a Crash , gain Surging for 15s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-tenacious"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    }
+  ]
+}

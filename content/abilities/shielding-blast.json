@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "shielding-blast",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Shielding Blast",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-shielding-blast"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Crash Ability . Emit a blast that applies Disrupted to nearby opponents. Upon reset, gain Shielded for 10s and moderately increased Speed for each affected opponent.",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-shielding-blast"
+    ]
+  },
+  "tags": [
+    "crash-ability"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general mode compatibility established."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general vehicle-class compatibility established."
+  },
+  "variants": [
+    {
+      "id": "shielding-blast-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Crash Ability . Emit a blast that applies Disrupted to nearby opponents. Upon reset, gain Shielded for 10s and moderately increased Speed for each affected opponent.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-shielding-blast"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": [
+        "crash-ability"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "firebug",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Firebug",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-firebug"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A potent style built for bursts of extreme speed with a short but powerful Ramjet.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-firebug"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Firestarter",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Flame Vent Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Heat Recycler",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Burning , Afterburner and Ramjet are significantly more powerful.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Afterfire",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon engaging Ramjet , gain Burning for 5s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

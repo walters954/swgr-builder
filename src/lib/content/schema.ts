@@ -133,6 +133,28 @@ export const vehicleClassEntrySchema = z.strictObject({
   traits: z.array(traitSchema),
 });
 
+export const vehicleSchema = z.strictObject({
+  ...base,
+  kind: z.literal("vehicle"),
+  vehicleClass: claimSchema(vehicleClassSchema),
+  manufacturer: claimSchema(text),
+  availableModes: claimSchema(z.array(mode)),
+});
+
+export const trackSchema = z.strictObject({
+  ...base,
+  kind: z.literal("track"),
+  planet: claimSchema(text),
+  hazards: claimSchema(z.array(text)),
+  availableModes: claimSchema(z.array(mode)),
+});
+
+export const planetSchema = z.strictObject({
+  ...base,
+  kind: z.literal("planet"),
+  environment: claimSchema(text),
+});
+
 export const racerStyleSchema = z.strictObject({
   ...base,
   kind: z.literal("racer-style"),
@@ -148,6 +170,8 @@ export const partSchema = z.strictObject({
     rank: claimSchema(text),
     rarity: claimSchema(text),
     description: claimSchema(text),
+    priceCredits: claimSchema(z.number().int().nonnegative()).optional(),
+    unlock: claimSchema(text).optional(),
   })),
 });
 
@@ -180,7 +204,10 @@ export type VehicleClassEntry = z.infer<typeof vehicleClassEntrySchema>;
 export type Character = z.infer<typeof characterSchema>;
 export type Ability = z.infer<typeof abilitySchema>;
 export type Source = z.infer<typeof sourceSchema>;
-export type Entry = Character | Ability | VehicleClassEntry | RacerStyle | Part | BuildObservation;
+export type Vehicle = z.infer<typeof vehicleSchema>;
+export type Track = z.infer<typeof trackSchema>;
+export type Planet = z.infer<typeof planetSchema>;
+export type Entry = Vehicle | Track | Planet | Character | Ability | VehicleClassEntry | RacerStyle | Part | BuildObservation;
 export type Claim<T> =
   | { status: "official" | "reported" | "screenshot-verified"; value: T; sourceIds: string[]; notes?: string }
   | { status: "unknown"; value: null; sourceIds: string[]; notes: string };

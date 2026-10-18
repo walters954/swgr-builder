@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "anti-surge-device",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Anti-Surge Device",
+    "sourceIds": [
+      "gameslantern-part-anti-surge-device"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Surging is blocked.",
+    "sourceIds": [
+      "gameslantern-part-anti-surge-device"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-anti-surge-device"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Surging is blocked.",
+        "sourceIds": [
+          "gameslantern-part-anti-surge-device"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-anti-surge-device"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-anti-surge-device"
+        ]
+      }
+    }
+  ]
+}

@@ -33,19 +33,34 @@
         "status": "unknown",
         "value": null,
         "sourceIds": [],
-        "notes": "No rank numeral is visible on the observed card."
+        "notes": "Not explicitly stated on the source page."
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-overcharging-afterburner"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "While Overcharged, Afterburner fuel refills 200% faster.",
         "sourceIds": [
           "screenshot-part-rewards"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-overcharging-afterburner"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-overcharging-afterburner"
         ]
       }
     }

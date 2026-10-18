@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "status-scrubber",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Status Scrubber",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Shown equipped in Ability 2; its rank and effect are not shown.",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "A single build does not establish general mode compatibility."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "A single build does not establish general vehicle class compatibility."
+  },
+  "variants": [
+    {
+      "id": "status-scrubber-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Clear negative status effects. If any are cleared, recover 1 Energy .",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-status-scrubber"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ]
+}

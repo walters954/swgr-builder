@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "pyrophoric-surfaces",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Pyrophoric Surfaces",
+    "sourceIds": [
+      "gameslantern-part-pyrophoric-surfaces"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: While Slipstreaming, gradually become Burning.",
+    "sourceIds": [
+      "gameslantern-part-pyrophoric-surfaces"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-pyrophoric-surfaces"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Slipstreaming, gradually become Burning.",
+        "sourceIds": [
+          "gameslantern-part-pyrophoric-surfaces"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-pyrophoric-surfaces"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-pyrophoric-surfaces"
+        ]
+      }
+    }
+  ]
+}

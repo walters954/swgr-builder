@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "residual-afterburner",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Residual Afterburner",
+    "sourceIds": [
+      "gameslantern-part-residual-afterburner"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Ramjet no longer slows Afterburner refill rate.",
+    "sourceIds": [
+      "gameslantern-part-residual-afterburner"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-residual-afterburner"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Ramjet no longer slows Afterburner refill rate.",
+        "sourceIds": [
+          "gameslantern-part-residual-afterburner"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-residual-afterburner"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-residual-afterburner"
+        ]
+      }
+    }
+  ]
+}

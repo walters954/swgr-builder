@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "freeze-shedding",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Freeze Shedding",
+    "sourceIds": [
+      "gameslantern-part-freeze-shedding"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Frozen clears 200% faster.",
+    "sourceIds": [
+      "gameslantern-part-freeze-shedding"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-freeze-shedding"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Frozen clears 200% faster.",
+        "sourceIds": [
+          "gameslantern-part-freeze-shedding"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-freeze-shedding"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 70 events.",
+        "sourceIds": [
+          "gameslantern-part-freeze-shedding"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "recovery-surge",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Recovery Surge",
+    "sourceIds": [
+      "gameslantern-part-recovery-surge"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "After a Crash, gain Surging for 30s.",
+    "sourceIds": [
+      "gameslantern-part-recovery-surge"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-recovery-surge"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "After a Crash, gain Surging for 30s.",
+        "sourceIds": [
+          "gameslantern-part-recovery-surge"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-recovery-surge"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 103 events.",
+        "sourceIds": [
+          "gameslantern-part-recovery-surge"
+        ]
+      }
+    }
+  ]
+}

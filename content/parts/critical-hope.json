@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "critical-hope",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Critical Hope",
+    "sourceIds": [
+      "gameslantern-part-critical-hope"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While 1 Crash remains, gain Surging, Shielded and Cooled.",
+    "sourceIds": [
+      "gameslantern-part-critical-hope"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-critical-hope"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While 1 Crash remains, gain Surging, Shielded and Cooled.",
+        "sourceIds": [
+          "gameslantern-part-critical-hope"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-critical-hope"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 115 events.",
+        "sourceIds": [
+          "gameslantern-part-critical-hope"
+        ]
+      }
+    }
+  ]
+}

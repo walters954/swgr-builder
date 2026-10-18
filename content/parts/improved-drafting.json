@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "improved-drafting",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Improved Drafting",
+    "sourceIds": [
+      "gameslantern-part-improved-drafting"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Slipstreaming speed bonus increased by 100%.",
+    "sourceIds": [
+      "gameslantern-part-improved-drafting"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-improved-drafting"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Slipstreaming speed bonus increased by 100%.",
+        "sourceIds": [
+          "gameslantern-part-improved-drafting"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-improved-drafting"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-improved-drafting"
+        ]
+      }
+    }
+  ]
+}

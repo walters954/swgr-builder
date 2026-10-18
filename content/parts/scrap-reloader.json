@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "scrap-reloader",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Scrap Reloader",
+    "sourceIds": [
+      "gameslantern-part-scrap-reloader"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "On Takedown, instantly reload all Abilities.",
+    "sourceIds": [
+      "gameslantern-part-scrap-reloader"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-scrap-reloader"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Takedown, instantly reload all Abilities.",
+        "sourceIds": [
+          "gameslantern-part-scrap-reloader"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-scrap-reloader"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 30 events.",
+        "sourceIds": [
+          "gameslantern-part-scrap-reloader"
+        ]
+      }
+    }
+  ]
+}

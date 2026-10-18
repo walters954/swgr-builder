@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "planet",
+  "id": "tatooine",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Tatooine",
+    "sourceIds": [
+      "world-gl-planets-tatooine"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Tatooine is a racing destination in the Galactic League.",
+    "sourceIds": [
+      "world-gl-planets-tatooine"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "environment": {
+    "status": "reported",
+    "value": "Desert setting with a long podracing history.",
+    "sourceIds": [
+      "world-gl-planets-tatooine"
+    ]
+  }
+}

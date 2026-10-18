@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "acidic-fuel",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Acidic Fuel",
+    "sourceIds": [
+      "gameslantern-part-acidic-fuel"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Upon emptying Afterburner tank, become Corroded for 2s.",
+    "sourceIds": [
+      "gameslantern-part-acidic-fuel"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-acidic-fuel"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon emptying Afterburner tank, become Corroded for 2s.",
+        "sourceIds": [
+          "gameslantern-part-acidic-fuel"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-acidic-fuel"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-acidic-fuel"
+        ]
+      }
+    }
+  ]
+}

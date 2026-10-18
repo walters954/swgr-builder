@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "custom-ord-pedrovia",
+  "publication": "draft",
+  "name": {
+    "status": "reported",
+    "value": "Custom Ord Pedrovia",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-custom-ord-pedrovia"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Energy Surplus",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-custom-ord-pedrovia"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner power and tank refill rate are increased.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-custom-ord-pedrovia"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Large Cross-Section",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-custom-ord-pedrovia"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Vehicle drag is increased, reducing top speed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-custom-ord-pedrovia"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "faulty-failsafe",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Faulty Failsafe",
+    "sourceIds": [
+      "gameslantern-part-faulty-failsafe"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Critical Malfunction skill check moves 100% faster.",
+    "sourceIds": [
+      "gameslantern-part-faulty-failsafe"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-faulty-failsafe"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Critical Malfunction skill check moves 100% faster.",
+        "sourceIds": [
+          "gameslantern-part-faulty-failsafe"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-faulty-failsafe"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-faulty-failsafe"
+        ]
+      }
+    }
+  ]
+}

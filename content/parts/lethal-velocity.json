@@ -37,16 +37,145 @@
         ]
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-ii"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "Every Takedown moderately increases Speed.",
         "sourceIds": [
           "screenshot-part-rewards-12"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 4 events.",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-ii"
+        ]
+      }
+    },
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Every Takedown slightly increases Speed.",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 4 events.",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-i"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Every Takedown considerably increases Speed.",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 50 events.",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iii"
+        ]
+      }
+    },
+    {
+      "id": "iv",
+      "rank": {
+        "status": "reported",
+        "value": "IV",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iv"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iv"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Every Takedown greatly increases Speed.",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iv"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iv"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 80 events.",
+        "sourceIds": [
+          "gameslantern-part-lethal-velocity-iv"
         ]
       }
     }

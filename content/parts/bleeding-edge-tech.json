@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "bleeding-edge-tech",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Bleeding-Edge Tech",
+    "sourceIds": [
+      "gameslantern-part-bleeding-edge-tech"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Afterburner power is increased and Cornering maneuverability improved.",
+    "sourceIds": [
+      "gameslantern-part-bleeding-edge-tech"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-bleeding-edge-tech"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner power is increased and Cornering maneuverability improved.",
+        "sourceIds": [
+          "gameslantern-part-bleeding-edge-tech"
+        ]
+      },
+      "priceCredits": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "unlock": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      }
+    }
+  ]
+}

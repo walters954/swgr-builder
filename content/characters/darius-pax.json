@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "darius-pax",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Darius Pax",
+    "sourceIds": [
+      "world-wiki-characters-darius-pax"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Darius Pax founded the Galactic League and recruits Shade.",
+    "sourceIds": [
+      "world-wiki-characters-darius-pax"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "founder"
+    ],
+    "sourceIds": [
+      "world-wiki-characters-darius-pax"
+    ]
+  },
+  "species": {
+    "status": "reported",
+    "value": "Besalisk",
+    "sourceIds": [
+      "world-wiki-characters-darius-pax"
+    ]
+  },
+  "playableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Story role is not evidence for or against playable availability."
+  },
+  "vehicleProfiles": [],
+  "loadouts": []
+}

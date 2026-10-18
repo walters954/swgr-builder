@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "insulated-servos",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Insulated Servos",
+    "sourceIds": [
+      "gameslantern-part-insulated-servos-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Frozen has 20% less impact on Cornering.",
+    "sourceIds": [
+      "gameslantern-part-insulated-servos-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Frozen has 20% less impact on Cornering.",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 30 events.",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Frozen has 40% less impact on Cornering.",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 30 events.",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Frozen has 60% less impact on Cornering.",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 65 events.",
+        "sourceIds": [
+          "gameslantern-part-insulated-servos-iii"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "kestar-bool",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Kestar Bool",
+    "sourceIds": [
+      "world-gl-racers-kestar-bool"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Kestar Bool is listed as a Galactic League racer.",
+    "sourceIds": [
+      "world-gl-racers-kestar-bool"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "racer"
+    ],
+    "sourceIds": [
+      "world-gl-racers-kestar-bool"
+    ]
+  },
+  "species": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No unambiguous species identification reviewed; no species inferred from appearance or name."
+  },
+  "playableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Roster membership alone does not establish playable availability."
+  },
+  "vehicleProfiles": [],
+  "loadouts": []
+}

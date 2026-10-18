@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "planet",
+  "id": "crait",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Crait",
+    "sourceIds": [
+      "world-gl-planets-crait"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Crait is a racing destination in the Galactic League.",
+    "sourceIds": [
+      "world-gl-planets-crait"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "environment": {
+    "status": "reported",
+    "value": "Salt plains and crystal caves.",
+    "sourceIds": [
+      "world-gl-planets-crait"
+    ]
+  }
+}

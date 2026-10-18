@@ -37,16 +37,107 @@
         ]
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-iii"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "Perfect Start grants Shielded until it is broken.",
         "sourceIds": [
           "screenshot-part-rewards-12"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 60 events.",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-iii"
+        ]
+      }
+    },
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Perfect Start grants Shielded for 30s.",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Perfect Start grants Shielded for 60s.",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 12 events.",
+        "sourceIds": [
+          "gameslantern-part-protective-ignition-ii"
         ]
       }
     }

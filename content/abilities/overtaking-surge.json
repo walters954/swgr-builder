@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "overtaking-surge",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Overtaking Surge",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Gain Surging for 10s, lost on impact. Overtakes extend the duration and increase its potency.",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "A single build does not establish general mode compatibility."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "A single build does not establish general vehicle class compatibility."
+  },
+  "variants": [
+    {
+      "id": "ii",
+      "rank": {
+        "status": "screenshot-verified",
+        "value": "II",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ]
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Rarity is not verified."
+      },
+      "description": {
+        "status": "screenshot-verified",
+        "value": "Gain Surging for 10s, lost on impact. Overtakes extend the duration and increase its potency.",
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ],
+        "notes": "Generic tooltip while rank II is equipped; no rank-specific multiplier is established."
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Numeric Energy cost is not shown."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Cooldown is not shown."
+      },
+      "durationSeconds": {
+        "status": "screenshot-verified",
+        "value": 10,
+        "sourceIds": [
+          "screenshot-clean-racer-tooltip-16"
+        ],
+        "notes": "Base Surging duration; lost on impact and extended by overtakes, so this is not a fixed total duration."
+      },
+      "tags": []
+    },
+    {
+      "id": "overtaking-surge-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Surging for 10s, lost on impact. Overtakes extend the duration and increase its potency.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-overtaking-surge"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ]
+}

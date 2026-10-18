@@ -51,7 +51,17 @@ test("Shown ranks do not fabricate unseen rarity, ability effects, or variant ra
   for (const id of unranked) {
     const part = catalog.parts.find((entry) => entry.id === id)!;
     assert.equal(part.variants[0].rank.value, null);
-    assert.equal(part.variants[0].rarity.value, null);
+    assert.equal(part.variants[0].rank.status, "unknown");
+    const rarity = part.variants[0].rarity;
+    if (rarity.value !== null) {
+      assert.equal(rarity.status, "reported");
+      assert.ok(rarity.sourceIds.length > 0);
+      for (const id of rarity.sourceIds) {
+        assert.equal(catalog.sources.find((source) => source.id === id)?.kind, "secondary");
+      }
+    } else {
+      assert.equal(rarity.status, "unknown");
+    }
   }
   assert.equal(catalog.parts.find((entry) => entry.id === "afterburner-efficiency")?.variants[0].description.value, "Afterburner can burn 200% longer.");
 });
@@ -82,7 +92,17 @@ test("Screenshot 11 confirms both II ability labels without fabricating Impact S
   ]);
   const impact = catalog.abilities.find((entry) => entry.id === "impact-surge")!;
   assert.equal(impact.variants[0].rank.value, "II");
-  assert.equal(impact.variants[0].description.value, null);
+  const description = impact.variants[0].description;
+  assert.equal(description.status, "reported");
+  assert.equal(description.value, "Gain Surging for 10s. Overtakes, Takedowns , and vehicle collisions extend the duration. Takedowns recharge Energy .");
+  assert.deepEqual(description.sourceIds, ["loadouts-gameslantern-abilities-impact-surge-ii"]);
+  for (const id of description.sourceIds) {
+    const source = catalog.sources.find((entry) => entry.id === id);
+    assert.equal(source?.kind, "secondary");
+    assert.ok(source && "url" in source);
+    assert.equal(source.url, "https://galacticracer.gameslantern.com/abilities/impact-surge-ii");
+  }
+  assert.ok(!description.sourceIds.includes("screenshot-vectored-shockwave-tooltip"));
   assert.equal(impact.variants[0].energyCost.value, null);
 });
 

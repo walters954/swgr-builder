@@ -33,19 +33,34 @@
         "status": "unknown",
         "value": null,
         "sourceIds": [],
-        "notes": "No rank numeral is visible on the observed card; dots are not sufficient evidence."
+        "notes": "Not explicitly stated on the source page."
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; card color and dots are not used to infer it."
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-dechoking-mechanism"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "While Surging, protected from Choked.",
         "sourceIds": [
           "screenshot-part-rewards-12"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-dechoking-mechanism"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 50 events.",
+        "sourceIds": [
+          "gameslantern-part-dechoking-mechanism"
         ]
       }
     }

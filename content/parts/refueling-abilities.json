@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "refueling-abilities",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Refueling Abilities",
+    "sourceIds": [
+      "gameslantern-part-refueling-abilities"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Upon activating an Ability, fully refill Afterburner.",
+    "sourceIds": [
+      "gameslantern-part-refueling-abilities"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-refueling-abilities"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon activating an Ability, fully refill Afterburner.",
+        "sourceIds": [
+          "gameslantern-part-refueling-abilities"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-refueling-abilities"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-refueling-abilities"
+        ]
+      }
+    }
+  ]
+}

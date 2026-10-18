@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "mountain-to-sea",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Mountain to Sea",
+    "sourceIds": [
+      "world-gl-tracks-mountain-to-sea"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Mountain to Sea is a race course on Ando Prime.",
+    "sourceIds": [
+      "world-gl-tracks-mountain-to-sea"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Ando Prime",
+    "sourceIds": [
+      "world-gl-tracks-mountain-to-sea"
+    ]
+  },
+  "hazards": {
+    "status": "reported",
+    "value": [
+      "Mines on some routes"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-mountain-to-sea"
+    ],
+    "notes": "Route-specific; not present on every configuration."
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Standard, Shakedown and Memory route labels are not mapped to game modes."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "planet",
+  "id": "lantaana",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Lantaana",
+    "sourceIds": [
+      "world-gl-planets-lantaana"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Lantaana is a racing destination in the Galactic League.",
+    "sourceIds": [
+      "world-gl-planets-lantaana"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "environment": {
+    "status": "reported",
+    "value": "Jungle terrain with lava and cool waterways.",
+    "sourceIds": [
+      "world-gl-planets-lantaana"
+    ]
+  }
+}

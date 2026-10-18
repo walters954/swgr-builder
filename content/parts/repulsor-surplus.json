@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "repulsor-surplus",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Repulsor Surplus",
+    "sourceIds": [
+      "gameslantern-part-repulsor-surplus"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While airborne, gain Overcharged.",
+    "sourceIds": [
+      "gameslantern-part-repulsor-surplus"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-repulsor-surplus"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While airborne, gain Overcharged.",
+        "sourceIds": [
+          "gameslantern-part-repulsor-surplus"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-repulsor-surplus"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-repulsor-surplus"
+        ]
+      }
+    }
+  ]
+}

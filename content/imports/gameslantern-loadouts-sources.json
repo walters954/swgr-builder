@@ -1,0 +1,527 @@
+[
+  {
+    "id": "loadouts-gameslantern-abilities",
+    "kind": "secondary",
+    "title": "Star Wars Galactic Racer Abilities",
+    "url": "https://galacticracer.gameslantern.com/abilities",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-auto-scrubber",
+    "kind": "secondary",
+    "title": "Auto-Scrubber",
+    "url": "https://galacticracer.gameslantern.com/abilities/auto-scrubber",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-auto-scrubber-ii",
+    "kind": "secondary",
+    "title": "Auto-Scrubber II",
+    "url": "https://galacticracer.gameslantern.com/abilities/auto-scrubber-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-auto-vent",
+    "kind": "secondary",
+    "title": "Auto-Vent",
+    "url": "https://galacticracer.gameslantern.com/abilities/auto-vent",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-autopilot",
+    "kind": "secondary",
+    "title": "Autopilot",
+    "url": "https://galacticracer.gameslantern.com/abilities/autopilot",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-charging-blast",
+    "kind": "secondary",
+    "title": "Charging Blast",
+    "url": "https://galacticracer.gameslantern.com/abilities/charging-blast",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussion-mine",
+    "kind": "secondary",
+    "title": "Concussion Mine",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussion-mine",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussion-mine-ii",
+    "kind": "secondary",
+    "title": "Concussion Mine II",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussion-mine-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussion-mine-iii",
+    "kind": "secondary",
+    "title": "Concussion Mine III",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussion-mine-iii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussive-bolt",
+    "kind": "secondary",
+    "title": "Concussive Bolt",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussive-bolt",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussive-bolt-ii",
+    "kind": "secondary",
+    "title": "Concussive Bolt II",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussive-bolt-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-cooling-blast",
+    "kind": "secondary",
+    "title": "Cooling Blast",
+    "url": "https://galacticracer.gameslantern.com/abilities/cooling-blast",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-corrosive-vent",
+    "kind": "secondary",
+    "title": "Corrosive Vent",
+    "url": "https://galacticracer.gameslantern.com/abilities/corrosive-vent",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-flame-vent",
+    "kind": "secondary",
+    "title": "Flame Vent",
+    "url": "https://galacticracer.gameslantern.com/abilities/flame-vent",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-freezing-concussion-mine",
+    "kind": "secondary",
+    "title": "Freezing Concussion Mine",
+    "url": "https://galacticracer.gameslantern.com/abilities/freezing-concussion-mine",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-freezing-concussion-mine-ii",
+    "kind": "secondary",
+    "title": "Freezing Concussion Mine II",
+    "url": "https://galacticracer.gameslantern.com/abilities/freezing-concussion-mine-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-shield",
+    "kind": "secondary",
+    "title": "Impact Shield",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-shield",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-shield-ii",
+    "kind": "secondary",
+    "title": "Impact Shield II",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-shield-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-surge",
+    "kind": "secondary",
+    "title": "Impact Surge",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-surge",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-surge-ii",
+    "kind": "secondary",
+    "title": "Impact Surge II",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-surge-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-ion-blast",
+    "kind": "secondary",
+    "title": "Ion Blast",
+    "url": "https://galacticracer.gameslantern.com/abilities/ion-blast",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-ion-bolt",
+    "kind": "secondary",
+    "title": "Ion Bolt",
+    "url": "https://galacticracer.gameslantern.com/abilities/ion-bolt",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-magnetic-shockwave",
+    "kind": "secondary",
+    "title": "Magnetic Shockwave",
+    "url": "https://galacticracer.gameslantern.com/abilities/magnetic-shockwave",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-magnetic-shockwave-ii",
+    "kind": "secondary",
+    "title": "Magnetic Shockwave II",
+    "url": "https://galacticracer.gameslantern.com/abilities/magnetic-shockwave-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-bolt",
+    "kind": "secondary",
+    "title": "Multi-Bolt",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-bolt",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-bolt-ii",
+    "kind": "secondary",
+    "title": "Multi-Bolt II",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-bolt-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-scrubber",
+    "kind": "secondary",
+    "title": "Multi-Scrubber",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-scrubber",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-scrubber-ii",
+    "kind": "secondary",
+    "title": "Multi-Scrubber II",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-scrubber-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overcharged-autopilot",
+    "kind": "secondary",
+    "title": "Overcharged Autopilot",
+    "url": "https://galacticracer.gameslantern.com/abilities/overcharged-autopilot",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overcharged-autopilot-ii",
+    "kind": "secondary",
+    "title": "Overcharged Autopilot II",
+    "url": "https://galacticracer.gameslantern.com/abilities/overcharged-autopilot-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overtaking-surge",
+    "kind": "secondary",
+    "title": "Overtaking Surge",
+    "url": "https://galacticracer.gameslantern.com/abilities/overtaking-surge",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overtaking-surge-ii",
+    "kind": "secondary",
+    "title": "Overtaking Surge II",
+    "url": "https://galacticracer.gameslantern.com/abilities/overtaking-surge-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-shield",
+    "kind": "secondary",
+    "title": "Shield",
+    "url": "https://galacticracer.gameslantern.com/abilities/shield",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-shielding-blast",
+    "kind": "secondary",
+    "title": "Shielding Blast",
+    "url": "https://galacticracer.gameslantern.com/abilities/shielding-blast",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-shockwave",
+    "kind": "secondary",
+    "title": "Shockwave",
+    "url": "https://galacticracer.gameslantern.com/abilities/shockwave",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-status-scrubber",
+    "kind": "secondary",
+    "title": "Status Scrubber",
+    "url": "https://galacticracer.gameslantern.com/abilities/status-scrubber",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-supercooled-vent",
+    "kind": "secondary",
+    "title": "Supercooled Vent",
+    "url": "https://galacticracer.gameslantern.com/abilities/supercooled-vent",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surge",
+    "kind": "secondary",
+    "title": "Surge",
+    "url": "https://galacticracer.gameslantern.com/abilities/surge",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-autopilot",
+    "kind": "secondary",
+    "title": "Surging Autopilot",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-autopilot",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-autopilot-ii",
+    "kind": "secondary",
+    "title": "Surging Autopilot II",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-autopilot-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-shield",
+    "kind": "secondary",
+    "title": "Surging Shield",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-shield",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-shield-ii",
+    "kind": "secondary",
+    "title": "Surging Shield II",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-shield-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vectored-shockwave",
+    "kind": "secondary",
+    "title": "Vectored Shockwave",
+    "url": "https://galacticracer.gameslantern.com/abilities/vectored-shockwave",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vectored-shockwave-ii",
+    "kind": "secondary",
+    "title": "Vectored Shockwave II",
+    "url": "https://galacticracer.gameslantern.com/abilities/vectored-shockwave-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vent",
+    "kind": "secondary",
+    "title": "Vent",
+    "url": "https://galacticracer.gameslantern.com/abilities/vent",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vent-ii",
+    "kind": "secondary",
+    "title": "Vent II",
+    "url": "https://galacticracer.gameslantern.com/abilities/vent-ii",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles",
+    "kind": "secondary",
+    "title": "Star Wars Galactic Racer Racer Styles",
+    "url": "https://galacticracer.gameslantern.com/racer-styles",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-afterburner",
+    "kind": "secondary",
+    "title": "Afterburner",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/afterburner",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-brawler",
+    "kind": "secondary",
+    "title": "Brawler",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/brawler",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-bt310-quadra",
+    "kind": "secondary",
+    "title": "BT310 Quadra",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/bt310-quadra",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-clean-racer",
+    "kind": "secondary",
+    "title": "Clean Racer",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/clean-racer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-custom-ord-pedrovia",
+    "kind": "secondary",
+    "title": "Custom Ord Pedrovia",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/custom-ord-pedrovia",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-engineer",
+    "kind": "secondary",
+    "title": "Engineer",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/engineer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-exelbrok-xl-5115",
+    "kind": "secondary",
+    "title": "Exelbrok XL 5115",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/exelbrok-xl-5115",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-firebug",
+    "kind": "secondary",
+    "title": "Firebug",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/firebug",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-ice-cold",
+    "kind": "secondary",
+    "title": "Ice Cold",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/ice-cold",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-ipg-x1131-longtail",
+    "kind": "secondary",
+    "title": "IPG-X1131 LongTail",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/ipg-x1131-longtail",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-plug-f-mammoth",
+    "kind": "secondary",
+    "title": "Plug-F Mammoth",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/plug-f-mammoth",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-ramjet-rider",
+    "kind": "secondary",
+    "title": "Ramjet Rider",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/ramjet-rider",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-redliner",
+    "kind": "secondary",
+    "title": "Redliner",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/redliner",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-slipstreamer",
+    "kind": "secondary",
+    "title": "Slipstreamer",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/slipstreamer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-stunt-runner",
+    "kind": "secondary",
+    "title": "Stunt Runner",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/stunt-runner",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-survivor",
+    "kind": "secondary",
+    "title": "Survivor",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/survivor",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-tech-expert",
+    "kind": "secondary",
+    "title": "Tech Expert",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/tech-expert",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-tenacious",
+    "kind": "secondary",
+    "title": "Tenacious",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/tenacious",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-vulptereen-327",
+    "kind": "secondary",
+    "title": "Vulptereen 327",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/vulptereen-327",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-weaponized",
+    "kind": "secondary",
+    "title": "Weaponized",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/weaponized",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-traits",
+    "kind": "secondary",
+    "title": "Star Wars Galactic Racer Traits",
+    "url": "https://galacticracer.gameslantern.com/traits",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-gameslantern-vehicle-parts",
+    "kind": "secondary",
+    "title": "Star Wars Galactic Racer Vehicle Parts",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-wiki-guide",
+    "kind": "secondary",
+    "title": "Latest racing guides",
+    "url": "https://swgalacticracer.wiki/guide/",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-wiki-home",
+    "kind": "secondary",
+    "title": "Star Wars Galactic Racer: Racers, Vehicles & Track Guide",
+    "url": "https://swgalacticracer.wiki/",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-wiki-tips-campaign-builds",
+    "kind": "secondary",
+    "title": "What to fit before the tour gets mean",
+    "url": "https://swgalacticracer.wiki/tips/campaign-builds/",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-wiki-tips-eliminator",
+    "kind": "secondary",
+    "title": "Last speeder still moving",
+    "url": "https://swgalacticracer.wiki/tips/eliminator/",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-wiki-tips-multiplayer-tour",
+    "kind": "secondary",
+    "title": "How the multiplayer tour differs from quick race",
+    "url": "https://swgalacticracer.wiki/tips/multiplayer-tour/",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "loadouts-wiki-unlocks",
+    "kind": "secondary",
+    "title": "What actually unlocks",
+    "url": "https://swgalacticracer.wiki/unlocks/",
+    "accessedAt": "2026-10-17"
+  }
+]

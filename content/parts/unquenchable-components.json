@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "unquenchable-components",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Unquenchable Components",
+    "sourceIds": [
+      "gameslantern-part-unquenchable-components"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Burning no longer ends by itself.",
+    "sourceIds": [
+      "gameslantern-part-unquenchable-components"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-unquenchable-components"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Burning no longer ends by itself.",
+        "sourceIds": [
+          "gameslantern-part-unquenchable-components"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-unquenchable-components"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-unquenchable-components"
+        ]
+      }
+    }
+  ]
+}

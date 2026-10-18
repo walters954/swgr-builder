@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "hc-8",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "HC-8",
+    "sourceIds": [
+      "world-gl-vehicles-hc-8"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "HC-8 is a skim speeder kit from Kuat Special Vehicles.",
+    "sourceIds": [
+      "world-gl-vehicles-hc-8"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "skim-speeder",
+    "sourceIds": [
+      "world-gl-vehicles-hc-8"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kuat Special Vehicles",
+    "sourceIds": [
+      "world-gl-vehicles-hc-8"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "strained-circuits",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Strained Circuits",
+    "sourceIds": [
+      "gameslantern-part-strained-circuits"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: System Malfunction triggers Critical Malfunction more often.",
+    "sourceIds": [
+      "gameslantern-part-strained-circuits"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-strained-circuits"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "System Malfunction triggers Critical Malfunction more often.",
+        "sourceIds": [
+          "gameslantern-part-strained-circuits"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-strained-circuits"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-strained-circuits"
+        ]
+      }
+    }
+  ]
+}

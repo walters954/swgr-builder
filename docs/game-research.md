@@ -2,6 +2,16 @@
 
 Research date: 2026-10-17. This is an unofficial fan-project research document, not an official game database.
 
+## Comprehensive import and visual refresh — current implementation
+
+The source registry now contains 543 records after `npx tsx scripts/merge-content-sources.ts`. Imports from [Galactic Racer Wiki](https://swgalacticracer.wiki/), [GamesLantern Parts](https://galacticracer.gameslantern.com/vehicle-parts), and discovered public pages add secondary **reported** evidence only, never official verification. Screenshot claims/IDs remain intact; conflicts and ambiguities are retained in the [Parts](import-parts-report.md), [loadouts](import-loadouts-report.md), and [world](import-world-report.md) reports. Those reports preserve per-page coverage and worker-stage limitations; the parent source merge and world CLI/schema integration are now complete.
+
+Coverage: 21 characters; 29 abilities (28 published, Flame Vent draft); 197 Part families / 319 variants covering 318 source pages including 59 Faults; 62 style loadouts (56 published, six ambiguous vehicle-named drafts); 50 vehicles; 46 tracks; seven planets; four classes; five observations. Counts describe source records, not a confirmed playable roster. Some pages may represent internal/prologue variants. Homepage style-family counts are deduplicated. Only explicit page-local evidence supplies 305 prices and 300 unlock descriptions; missing values are not inferred.
+
+Shared visual cards now appear in wiki previews/details and builder pickers/installed Parts/selected abilities/styles. They use teal panels, Roman rank labels, self-hosted Oxanium, highlighted existing terms, nine isolated owner-upload pictograms, and clearly illustrative Lucide fallbacks—not authentic art for every record or fabricated stats. See [artwork provenance](game-card-artwork.md). Wiki loads 36 more results; builder pages 24 Part families; search covers the full catalog. Style options distinguish campaign rank, and wiki details expose sourced price/unlock claims.
+
+The implementation is locally verified in progress (parent reports 52 passing tests); final type/lint/build and desktop/mobile browser checks remain parent-owned. This refresh is not yet claimed published to production. Local storage and unlisted self-contained sharing are unchanged; real login/account sync remain absent. The S1–S12 research and historical guide findings below remain distinct from both imports and screenshot facts.
+
 ## Project direction
 
 The searchable wiki and local-first racer/loadout builder are now implemented in Next.js. The implemented UI has four routes: `/` overview with a custom teal/orange responsive sidebar, `/wiki` source-backed search with mode filters and details, `/builder` stage editing (clone/add/delete, notes, Part variants, abilities, and a separate Crash Ability), and `/builds` browser-local saved plans. Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Implementation is present; parent browser checks are pending. The typed round progression model in `src/lib/builds/plan.ts` powers the editor; see [round-builder.md](round-builder.md) for snapshots and Stadium Builds reference research. Do not fabricate missing cards, images, numerical stats, compatibility rules, or slot limits.
@@ -12,7 +22,7 @@ The earlier idea of a custom race planner is not the best default: the official 
 
 - **Official:** stated in a publisher/developer or StarWars.com source.
 - **Reported:** from a secondary guide; useful for discovery, not independently verified in-game.
-- **Screenshot verified:** readable in an owner-provided screenshot, with platform, language, game version/date, and rank where available. Fourteen screenshot sources are registered; owner-confirmed mode context is recorded separately from visible text, and unavailable metadata remains unknown.
+- **Screenshot verified:** readable in an owner-provided screenshot, with platform, language, game version/date, and rank where available. The historical screenshot inventory below covers the earlier batches; later sources are recorded in the registry; owner-confirmed mode context is recorded separately from visible text, and unavailable metadata remains unknown.
 - **Unknown:** leave blank/null and explain what evidence is missing. Unknown does not mean zero, unavailable, or incompatible.
 - Record provenance per claim or rank variant, not just per article. Keep transcribed game wording separate from our explanation.
 - A character appearing in the story is not evidence that they are playable. A named planet is not a count of circuits.
@@ -182,7 +192,7 @@ The stage editor, local library, and hash sharing now exist. The following remai
 
 ### Content metadata
 
-The JSON catalog implements source tracking and per-claim verification; see [content-editing.md](content-editing.md) for schemas, authoring, and validation. The catalog now includes Racer Styles (Stunt Runner and Survivor), fourteen Part families, Vectored Shockwave, Surge, and Impact Surge, alongside the earlier types; only Flame Vent remains draft. Five build-observation records preserve screenshots 7–11 separately and are excluded from default public catalog queries. Schema/reference checks support these types, and VS Code schemas have been regenerated. This reference data now supplies the working wiki and editor, but is not proof of game-rule legality. Cached `getPublicCatalog` filters drafts and omits private source image paths. Runtime `readCatalog` validates JSON schemas/references; CLI-only `checkCatalogAssets` under `content:check` checks evidence/public file existence without runtime output tracing bundling the repository.
+The JSON catalog implements source tracking and per-claim verification; see [content-editing.md](content-editing.md) for schemas, authoring, and validation. The comprehensive catalog coverage is summarized above; only Flame Vent remains draft. Five build-observation records preserve screenshots 7–11 separately and are excluded from default public catalog queries. Schema/reference checks support these types, and VS Code schemas have been regenerated. This reference data now supplies the working wiki and editor, but is not proof of game-rule legality. Cached `getPublicCatalog` filters drafts and omits private source image paths. Runtime `readCatalog` validates JSON schemas/references; CLI-only `checkCatalogAssets` under `content:check:assets` checks evidence/public file existence without runtime output tracing bundling the repository.
 
 For each entity/variant, capture: stable ID, display name, category, rank as displayed, rarity if explicitly shown, exact description, our summary, source references, verification status, compatible modes/classes if known, unlock requirement if known, game version/date, image asset reference, and reviewer notes.
 
@@ -190,7 +200,7 @@ Keep numeric effect values nullable. Store displayed wording before trying to pa
 
 ## Screenshot intake
 
-Fourteen screenshot sources are registered:
+The historical screenshot inventory below covers the earlier batches; later sources are recorded in the registry:
 
 | Screenshot | Owner-confirmed context | Evidence |
 | --- | --- | --- |
@@ -209,7 +219,7 @@ Fourteen screenshot sources are registered:
 | 13 | Mode and character unknown | Survivor build evidence; actual source is `screenshot-survivor-build-13`, not a reward-13 source |
 | 14 | Private screenshot evidence | Backer contracts; source notes only, not a new catalog entity or build observation |
 
-Screenshot 11 confirms Vectored Shockwave II and Impact Surge II from a native-resolution crop. The Vectored Shockwave tooltip reads exactly: “Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.” This establishes its generic description, not a numerical rank-II difference. Impact Surge II’s effect remains unknown. The general Ability tooltip describes offensive, defensive, or utility equippable technology that consumes Energy; it gives no numeric Energy cost. Parts are partially obscured: `installedParts` remains unknown despite the observed 4/4 count, with no inventory carried over from screenshot 10.
+Screenshot 11 confirms Vectored Shockwave II and Impact Surge II from a native-resolution crop. The Vectored Shockwave tooltip reads exactly: “Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.” This establishes its generic description, not a numerical rank-II difference. Screenshot 11 alone leaves Impact Surge II’s effect unknown; later secondary import descriptions remain separately reported. The general Ability tooltip describes offensive, defensive, or utility equippable technology that consumes Energy; it gives no numeric Energy cost. Parts are partially obscured: `installedParts` remains unknown despite the observed 4/4 count, with no inventory carried over from screenshot 10.
 
 The Podrace panels show vehicle traits, not equipped abilities or Racer Style traits. The Skim Speeder panel provides class evidence; Griff Halloran's panel provides style evidence in its observed context. Do not transfer these traits between categories or use assumed mappings to overwrite guide-reported traits. Do not extrapolate availability to other modes.
 
@@ -278,6 +288,6 @@ All sources accessed 2026-10-17. Prefer primary sources for general facts; use s
 - Source-tracked JSON catalog, schemas, validation, and catalog loading/query helpers are implemented; the editing workflow is documented in [content-editing.md](content-editing.md). Screenshot evidence stays under `content/evidence/screenshots/`, outside the public asset directory.
 - The implemented UI has four routes: `/` overview with a custom teal/orange responsive sidebar, `/wiki` source-backed search with mode filters and details, `/builder` stage editing (clone/add/delete, notes, Part variants, abilities, and a separate Crash Ability), and `/builds` browser-local saved plans.
 - Local saves use browser storage, not accounts or server-persistent builds. Copy/share uses a self-contained `/builder#plan=…` URL marked unlisted; it includes plan notes and is readable by anyone with the link. It is not encrypted or account-private. Real authentication, database storage, and account sync are not implemented. Implementation is present; parent browser checks are pending.
-- No deployment, database, upload flow, real authentication, account sync, server-persistent builds, or live game integration is implemented. The wiki and interactive builder are implemented.
+- An earlier app version is deployed; this comprehensive import/card refresh is not yet claimed published. See [deployment.md](deployment.md) for the historical production record and remaining refresh checks. No database, upload flow, real authentication, account sync, server-persistent builds, or live game integration is implemented.
 - Do not add infrastructure just because it is available on Vercel. Start with source-controlled content; consider Vercel Blob for approved images and a database for shared builds when those features are needed.
 - Initial audit reported five high-severity development dependency findings through the ESLint config → fast-glob → micromatch → braces chain. Latest registry braces was 3.0.3, which the audit still flagged. Suggested audit fix was a major Next ESLint config downgrade; it was not applied. Production dependency audit and scaffold checks are recorded separately in the task verification output.

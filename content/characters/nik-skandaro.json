@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "nik-skandaro",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Nik Skandaro",
+    "sourceIds": [
+      "world-gl-racers-nik-skandaro"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Nik Skandaro is listed as a Galactic League racer.",
+    "sourceIds": [
+      "world-gl-racers-nik-skandaro"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "racer"
+    ],
+    "sourceIds": [
+      "world-gl-racers-nik-skandaro"
+    ]
+  },
+  "species": {
+    "status": "reported",
+    "value": "Zabrak",
+    "sourceIds": [
+      "world-gl-racers-nik-skandaro"
+    ]
+  },
+  "playableModes": {
+    "status": "reported",
+    "value": [
+      "multiplayer-tour"
+    ],
+    "sourceIds": [
+      "world-gl-racers-nik-skandaro"
+    ],
+    "notes": "Explicit tour participation, not an exhaustive availability list."
+  },
+  "vehicleProfiles": [],
+  "loadouts": [
+    {
+      "id": "reported-multiplayer-tour",
+      "mode": "multiplayer-tour",
+      "racerStyle": {
+        "status": "reported",
+        "value": "Survivor",
+        "sourceIds": [
+          "world-gl-racers-nik-skandaro"
+        ],
+        "notes": "Style heading in the multiplayer traits section."
+      },
+      "abilityIds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Ability names remain unlinked pending parent ability manifest integration."
+      },
+      "traits": []
+    }
+  ]
+}

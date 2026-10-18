@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "overheated-motivators",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Overheated Motivators",
+    "sourceIds": [
+      "gameslantern-part-overheated-motivators"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: When speed is above 450, become Burning.",
+    "sourceIds": [
+      "gameslantern-part-overheated-motivators"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-overheated-motivators"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "When speed is above 450, become Burning.",
+        "sourceIds": [
+          "gameslantern-part-overheated-motivators"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-overheated-motivators"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-overheated-motivators"
+        ]
+      }
+    }
+  ]
+}

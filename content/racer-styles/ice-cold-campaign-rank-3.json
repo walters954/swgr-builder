@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "ice-cold-campaign-rank-3",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ice Cold",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-ice-cold"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "An advanced style for racers eager to take advantage of Frozen.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-ice-cold"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 3",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-ice-cold"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Supercooled",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Supercooled Vent Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Absolute Zero",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Frozen , Ramjet does not gain heat.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Null Heat Signature",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon becoming Frozen , gain Shielded for 10s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Permafrost",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Frozen is retained twice as long.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ice-cold"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    }
+  ]
+}

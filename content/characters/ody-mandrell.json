@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "ody-mandrell",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ody Mandrell",
+    "sourceIds": [
+      "world-gl-racers-ody-mandrell"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Ody Mandrell is listed as a Galactic League racer.",
+    "sourceIds": [
+      "world-gl-racers-ody-mandrell"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "racer"
+    ],
+    "sourceIds": [
+      "world-gl-racers-ody-mandrell"
+    ]
+  },
+  "species": {
+    "status": "reported",
+    "value": "Er’Kit",
+    "sourceIds": [
+      "world-gl-racers-ody-mandrell"
+    ]
+  },
+  "playableModes": {
+    "status": "reported",
+    "value": [
+      "podrace-tour"
+    ],
+    "sourceIds": [
+      "world-gl-racers-ody-mandrell"
+    ],
+    "notes": "Explicit tour participation, not an exhaustive availability list."
+  },
+  "vehicleProfiles": [],
+  "loadouts": []
+}

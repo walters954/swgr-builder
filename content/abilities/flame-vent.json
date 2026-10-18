@@ -3,13 +3,81 @@
   "kind": "ability",
   "id": "flame-vent",
   "publication": "draft",
-  "name": { "status": "reported", "value": "Flame Vent", "sourceIds": ["ign-builds-2026"] },
+  "name": {
+    "status": "reported",
+    "value": "Flame Vent",
+    "sourceIds": [
+      "ign-builds-2026"
+    ]
+  },
   "aliases": [],
-  "summary": { "status": "reported", "value": "A vent ability discussed in Ramjet-focused builds for its cooling interaction.", "sourceIds": ["ign-builds-2026"], "notes": "Paraphrased guide summary, not exact in-game card text." },
-  "compatibleModes": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Full mode compatibility has not been verified." },
-  "compatibleVehicleClasses": { "status": "unknown", "value": null, "sourceIds": [], "notes": "Do not assume compatibility across all four vehicle classes." },
-  "variants": [],
-  "tags": ["ramjet", "cooling"],
+  "summary": {
+    "status": "reported",
+    "value": "A vent ability discussed in Ramjet-focused builds for its cooling interaction.",
+    "sourceIds": [
+      "ign-builds-2026"
+    ],
+    "notes": "Paraphrased guide summary, not exact in-game card text."
+  },
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Full mode compatibility has not been verified."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Do not assume compatibility across all four vehicle classes."
+  },
+  "variants": [
+    {
+      "id": "flame-vent-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Cooled and reduce Ramjet heat. Applies Burning and System Malfunction to nearby opponents.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-flame-vent"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ],
+  "tags": [
+    "ramjet",
+    "cooling"
+  ],
   "image": null,
   "updatedAt": "2026-10-17",
   "gameVersion": null,

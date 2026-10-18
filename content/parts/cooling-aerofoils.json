@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "cooling-aerofoils",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Cooling Aerofoils",
+    "sourceIds": [
+      "gameslantern-part-cooling-aerofoils"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While airborne, gain Cooled.",
+    "sourceIds": [
+      "gameslantern-part-cooling-aerofoils"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-cooling-aerofoils"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While airborne, gain Cooled.",
+        "sourceIds": [
+          "gameslantern-part-cooling-aerofoils"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-cooling-aerofoils"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-cooling-aerofoils"
+        ]
+      }
+    }
+  ]
+}

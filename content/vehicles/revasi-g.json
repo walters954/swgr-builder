@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "revasi-g",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Revasi G",
+    "sourceIds": [
+      "world-gl-vehicles-revasi-g"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Revasi G is a speeder bike kit from Kor Sarun.",
+    "sourceIds": [
+      "world-gl-vehicles-revasi-g"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "speeder-bike",
+    "sourceIds": [
+      "world-gl-vehicles-revasi-g"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kor Sarun",
+    "sourceIds": [
+      "world-gl-vehicles-revasi-g"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

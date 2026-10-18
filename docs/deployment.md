@@ -9,15 +9,21 @@
 - Production deployment: `dpl_785cofZRhLxtPS8sRAu7LdHYwMSC`.
 - Deployment dashboard: https://vercel.com/dark-nimbus/swgr-builder/785cofZRhLxtPS8sRAu7LdHYwMSC
 
-## Published functionality
+## Comprehensive import/card refresh — not yet published
+
+The local implementation now contains 543 merged sources, comprehensive reported catalog imports, shared visual cards, and nine derived owner-upload PNG pictograms. The parent reports `npm run test:content` at 52 passing tests; this documentation task did not rerun it or establish a final exit code. Final `npx tsc --noEmit`, `npm run lint -- src/app src/components src/lib scripts tests`, `npm run build`, and desktop/mobile browser checks are parent-owned before publication. Do not treat the deployment ID, Ready status, HTTP checks, or screenshots below as verification of these new data/cards. The parent will update this record after production publication.
+
+See [content editing/import reports](content-editing.md) and [artwork provenance](game-card-artwork.md). Login/account sync and server-persistent builds are still not implemented. Local saves and unlisted URL-fragment sharing remain unchanged.
+
+## Previously published functionality
 
 Responsive overview, searchable source-backed wiki, round-by-round build editor, browser-local saved builds, and self-contained URL-fragment sharing. No login/account sync or database-backed persistence is configured. A share URL exports an unlisted copy; anyone holding the link can read the plan and notes.
 
 ## Publication safeguards
 
-Raw owner uploads, normalized screenshot evidence, voice-chat overlays, crops, and local browser-review output are excluded by `.gitignore` and `.vercelignore`. The deployment uploaded approximately 788 KB, not the private image collection. `getPublicCatalog` removes private evidence paths from source metadata sent to UI components. CLI-only asset checks are not imported into the application runtime, avoiding the broad filesystem-tracing warning seen in the first local build.
+Raw owner uploads, normalized screenshot evidence, voice-chat overlays, evidence crops, import HTML caches, and local browser-review output are excluded by `.gitignore` and `.vercelignore`. The initial deployment uploaded approximately 788 KB, not the private image collection. The current refresh intentionally includes only nine isolated derived PNG pictograms under `public/game-icons/`; no full screenshots, overlays, or copied web images are shipped. The remaining Lucide icons are illustrative, not game artwork. `getPublicCatalog` removes private evidence paths from source metadata sent to UI components. CLI-only asset checks are not imported into the application runtime, avoiding the broad filesystem-tracing warning seen in the first local build.
 
-## Verification
+## Historical initial-deployment verification (not refresh verification)
 
 - `npm run test:content`: 37 tests passed, exit 0.
 - `npm run content:check`: catalog schema and references passed, exit 0.

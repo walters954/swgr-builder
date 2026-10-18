@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "moro-kehn-tunnels",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Moro Kehn Tunnels",
+    "sourceIds": [
+      "world-gl-tracks-moro-kehn-tunnels"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Moro Kehn Tunnels is a race course on Lantaana.",
+    "sourceIds": [
+      "world-gl-tracks-moro-kehn-tunnels"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Lantaana",
+    "sourceIds": [
+      "world-gl-tracks-moro-kehn-tunnels"
+    ]
+  },
+  "hazards": {
+    "status": "reported",
+    "value": [
+      "Mines on some routes"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-moro-kehn-tunnels"
+    ],
+    "notes": "Route-specific; not present on every configuration."
+  },
+  "availableModes": {
+    "status": "reported",
+    "value": [
+      "arcade"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-moro-kehn-tunnels"
+    ],
+    "notes": "Arcade events are explicitly recorded; this is not an exhaustive compatibility list."
+  }
+}

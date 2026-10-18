@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "vornskr",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Vornskr",
+    "sourceIds": [
+      "world-gl-vehicles-vornskr"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Vornskr is a landspeeder kit from Sriluur Customs.",
+    "sourceIds": [
+      "world-gl-vehicles-vornskr"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-vornskr"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Sriluur Customs",
+    "sourceIds": [
+      "world-gl-vehicles-vornskr"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

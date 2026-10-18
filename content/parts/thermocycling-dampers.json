@@ -37,16 +37,69 @@
         ]
       },
       "rarity": {
-        "status": "unknown",
-        "value": null,
-        "sourceIds": [],
-        "notes": "Rarity is not verified; dots are not sufficient evidence."
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-ii"
+        ]
       },
       "description": {
         "status": "screenshot-verified",
         "value": "On landing, reset Ramjet temperature.",
         "sourceIds": [
           "screenshot-survivor-build-13"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 20 events.",
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-ii"
+        ]
+      }
+    },
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, reset Ramjet temperature.",
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 16 events.",
+        "sourceIds": [
+          "gameslantern-part-thermocycling-dampers-i"
         ]
       }
     }

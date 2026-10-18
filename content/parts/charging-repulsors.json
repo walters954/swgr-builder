@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "charging-repulsors",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Charging Repulsors",
+    "sourceIds": [
+      "gameslantern-part-charging-repulsors-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "On Perfect Landing, gain Overcharged for 10s.",
+    "sourceIds": [
+      "gameslantern-part-charging-repulsors-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On Perfect Landing, gain Overcharged for 10s.",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 55 events.",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On landing, gain Overcharged for 10s.",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 80 events.",
+        "sourceIds": [
+          "gameslantern-part-charging-repulsors-ii"
+        ]
+      }
+    }
+  ]
+}

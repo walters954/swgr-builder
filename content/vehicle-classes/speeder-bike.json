@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle-class",
+  "id": "speeder-bike",
+  "publication": "published",
+  "name": {
+    "status": "screenshot-verified",
+    "value": "Speeder Bike",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "screenshot-verified",
+    "value": "Speeder Bike class shown with a Clean Racer build.",
+    "sourceIds": [
+      "screenshot-clean-racer-tooltip-16"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No mode is established by this build screen."
+  },
+  "traits": []
+}

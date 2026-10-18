@@ -1,0 +1,898 @@
+[
+  {
+    "id": "world-gl-planets-ando-prime",
+    "kind": "secondary",
+    "title": "GamesLantern — Ando Prime",
+    "url": "https://galacticracer.gameslantern.com/planets/ando-prime",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-planets-crait",
+    "kind": "secondary",
+    "title": "GamesLantern — Crait",
+    "url": "https://galacticracer.gameslantern.com/planets/crait",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-planets-derven-acos",
+    "kind": "secondary",
+    "title": "GamesLantern — Derven Acos",
+    "url": "https://galacticracer.gameslantern.com/planets/derven-acos",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-planets-jakku",
+    "kind": "secondary",
+    "title": "GamesLantern — Jakku",
+    "url": "https://galacticracer.gameslantern.com/planets/jakku",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-planets-lantaana",
+    "kind": "secondary",
+    "title": "GamesLantern — Lantaana",
+    "url": "https://galacticracer.gameslantern.com/planets/lantaana",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-planets-sentinel-i",
+    "kind": "secondary",
+    "title": "GamesLantern — Sentinel I",
+    "url": "https://galacticracer.gameslantern.com/planets/sentinel-i",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-planets-tatooine",
+    "kind": "secondary",
+    "title": "GamesLantern — Tatooine",
+    "url": "https://galacticracer.gameslantern.com/planets/tatooine",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-ary-quill",
+    "kind": "secondary",
+    "title": "GamesLantern — Ary Quill",
+    "url": "https://galacticracer.gameslantern.com/racers/ary-quill",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-ben-quadinaros",
+    "kind": "secondary",
+    "title": "GamesLantern — Ben Quadinaros",
+    "url": "https://galacticracer.gameslantern.com/racers/ben-quadinaros",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-biddy-blas",
+    "kind": "secondary",
+    "title": "GamesLantern — Biddy Blas",
+    "url": "https://galacticracer.gameslantern.com/racers/biddy-blas",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-dud-bolt",
+    "kind": "secondary",
+    "title": "GamesLantern — Dud Bolt",
+    "url": "https://galacticracer.gameslantern.com/racers/dud-bolt",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-fola-kanjen",
+    "kind": "secondary",
+    "title": "GamesLantern — Fola Kanjen",
+    "url": "https://galacticracer.gameslantern.com/racers/fola-kanjen",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-gasgano",
+    "kind": "secondary",
+    "title": "GamesLantern — Gasgano",
+    "url": "https://galacticracer.gameslantern.com/racers/gasgano",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-goli-02-r0",
+    "kind": "secondary",
+    "title": "GamesLantern — Goli & 02-R0",
+    "url": "https://galacticracer.gameslantern.com/racers/goli-02-r0",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-griff-halloran",
+    "kind": "secondary",
+    "title": "GamesLantern — Griff Halloran",
+    "url": "https://galacticracer.gameslantern.com/racers/griff-halloran",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-hibi",
+    "kind": "secondary",
+    "title": "GamesLantern — Hibi",
+    "url": "https://galacticracer.gameslantern.com/racers/hibi",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-katja-mox",
+    "kind": "secondary",
+    "title": "GamesLantern — Katja Mox",
+    "url": "https://galacticracer.gameslantern.com/racers/katja-mox",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-kestar-bool",
+    "kind": "secondary",
+    "title": "GamesLantern — Kestar Bool",
+    "url": "https://galacticracer.gameslantern.com/racers/kestar-bool",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-lyren-shok",
+    "kind": "secondary",
+    "title": "GamesLantern — Lyren Shok",
+    "url": "https://galacticracer.gameslantern.com/racers/lyren-shok",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-malis-vazosk",
+    "kind": "secondary",
+    "title": "GamesLantern — Malis Vazosk",
+    "url": "https://galacticracer.gameslantern.com/racers/malis-vazosk",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-nik-skandaro",
+    "kind": "secondary",
+    "title": "GamesLantern — Nik Skandaro",
+    "url": "https://galacticracer.gameslantern.com/racers/nik-skandaro",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-ody-mandrell",
+    "kind": "secondary",
+    "title": "GamesLantern — Ody Mandrell",
+    "url": "https://galacticracer.gameslantern.com/racers/ody-mandrell",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-sebulba",
+    "kind": "secondary",
+    "title": "GamesLantern — Sebulba",
+    "url": "https://galacticracer.gameslantern.com/racers/sebulba",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-sen-fira",
+    "kind": "secondary",
+    "title": "GamesLantern — Sen Fira",
+    "url": "https://galacticracer.gameslantern.com/racers/sen-fira",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-shade",
+    "kind": "secondary",
+    "title": "GamesLantern — Shade",
+    "url": "https://galacticracer.gameslantern.com/racers/shade",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-soren-zaks",
+    "kind": "secondary",
+    "title": "GamesLantern — Soren Zaks",
+    "url": "https://galacticracer.gameslantern.com/racers/soren-zaks",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-racers-teemto-pagalies",
+    "kind": "secondary",
+    "title": "GamesLantern — Teemto Pagalies",
+    "url": "https://galacticracer.gameslantern.com/racers/teemto-pagalies",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-ahlren-jungle-speedway",
+    "kind": "secondary",
+    "title": "GamesLantern — Ahlren Jungle Speedway",
+    "url": "https://galacticracer.gameslantern.com/tracks/ahlren-jungle-speedway",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-andobi-edge",
+    "kind": "secondary",
+    "title": "GamesLantern — Andobi Edge",
+    "url": "https://galacticracer.gameslantern.com/tracks/andobi-edge",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-bool-river-run",
+    "kind": "secondary",
+    "title": "GamesLantern — Bool River Run",
+    "url": "https://galacticracer.gameslantern.com/tracks/bool-river-run",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-caustic-fields",
+    "kind": "secondary",
+    "title": "GamesLantern — Caustic Fields",
+    "url": "https://galacticracer.gameslantern.com/tracks/caustic-fields",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-cor-loop-b-short-01",
+    "kind": "secondary",
+    "title": "GamesLantern — COR [LOOP B - SHORT 01]",
+    "url": "https://galacticracer.gameslantern.com/tracks/cor-loop-b-short-01",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-corrosion-hypersphere",
+    "kind": "secondary",
+    "title": "GamesLantern — Corrosion Hypersphere",
+    "url": "https://galacticracer.gameslantern.com/tracks/corrosion-hypersphere",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-crimson-mines",
+    "kind": "secondary",
+    "title": "GamesLantern — Crimson Mines",
+    "url": "https://galacticracer.gameslantern.com/tracks/crimson-mines",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-crystal-caverns",
+    "kind": "secondary",
+    "title": "GamesLantern — Crystal Caverns",
+    "url": "https://galacticracer.gameslantern.com/tracks/crystal-caverns",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-dai-bendu-ascension",
+    "kind": "secondary",
+    "title": "GamesLantern — Dai Bendu Ascension",
+    "url": "https://galacticracer.gameslantern.com/tracks/dai-bendu-ascension",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-debris-dunes",
+    "kind": "secondary",
+    "title": "GamesLantern — Debris Dunes",
+    "url": "https://galacticracer.gameslantern.com/tracks/debris-dunes",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-dhunkri-river-circuit",
+    "kind": "secondary",
+    "title": "GamesLantern — Dhunkri River Circuit",
+    "url": "https://galacticracer.gameslantern.com/tracks/dhunkri-river-circuit",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-fallen-empire",
+    "kind": "secondary",
+    "title": "GamesLantern — Fallen Empire",
+    "url": "https://galacticracer.gameslantern.com/tracks/fallen-empire",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-forgil-canyon",
+    "kind": "secondary",
+    "title": "GamesLantern — Forgil Canyon",
+    "url": "https://galacticracer.gameslantern.com/tracks/forgil-canyon",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-geothermal-tour",
+    "kind": "secondary",
+    "title": "GamesLantern — Geothermal Tour",
+    "url": "https://galacticracer.gameslantern.com/tracks/geothermal-tour",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-griffins-flight",
+    "kind": "secondary",
+    "title": "GamesLantern — Griffin's Flight",
+    "url": "https://galacticracer.gameslantern.com/tracks/griffins-flight",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-holdfasts-folly",
+    "kind": "secondary",
+    "title": "GamesLantern — Holdfast's Folly",
+    "url": "https://galacticracer.gameslantern.com/tracks/holdfasts-folly",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-hunk-of-junk",
+    "kind": "secondary",
+    "title": "GamesLantern — Hunk of Junk",
+    "url": "https://galacticracer.gameslantern.com/tracks/hunk-of-junk",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-ice-field-circuit",
+    "kind": "secondary",
+    "title": "GamesLantern — Ice Field Circuit",
+    "url": "https://galacticracer.gameslantern.com/tracks/ice-field-circuit",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-mawhonic-speedway",
+    "kind": "secondary",
+    "title": "GamesLantern — Mawhonic Speedway",
+    "url": "https://galacticracer.gameslantern.com/tracks/mawhonic-speedway",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-mineral-loop",
+    "kind": "secondary",
+    "title": "GamesLantern — Mineral Loop",
+    "url": "https://galacticracer.gameslantern.com/tracks/mineral-loop",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-monastery-mountains",
+    "kind": "secondary",
+    "title": "GamesLantern — Monastery Mountains",
+    "url": "https://galacticracer.gameslantern.com/tracks/monastery-mountains",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-moro-kehn-tunnels",
+    "kind": "secondary",
+    "title": "GamesLantern — Moro Kehn Tunnels",
+    "url": "https://galacticracer.gameslantern.com/tracks/moro-kehn-tunnels",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-mos-espa-speedway",
+    "kind": "secondary",
+    "title": "GamesLantern — Mos Espa Speedway",
+    "url": "https://galacticracer.gameslantern.com/tracks/mos-espa-speedway",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-mountain-to-sea",
+    "kind": "secondary",
+    "title": "GamesLantern — Mountain to Sea",
+    "url": "https://galacticracer.gameslantern.com/tracks/mountain-to-sea",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-overflow-rally",
+    "kind": "secondary",
+    "title": "GamesLantern — Overflow Rally",
+    "url": "https://galacticracer.gameslantern.com/tracks/overflow-rally",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-prologue-ando-prime",
+    "kind": "secondary",
+    "title": "GamesLantern — Prologue",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-ando-prime",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-prologue-crait",
+    "kind": "secondary",
+    "title": "GamesLantern — Prologue",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-crait",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-prologue-jakku",
+    "kind": "secondary",
+    "title": "GamesLantern — Prologue",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-jakku",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-prologue-sentinel-i",
+    "kind": "secondary",
+    "title": "GamesLantern — Prologue",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-sentinel-i",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-quadinaros-revenge",
+    "kind": "secondary",
+    "title": "GamesLantern — Quadinaros' Revenge",
+    "url": "https://galacticracer.gameslantern.com/tracks/quadinaros-revenge",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-rhodochrosite-run",
+    "kind": "secondary",
+    "title": "GamesLantern — Rhodochrosite Run",
+    "url": "https://galacticracer.gameslantern.com/tracks/rhodochrosite-run",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-salt-circle",
+    "kind": "secondary",
+    "title": "GamesLantern — Salt Circle",
+    "url": "https://galacticracer.gameslantern.com/tracks/salt-circle",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-scrap-spiral",
+    "kind": "secondary",
+    "title": "GamesLantern — Scrap Spiral",
+    "url": "https://galacticracer.gameslantern.com/tracks/scrap-spiral",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-sebulbas-challenge",
+    "kind": "secondary",
+    "title": "GamesLantern — Sebulba's Challenge",
+    "url": "https://galacticracer.gameslantern.com/tracks/sebulbas-challenge",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-sentinel-lakes",
+    "kind": "secondary",
+    "title": "GamesLantern — Sentinel Lakes",
+    "url": "https://galacticracer.gameslantern.com/tracks/sentinel-lakes",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-skakoan-gambit",
+    "kind": "secondary",
+    "title": "GamesLantern — Skakoan Gambit",
+    "url": "https://galacticracer.gameslantern.com/tracks/skakoan-gambit",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-stadium-showdown",
+    "kind": "secondary",
+    "title": "GamesLantern — Stadium Showdown",
+    "url": "https://galacticracer.gameslantern.com/tracks/stadium-showdown",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-star-destroyer-speedway",
+    "kind": "secondary",
+    "title": "GamesLantern — Star Destroyer Speedway",
+    "url": "https://galacticracer.gameslantern.com/tracks/star-destroyer-speedway",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-the-acid-ring",
+    "kind": "secondary",
+    "title": "GamesLantern — The Acid Ring",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-acid-ring",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-the-galactic-gauntlet",
+    "kind": "secondary",
+    "title": "GamesLantern — The Galactic Gauntlet",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-galactic-gauntlet",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-the-galactic-league-championship",
+    "kind": "secondary",
+    "title": "GamesLantern — The Galactic League Championship",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-galactic-league-championship",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-the-giants-graveyard",
+    "kind": "secondary",
+    "title": "GamesLantern — The Giants' Graveyard",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-giants-graveyard",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-the-pyroducts",
+    "kind": "secondary",
+    "title": "GamesLantern — The Pyroducts",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-pyroducts",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-the-qualifier",
+    "kind": "secondary",
+    "title": "GamesLantern — The Qualifier",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-qualifier",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-the-war-fields",
+    "kind": "secondary",
+    "title": "GamesLantern — The War Fields",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-war-fields",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-tracks-vonium-pipeline",
+    "kind": "secondary",
+    "title": "GamesLantern — Vonium Pipeline",
+    "url": "https://galacticracer.gameslantern.com/tracks/vonium-pipeline",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicle-classes-landspeeder",
+    "kind": "secondary",
+    "title": "GamesLantern — Landspeeder",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/landspeeder",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicle-classes-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicle-classes-skim-speeder",
+    "kind": "secondary",
+    "title": "GamesLantern — Skim Speeder",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/skim-speeder",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicle-classes-speeder-bike",
+    "kind": "secondary",
+    "title": "GamesLantern — Speeder Bike",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/speeder-bike",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-am-1",
+    "kind": "secondary",
+    "title": "GamesLantern — AM-1",
+    "url": "https://galacticracer.gameslantern.com/vehicles/am-1",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-arz-41",
+    "kind": "secondary",
+    "title": "GamesLantern — ARZ 41",
+    "url": "https://galacticracer.gameslantern.com/vehicles/arz-41",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-ben-quadinaross-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Ben Quadinaros's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ben-quadinaross-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-ben-quadinaross-podracer-aged",
+    "kind": "secondary",
+    "title": "GamesLantern — Ben Quadinaros's Podracer (Aged)",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ben-quadinaross-podracer-aged",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-cesca",
+    "kind": "secondary",
+    "title": "GamesLantern — Cesca",
+    "url": "https://galacticracer.gameslantern.com/vehicles/cesca",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-ciza-t",
+    "kind": "secondary",
+    "title": "GamesLantern — Ciza T",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ciza-t",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-darc-x",
+    "kind": "secondary",
+    "title": "GamesLantern — Darc X",
+    "url": "https://galacticracer.gameslantern.com/vehicles/darc-x",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-drd-61",
+    "kind": "secondary",
+    "title": "GamesLantern — DRD 61",
+    "url": "https://galacticracer.gameslantern.com/vehicles/drd-61",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-dreshi",
+    "kind": "secondary",
+    "title": "GamesLantern — Dre'shi",
+    "url": "https://galacticracer.gameslantern.com/vehicles/dreshi",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-dud-bolts-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Dud Bolt's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/dud-bolts-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-dud-bolts-podracer-aged",
+    "kind": "secondary",
+    "title": "GamesLantern — Dud Bolt's Podracer (Aged)",
+    "url": "https://galacticracer.gameslantern.com/vehicles/dud-bolts-podracer-aged",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-gasganos-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Gasgano's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/gasganos-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-gasganos-podracer-aged",
+    "kind": "secondary",
+    "title": "GamesLantern — Gasgano's Podracer (Aged)",
+    "url": "https://galacticracer.gameslantern.com/vehicles/gasganos-podracer-aged",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-hc-8",
+    "kind": "secondary",
+    "title": "GamesLantern — HC-8",
+    "url": "https://galacticracer.gameslantern.com/vehicles/hc-8",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-jakobeast",
+    "kind": "secondary",
+    "title": "GamesLantern — Jakobeast",
+    "url": "https://galacticracer.gameslantern.com/vehicles/jakobeast",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-kestar-bools-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Kestar Bool's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/kestar-bools-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-killion",
+    "kind": "secondary",
+    "title": "GamesLantern — Killion",
+    "url": "https://galacticracer.gameslantern.com/vehicles/killion",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-kjc-99",
+    "kind": "secondary",
+    "title": "GamesLantern — KJC 99",
+    "url": "https://galacticracer.gameslantern.com/vehicles/kjc-99",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-ko-5",
+    "kind": "secondary",
+    "title": "GamesLantern — KO-5",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ko-5",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-kreed",
+    "kind": "secondary",
+    "title": "GamesLantern — Kreed",
+    "url": "https://galacticracer.gameslantern.com/vehicles/kreed",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-magus",
+    "kind": "secondary",
+    "title": "GamesLantern — Magus",
+    "url": "https://galacticracer.gameslantern.com/vehicles/magus",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-moksi",
+    "kind": "secondary",
+    "title": "GamesLantern — Mok'si",
+    "url": "https://galacticracer.gameslantern.com/vehicles/moksi",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-msm-04",
+    "kind": "secondary",
+    "title": "GamesLantern — MSM 04",
+    "url": "https://galacticracer.gameslantern.com/vehicles/msm-04",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-napaco-d",
+    "kind": "secondary",
+    "title": "GamesLantern — Napaco D",
+    "url": "https://galacticracer.gameslantern.com/vehicles/napaco-d",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-nl-4",
+    "kind": "secondary",
+    "title": "GamesLantern — NL-4",
+    "url": "https://galacticracer.gameslantern.com/vehicles/nl-4",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-novyok",
+    "kind": "secondary",
+    "title": "GamesLantern — Novyok",
+    "url": "https://galacticracer.gameslantern.com/vehicles/novyok",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-ody-mandrells-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Ody Mandrell's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ody-mandrells-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-ody-mandrells-podracer-aged",
+    "kind": "secondary",
+    "title": "GamesLantern — Ody Mandrell's Podracer (Aged)",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ody-mandrells-podracer-aged",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-pelake",
+    "kind": "secondary",
+    "title": "GamesLantern — Pel'ake",
+    "url": "https://galacticracer.gameslantern.com/vehicles/pelake",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-rak-s",
+    "kind": "secondary",
+    "title": "GamesLantern — Rak S",
+    "url": "https://galacticracer.gameslantern.com/vehicles/rak-s",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-rar-27",
+    "kind": "secondary",
+    "title": "GamesLantern — RAR 27",
+    "url": "https://galacticracer.gameslantern.com/vehicles/rar-27",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-rathtar",
+    "kind": "secondary",
+    "title": "GamesLantern — Rathtar",
+    "url": "https://galacticracer.gameslantern.com/vehicles/rathtar",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-reek",
+    "kind": "secondary",
+    "title": "GamesLantern — Reek",
+    "url": "https://galacticracer.gameslantern.com/vehicles/reek",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-revasi-g",
+    "kind": "secondary",
+    "title": "GamesLantern — Revasi G",
+    "url": "https://galacticracer.gameslantern.com/vehicles/revasi-g",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-ricon",
+    "kind": "secondary",
+    "title": "GamesLantern — Ri'con",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ricon",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-sah-66",
+    "kind": "secondary",
+    "title": "GamesLantern — SAH 66",
+    "url": "https://galacticracer.gameslantern.com/vehicles/sah-66",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-sebulbas-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Sebulba's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/sebulbas-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-shades-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Shade's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/shades-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-shades-podracer-phase-2",
+    "kind": "secondary",
+    "title": "GamesLantern — Shade's Podracer (Phase 2)",
+    "url": "https://galacticracer.gameslantern.com/vehicles/shades-podracer-phase-2",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-shades-podracer-phase-3",
+    "kind": "secondary",
+    "title": "GamesLantern — Shade's Podracer (Phase 3)",
+    "url": "https://galacticracer.gameslantern.com/vehicles/shades-podracer-phase-3",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-sling",
+    "kind": "secondary",
+    "title": "GamesLantern — Sling",
+    "url": "https://galacticracer.gameslantern.com/vehicles/sling",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-starweb",
+    "kind": "secondary",
+    "title": "GamesLantern — Starweb",
+    "url": "https://galacticracer.gameslantern.com/vehicles/starweb",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-su-3",
+    "kind": "secondary",
+    "title": "GamesLantern — SU-3",
+    "url": "https://galacticracer.gameslantern.com/vehicles/su-3",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-tahan",
+    "kind": "secondary",
+    "title": "GamesLantern — Ta'han",
+    "url": "https://galacticracer.gameslantern.com/vehicles/tahan",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-teemto-pagaliess-podracer",
+    "kind": "secondary",
+    "title": "GamesLantern — Teemto Pagalies's Podracer",
+    "url": "https://galacticracer.gameslantern.com/vehicles/teemto-pagaliess-podracer",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-vornskr",
+    "kind": "secondary",
+    "title": "GamesLantern — Vornskr",
+    "url": "https://galacticracer.gameslantern.com/vehicles/vornskr",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-wi-9",
+    "kind": "secondary",
+    "title": "GamesLantern — WI-9",
+    "url": "https://galacticracer.gameslantern.com/vehicles/wi-9",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-wist-l",
+    "kind": "secondary",
+    "title": "GamesLantern — Wist L",
+    "url": "https://galacticracer.gameslantern.com/vehicles/wist-l",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-zaknee",
+    "kind": "secondary",
+    "title": "GamesLantern — Zak'nee",
+    "url": "https://galacticracer.gameslantern.com/vehicles/zaknee",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-gl-vehicles-zillo",
+    "kind": "secondary",
+    "title": "GamesLantern — Zillo",
+    "url": "https://galacticracer.gameslantern.com/vehicles/zillo",
+    "accessedAt": "2026-10-17"
+  },
+  {
+    "id": "world-wiki-characters-darius-pax",
+    "kind": "secondary",
+    "title": "Galactic Racer Wiki — Darius Pax",
+    "url": "https://swgalacticracer.wiki/characters/darius-pax/",
+    "accessedAt": "2026-10-17"
+  }
+]

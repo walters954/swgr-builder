@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle-class",
+  "id": "podracer",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Podracer",
+    "sourceIds": [
+      "world-gl-vehicle-classes-podracer"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Racing craft that uses an air brake for tighter turns.",
+    "sourceIds": [
+      "world-gl-vehicle-classes-podracer"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Class listing does not establish an exhaustive mode list."
+  },
+  "traits": []
+}

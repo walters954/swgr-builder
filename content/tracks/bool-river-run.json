@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "bool-river-run",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Bool River Run",
+    "sourceIds": [
+      "world-gl-tracks-bool-river-run"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Bool River Run is a race course on Sentinel I.",
+    "sourceIds": [
+      "world-gl-tracks-bool-river-run"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Sentinel I",
+    "sourceIds": [
+      "world-gl-tracks-bool-river-run"
+    ]
+  },
+  "hazards": {
+    "status": "reported",
+    "value": [
+      "Mines on some routes"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-bool-river-run"
+    ],
+    "notes": "Route-specific; not present on every configuration."
+  },
+  "availableModes": {
+    "status": "reported",
+    "value": [
+      "arcade"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-bool-river-run"
+    ],
+    "notes": "Arcade events are explicitly recorded; this is not an exhaustive compatibility list."
+  }
+}

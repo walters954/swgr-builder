@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Geist, Geist_Mono, Oxanium } from "next/font/google";
 import "./globals.css";
+import "./game-cards.css";
 import { AppShell } from "@/components/app-shell";
 
 const geistSans = Geist({
@@ -13,6 +14,8 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const displayFont = Oxanium({ subsets: ["latin"], variable: "--font-display", display: "swap" });
+
 export const metadata: Metadata = {
   title: { default: "Galactic Garage — Galactic Racer Wiki & Build Planner", template: "%s | Galactic Garage" },
   description: "Know your craft. Plan your next run with a source-backed Star Wars: Galactic Racer databank and round-by-round build planner.",
@@ -22,7 +25,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${displayFont.variable} h-full antialiased`}
     >
       <body><AppShell>{children}</AppShell></body>
     </html>

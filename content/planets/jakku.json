@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "planet",
+  "id": "jakku",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Jakku",
+    "sourceIds": [
+      "world-gl-planets-jakku"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Jakku is a racing destination in the Galactic League.",
+    "sourceIds": [
+      "world-gl-planets-jakku"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "environment": {
+    "status": "reported",
+    "value": "Hot desert scattered with starship wreckage.",
+    "sourceIds": [
+      "world-gl-planets-jakku"
+    ]
+  }
+}

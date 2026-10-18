@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "arz-41",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "ARZ 41",
+    "sourceIds": [
+      "world-gl-vehicles-arz-41"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "ARZ 41 is a landspeeder kit from Jadrax Race Rigs.",
+    "sourceIds": [
+      "world-gl-vehicles-arz-41"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-arz-41"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Jadrax Race Rigs",
+    "sourceIds": [
+      "world-gl-vehicles-arz-41"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

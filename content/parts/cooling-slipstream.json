@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "cooling-slipstream",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Cooling Slipstream",
+    "sourceIds": [
+      "gameslantern-part-cooling-slipstream"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While Slipstreaming, gain Cooled.",
+    "sourceIds": [
+      "gameslantern-part-cooling-slipstream"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-cooling-slipstream"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Slipstreaming, gain Cooled.",
+        "sourceIds": [
+          "gameslantern-part-cooling-slipstream"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-cooling-slipstream"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 35 events.",
+        "sourceIds": [
+          "gameslantern-part-cooling-slipstream"
+        ]
+      }
+    }
+  ]
+}

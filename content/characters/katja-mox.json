@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "katja-mox",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Katja Mox",
+    "sourceIds": [
+      "world-gl-racers-katja-mox"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Katja Mox is listed as a Galactic League racer.",
+    "sourceIds": [
+      "world-gl-racers-katja-mox"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "racer"
+    ],
+    "sourceIds": [
+      "world-gl-racers-katja-mox"
+    ]
+  },
+  "species": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No unambiguous species identification reviewed; no species inferred from appearance or name."
+  },
+  "playableModes": {
+    "status": "reported",
+    "value": [
+      "multiplayer-tour"
+    ],
+    "sourceIds": [
+      "world-gl-racers-katja-mox"
+    ],
+    "notes": "Explicit tour participation, not an exhaustive availability list."
+  },
+  "vehicleProfiles": [],
+  "loadouts": [
+    {
+      "id": "reported-multiplayer-tour",
+      "mode": "multiplayer-tour",
+      "racerStyle": {
+        "status": "reported",
+        "value": "Tech Expert",
+        "sourceIds": [
+          "world-gl-racers-katja-mox"
+        ],
+        "notes": "Style heading in the multiplayer traits section."
+      },
+      "abilityIds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Ability names remain unlinked pending parent ability manifest integration."
+      },
+      "traits": []
+    }
+  ]
+}

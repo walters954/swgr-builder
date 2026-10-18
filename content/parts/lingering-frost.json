@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "lingering-frost",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Lingering Frost",
+    "sourceIds": [
+      "gameslantern-part-lingering-frost"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Frozen lasts 300% longer.",
+    "sourceIds": [
+      "gameslantern-part-lingering-frost"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-lingering-frost"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Frozen lasts 300% longer.",
+        "sourceIds": [
+          "gameslantern-part-lingering-frost"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-lingering-frost"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-lingering-frost"
+        ]
+      }
+    }
+  ]
+}

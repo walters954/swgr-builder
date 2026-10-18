@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "kinetic-energizer",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Kinetic Energizer",
+    "sourceIds": [
+      "gameslantern-part-kinetic-energizer-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Every Takedown, gain +1 max Energy (limited).",
+    "sourceIds": [
+      "gameslantern-part-kinetic-energizer-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Every Takedown, gain +1 max Energy (limited).",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 55 events.",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Every Takedown, gain +2 max Energy (limited).",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 103 events.",
+        "sourceIds": [
+          "gameslantern-part-kinetic-energizer-ii"
+        ]
+      }
+    }
+  ]
+}

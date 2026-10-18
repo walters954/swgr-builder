@@ -10,7 +10,7 @@ export async function checkCatalogAssets(catalog: Catalog, root = process.cwd())
     // Evidence paths are repository-relative and remain private, outside public/.
     if (source.kind === "screenshot") assets.add(source.path);
   }
-  for (const entry of [...catalog.characters, ...catalog.abilities, ...catalog.vehicleClasses, ...catalog.racerStyles, ...catalog.parts, ...catalog.buildObservations]) {
+  for (const entry of [...catalog.characters, ...catalog.abilities, ...catalog.vehicleClasses, ...catalog.racerStyles, ...catalog.parts, ...catalog.buildObservations, ...catalog.vehicles, ...catalog.tracks, ...catalog.planets]) {
     // Display image paths are URL-relative; their files live under public/.
     if (entry.image) assets.add(`public${entry.image.path}`);
   }

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "uncapped-cooling",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Uncapped Cooling",
+    "sourceIds": [
+      "gameslantern-part-uncapped-cooling"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Ramjet temperature can decrease while active.",
+    "sourceIds": [
+      "gameslantern-part-uncapped-cooling"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-uncapped-cooling"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Ramjet temperature can decrease while active.",
+        "sourceIds": [
+          "gameslantern-part-uncapped-cooling"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-uncapped-cooling"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 103 events.",
+        "sourceIds": [
+          "gameslantern-part-uncapped-cooling"
+        ]
+      }
+    }
+  ]
+}

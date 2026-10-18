@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "kind": "track",
+  "id": "geothermal-tour",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Geothermal Tour",
+    "sourceIds": [
+      "world-gl-tracks-geothermal-tour"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Geothermal Tour is a race course on Lantaana.",
+    "sourceIds": [
+      "world-gl-tracks-geothermal-tour"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "planet": {
+    "status": "reported",
+    "value": "Lantaana",
+    "sourceIds": [
+      "world-gl-tracks-geothermal-tour"
+    ]
+  },
+  "hazards": {
+    "status": "reported",
+    "value": [
+      "Mines on some routes"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-geothermal-tour"
+    ],
+    "notes": "Route-specific; not present on every configuration."
+  },
+  "availableModes": {
+    "status": "reported",
+    "value": [
+      "arcade"
+    ],
+    "sourceIds": [
+      "world-gl-tracks-geothermal-tour"
+    ],
+    "notes": "Arcade events are explicitly recorded; this is not an exhaustive compatibility list."
+  }
+}

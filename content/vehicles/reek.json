@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "reek",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Reek",
+    "sourceIds": [
+      "world-gl-vehicles-reek"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Reek is a skim speeder kit from Sriluur Customs.",
+    "sourceIds": [
+      "world-gl-vehicles-reek"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "skim-speeder",
+    "sourceIds": [
+      "world-gl-vehicles-reek"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Sriluur Customs",
+    "sourceIds": [
+      "world-gl-vehicles-reek"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

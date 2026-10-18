@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "kind": "character",
+  "id": "lyren-shok",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Lyren Shok",
+    "sourceIds": [
+      "world-gl-racers-lyren-shok"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Lyren Shok is listed as a Galactic League racer.",
+    "sourceIds": [
+      "world-gl-racers-lyren-shok"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "roles": {
+    "status": "reported",
+    "value": [
+      "racer"
+    ],
+    "sourceIds": [
+      "world-gl-racers-lyren-shok"
+    ]
+  },
+  "species": {
+    "status": "reported",
+    "value": "Nautolan",
+    "sourceIds": [
+      "world-gl-racers-lyren-shok"
+    ]
+  },
+  "playableModes": {
+    "status": "reported",
+    "value": [
+      "multiplayer-tour"
+    ],
+    "sourceIds": [
+      "world-gl-racers-lyren-shok"
+    ],
+    "notes": "Explicit tour participation, not an exhaustive availability list."
+  },
+  "vehicleProfiles": [],
+  "loadouts": [
+    {
+      "id": "reported-multiplayer-tour",
+      "mode": "multiplayer-tour",
+      "racerStyle": {
+        "status": "reported",
+        "value": "Stunt Runner",
+        "sourceIds": [
+          "world-gl-racers-lyren-shok"
+        ],
+        "notes": "Style heading in the multiplayer traits section."
+      },
+      "abilityIds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Ability names remain unlinked pending parent ability manifest integration."
+      },
+      "traits": []
+    }
+  ]
+}

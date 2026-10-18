@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "critical-shielding",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Critical Shielding",
+    "sourceIds": [
+      "gameslantern-part-critical-shielding"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While 1 Crash remains, gain Shielded.",
+    "sourceIds": [
+      "gameslantern-part-critical-shielding"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-critical-shielding"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While 1 Crash remains, gain Shielded.",
+        "sourceIds": [
+          "gameslantern-part-critical-shielding"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-critical-shielding"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 20 events.",
+        "sourceIds": [
+          "gameslantern-part-critical-shielding"
+        ]
+      }
+    }
+  ]
+}

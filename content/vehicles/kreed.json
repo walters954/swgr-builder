@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "kreed",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Kreed",
+    "sourceIds": [
+      "world-gl-vehicles-kreed"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Kreed is a speeder bike kit from Keren Resto.",
+    "sourceIds": [
+      "world-gl-vehicles-kreed"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "speeder-bike",
+    "sourceIds": [
+      "world-gl-vehicles-kreed"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Keren Resto",
+    "sourceIds": [
+      "world-gl-vehicles-kreed"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

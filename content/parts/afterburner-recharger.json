@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "afterburner-recharger",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Afterburner Recharger",
+    "sourceIds": [
+      "gameslantern-part-afterburner-recharger"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "When Ramjet becomes ready, fully refill Afterburner.",
+    "sourceIds": [
+      "gameslantern-part-afterburner-recharger"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-afterburner-recharger"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "When Ramjet becomes ready, fully refill Afterburner.",
+        "sourceIds": [
+          "gameslantern-part-afterburner-recharger"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-afterburner-recharger"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-afterburner-recharger"
+        ]
+      }
+    }
+  ]
+}

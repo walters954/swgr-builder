@@ -1,204 +1,3887 @@
 [
   {
     "id": "official-launch-2026",
-    "kind": "official",
     "title": "StarWars.com — Rivalries Heat Up in Star Wars: Galactic Racer",
-    "url": "https://www.starwars.com/news/star-wars-galactic-racer",
-    "accessedAt": "2026-10-17"
+    "accessedAt": "2026-10-17",
+    "kind": "official",
+    "url": "https://www.starwars.com/news/star-wars-galactic-racer"
   },
   {
     "id": "official-vehicle-guide-2026",
-    "kind": "official",
     "title": "StarWars.com — Get a Crash Course on the Vehicles of Star Wars: Galactic Racer",
-    "url": "https://www.starwars.com/news/star-wars-galactic-racer-vehicle-guide",
-    "accessedAt": "2026-10-17"
+    "accessedAt": "2026-10-17",
+    "kind": "official",
+    "url": "https://www.starwars.com/news/star-wars-galactic-racer-vehicle-guide"
   },
   {
     "id": "ign-builds-2026",
-    "kind": "secondary",
     "title": "IGN — Best Vehicle Builds",
-    "url": "https://www.ign.com/wikis/star-wars-galactic-racer/Best_Vehicle_Builds",
     "accessedAt": "2026-10-17",
-    "notes": "Secondary reporting, not verified against owner screenshots. Do not infer equipped slot counts from recommended alternatives."
+    "notes": "Secondary reporting, not verified against owner screenshots. Do not infer equipped slot counts from recommended alternatives.",
+    "kind": "secondary",
+    "url": "https://www.ign.com/wikis/star-wars-galactic-racer/Best_Vehicle_Builds"
   },
   {
     "id": "screenshot-dud-bolt-character-select",
-    "kind": "screenshot",
     "title": "Owner screenshot 1 — Dud Bolt character selection",
-    "path": "content/evidence/screenshots/dud-bolt-character-select.png",
     "accessedAt": "2026-10-17",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/dud-bolt-character-select.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+    "language": "en"
   },
   {
     "id": "screenshot-gasgano-character-select",
-    "kind": "screenshot",
     "title": "Owner screenshot 2 — Gasgano character selection",
-    "path": "content/evidence/screenshots/gasgano-character-select.png",
     "accessedAt": "2026-10-17",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/gasgano-character-select.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+    "language": "en"
   },
   {
     "id": "screenshot-teemto-pagalies-character-select",
-    "kind": "screenshot",
     "title": "Owner screenshot 3 — Teemto Pagalies character selection",
-    "path": "content/evidence/screenshots/teemto-pagalies-character-select.png",
     "accessedAt": "2026-10-17",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/teemto-pagalies-character-select.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+    "language": "en"
   },
   {
     "id": "screenshot-sebulba-character-select",
-    "kind": "screenshot",
     "title": "Owner screenshot 4 — Sebulba character selection",
-    "path": "content/evidence/screenshots/sebulba-character-select.png",
     "accessedAt": "2026-10-17",
+    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/sebulba-character-select.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Owner identifies these character-selection screens as Podrace mode. Individual submode is not established. Resized evidence copy; original retained in the upload session."
+    "language": "en"
   },
   {
     "id": "screenshot-skim-speeder-vehicle-select",
-    "kind": "screenshot",
     "title": "Owner screenshot 5 — Skim Speeder vehicle selection",
-    "path": "content/evidence/screenshots/skim-speeder-vehicle-select.png",
     "accessedAt": "2026-10-17",
+    "notes": "Owner identifies the mode as Multiplayer Tour. The screen shows a vehicle class, not a named character or specific vehicle model. Keyboard/controller input glyph is not transcribed as a binding.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/skim-speeder-vehicle-select.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Owner identifies the mode as Multiplayer Tour. The screen shows a vehicle class, not a named character or specific vehicle model. Keyboard/controller input glyph is not transcribed as a binding."
+    "language": "en"
   },
   {
     "id": "screenshot-griff-halloran-character-select",
-    "kind": "screenshot",
     "title": "Owner screenshot 6 — Griff Halloran and Afterburner Racer Style",
-    "path": "content/evidence/screenshots/griff-halloran-character-select.png",
     "accessedAt": "2026-10-17",
+    "notes": "Supplied in the ongoing Multiplayer Tour screenshot sequence following the owner's mode clarification. No equipped abilities, vehicle class, rank, or numerical Afterburner power multiplier are established by this panel.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/griff-halloran-character-select.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Supplied in the ongoing Multiplayer Tour screenshot sequence following the owner's mode clarification. No equipped abilities, vehicle class, rank, or numerical Afterburner power multiplier are established by this panel."
+    "language": "en"
   },
   {
     "id": "screenshot-stunt-runner-build",
-    "kind": "screenshot",
     "title": "Owner screenshot 7 — Skim Speeder Stunt Runner build screen",
-    "path": "content/evidence/screenshots/stunt-runner-build.png",
     "accessedAt": "2026-10-17",
+    "notes": "Build screen, not a character-selection panel. Character and mode are not named. Speed 322 is a displayed observation with unspecified units, not a class baseline. Installed Parts shows 1/4. Contains voice-chat overlays; keep evidence private and do not publish without redaction.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/stunt-runner-build.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Build screen, not a character-selection panel. Character and mode are not named. Speed 322 is a displayed observation with unspecified units, not a class baseline. Installed Parts shows 1/4. Contains voice-chat overlays; keep evidence private and do not publish without redaction."
+    "language": "en"
   },
   {
     "id": "screenshot-part-rewards",
-    "kind": "screenshot",
     "title": "Owner screenshot 8 — Choose a Part rewards",
-    "path": "content/evidence/screenshots/part-rewards.png",
     "accessedAt": "2026-10-17",
+    "notes": "Four offered reward candidates, not four equipped parts. Mode and character are not named in text. Do not infer rank or rarity from dot indicators, icons, or colors. Redlining tooltip is cut off; only use readable card effects. Speed 334 is not a baseline or proof of a specific stat change.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/part-rewards.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Four offered reward candidates, not four equipped parts. Mode and character are not named in text. Do not infer rank or rarity from dot indicators, icons, or colors. Redlining tooltip is cut off; only use readable card effects. Speed 334 is not a baseline or proof of a specific stat change."
+    "language": "en"
   },
   {
     "id": "screenshot-stunt-runner-full-build",
-    "kind": "screenshot",
     "title": "Owner screenshot 9 — Skim Speeder Stunt Runner build, four installed parts",
-    "path": "content/evidence/screenshots/stunt-runner-full-build.png",
     "accessedAt": "2026-10-17",
+    "notes": "Shows 4/4 installed parts, Vectored Shockwave II in Ability 1, Surge in Ability 2, and speed 347. Character, mode, round number, currency label, and units are not named. Do not infer rarity/rank from dot counts. No assumption that this speed difference was caused by any one part.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/stunt-runner-full-build.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Shows 4/4 installed parts, Vectored Shockwave II in Ability 1, Surge in Ability 2, and speed 347. Character, mode, round number, currency label, and units are not named. Do not infer rarity/rank from dot counts. No assumption that this speed difference was caused by any one part."
+    "language": "en"
   },
   {
     "id": "screenshot-stunt-runner-efficiency-build",
-    "kind": "screenshot",
     "title": "Owner screenshot 10 — Stunt Runner with Afterburner Efficiency IV and Impact Surge",
-    "path": "content/evidence/screenshots/stunt-runner-efficiency-build.png",
     "accessedAt": "2026-10-17",
+    "notes": "Shows Skim Speeder, Stunt Runner, 4/4 parts, Afterburner Efficiency IV, Heated Fuel II, Depleted Shielding, Expanding Fuel Tank, Vectored Shockwave II, Impact Surge, and speed359. No round number or mode is shown. Different ability names alone do not prove a rank/upgrade relationship.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/stunt-runner-efficiency-build.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Shows Skim Speeder, Stunt Runner, 4/4 parts, Afterburner Efficiency IV, Heated Fuel II, Depleted Shielding, Expanding Fuel Tank, Vectored Shockwave II, Impact Surge, and speed359. No round number or mode is shown. Different ability names alone do not prove a rank/upgrade relationship."
+    "language": "en"
   },
   {
     "id": "screenshot-vectored-shockwave-tooltip",
-    "kind": "screenshot",
     "title": "Owner screenshot 11 — Vectored Shockwave tooltip and Impact Surge II",
-    "path": "content/evidence/screenshots/vectored-shockwave-tooltip.png",
     "accessedAt": "2026-10-17",
+    "notes": "Native-resolution crop confirms Vectored Shockwave II and Impact Surge II labels. Generic tooltip describes blasting opponents away, forward propulsion, and System Malfunction; it does not state numeric rank bonuses. Ability category tooltip: Equippable tech that provides offensive, defensive, or utility capabilities. Consume Energy to activate. Numeric energy cost is not shown. Parts are partially obscured by the tooltip.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/vectored-shockwave-tooltip.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Native-resolution crop confirms Vectored Shockwave II and Impact Surge II labels. Generic tooltip describes blasting opponents away, forward propulsion, and System Malfunction; it does not state numeric rank bonuses. Ability category tooltip: Equippable tech that provides offensive, defensive, or utility capabilities. Consume Energy to activate. Numeric energy cost is not shown. Parts are partially obscured by the tooltip."
+    "language": "en"
   },
   {
     "id": "screenshot-part-rewards-12",
-    "kind": "screenshot",
     "title": "Owner screenshot 12 — Choose a Part rewards and Perfect Start / Shielded tooltips",
-    "path": "content/evidence/screenshots/part-rewards-12.png",
     "accessedAt": "2026-10-17",
+    "notes": "Four offered reward candidates, not installed parts. Native-resolution crop confirms Protective Ignition III. Lethal Velocity II and Extended Cooling I have visible numerals; Dechoking Mechanism has no visible numeral. Do not infer rank or rarity from dots, icons, or colors. Mode and character are not established. Perfect Start tooltip: Temporary boost gained from Perfect acceleration check upon race start. Shielded tooltip: Increases protection from collisions and impacts as well as blocks externally-applied status effects. Evidence normalized to a maximum dimension of 2200 pixels; original retained in the upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/part-rewards-12.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Four offered reward candidates, not installed parts. Native-resolution crop confirms Protective Ignition III. Lethal Velocity II and Extended Cooling I have visible numerals; Dechoking Mechanism has no visible numeral. Do not infer rank or rarity from dots, icons, or colors. Mode and character are not established. Perfect Start tooltip: Temporary boost gained from Perfect acceleration check upon race start. Shielded tooltip: Increases protection from collisions and impacts as well as blocks externally-applied status effects. Evidence normalized to a maximum dimension of 2200 pixels; original retained in the upload session."
+    "language": "en"
   },
   {
     "id": "screenshot-survivor-build-13",
-    "kind": "screenshot",
     "title": "Owner screenshot 13 — Landspeeder Survivor build",
-    "path": "content/evidence/screenshots/survivor-build-13.png",
     "accessedAt": "2026-10-17",
+    "notes": "Actual image13 is a build screen, not reward choices. Shows Landspeeder, displayed Speed 359 (units unspecified), Survivor style, 4/4 installed parts, Impact Shield in Ability 1, and Shockwave in Ability 2. Native-resolution crops confirm Thermocycling Dampers II: On landing, reset Ramjet temperature.; Heated Fuel II: Redlining increases power of next Afterburner by 50%.; Extended Alarm IV: Redlining duration is 200% longer.; Heat Reduction IV: Ramjet generates 30% less heat. Survivor traits: Protected — Start with Shield Ability installed.; Mint Condition — Considerably increases Speed. Lost on Crash.; Power to Thrusters — When Shielded is lost, gain Surging for 10s. Shield in the trait is not assumed to be an alias of Impact Shield. No character or mode is named. Do not infer numeric stats from bars, rarity from dots, or compatibility from this single build. Evidence maximum dimension 1900 pixels; original unchanged in upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/survivor-build-13.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Actual image13 is a build screen, not reward choices. Shows Landspeeder, displayed Speed 359 (units unspecified), Survivor style, 4/4 installed parts, Impact Shield in Ability 1, and Shockwave in Ability 2. Native-resolution crops confirm Thermocycling Dampers II: On landing, reset Ramjet temperature.; Heated Fuel II: Redlining increases power of next Afterburner by 50%.; Extended Alarm IV: Redlining duration is 200% longer.; Heat Reduction IV: Ramjet generates 30% less heat. Survivor traits: Protected — Start with Shield Ability installed.; Mint Condition — Considerably increases Speed. Lost on Crash.; Power to Thrusters — When Shielded is lost, gain Surging for 10s. Shield in the trait is not assumed to be an alias of Impact Shield. No character or mode is named. Do not infer numeric stats from bars, rarity from dots, or compatibility from this single build. Evidence maximum dimension 1900 pixels; original unchanged in upload session."
+    "language": "en"
   },
   {
     "id": "screenshot-backer-contracts-14",
-    "kind": "screenshot",
     "title": "Owner screenshot 14 — Choose a Backer Contract",
-    "path": "content/evidence/screenshots/screenshot-14.png",
     "accessedAt": "2026-10-17",
+    "notes": "Screen heading: CHOOSE A BACKER CONTRACT. Instruction: Earn bonus credits for completing a contract's action. Visible options: THE BROKER — Spend time airborne.; THE HUTT — Perform jumps.; THE PIRATE — Spend time Slipstreaming. A check mark appears below The Broker. These are backer-contract labels, not evidence of named characters, parts, abilities, or racer styles; preserved as source notes only because no matching catalog kind exists. No bonus amount, mode, or character is established. Evidence maximum dimension 1900 pixels; original unchanged in upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/screenshot-14.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Screen heading: CHOOSE A BACKER CONTRACT. Instruction: Earn bonus credits for completing a contract's action. Visible options: THE BROKER — Spend time airborne.; THE HUTT — Perform jumps.; THE PIRATE — Spend time Slipstreaming. A check mark appears below The Broker. These are backer-contract labels, not evidence of named characters, parts, abilities, or racer styles; preserved as source notes only because no matching catalog kind exists. No bonus amount, mode, or character is established. Evidence maximum dimension 1900 pixels; original unchanged in upload session."
+    "language": "en"
   },
   {
     "id": "screenshot-part-rewards-15",
-    "kind": "screenshot",
     "title": "Owner screenshot 15 — Speeder Bike Clean Racer build and Overtaking Surge tooltip",
-    "path": "content/evidence/screenshots/part-rewards-15.png",
     "accessedAt": "2026-10-17",
+    "notes": "Despite the requested source ID and evidence filename, actual image15 is an installed build, not reward candidates. Shows Speeder Bike, Clean Racer, displayed Speed 359 (units unspecified), and Installed Parts 4/4. Native-resolution crop confirms Optimized Fuel III: When fully fueled, Afterburner power increased by 100%.; Optimized Surge II: Surging is 50% more potent. Afterburner Efficiency III and Extended Alarm IV labels are visible behind the tooltip; no new effects are inferred from obscured text. Ability labels: Overtaking Surge II in Ability 1, Status Scrubber in Ability 2, and Ion Blast as Crash Ability. Overtaking Surge tooltip: Gain Surging for 10s, lost on impact. Overtakes extend the duration and increase its potency. Ability category tooltip: Equippable tech that provides offensive, defensive, or utility capabilities. Consume Energy to activate. Numeric energy cost is not shown. Ability/style details retained here only, outside this parts-only intake scope. Do not infer rarity from dots, compatibility, mode, character, or baseline stats. No reward observation created. Evidence maximum dimension 1900 pixels, kept under ignored content/evidence; original unchanged in upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/part-rewards-15.png",
     "capturedAt": null,
     "platform": null,
     "gameVersion": null,
-    "language": "en",
-    "notes": "Despite the requested source ID and evidence filename, actual image15 is an installed build, not reward candidates. Shows Speeder Bike, Clean Racer, displayed Speed 359 (units unspecified), and Installed Parts 4/4. Native-resolution crop confirms Optimized Fuel III: When fully fueled, Afterburner power increased by 100%.; Optimized Surge II: Surging is 50% more potent. Afterburner Efficiency III and Extended Alarm IV labels are visible behind the tooltip; no new effects are inferred from obscured text. Ability labels: Overtaking Surge II in Ability 1, Status Scrubber in Ability 2, and Ion Blast as Crash Ability. Overtaking Surge tooltip: Gain Surging for 10s, lost on impact. Overtakes extend the duration and increase its potency. Ability category tooltip: Equippable tech that provides offensive, defensive, or utility capabilities. Consume Energy to activate. Numeric energy cost is not shown. Ability/style details retained here only, outside this parts-only intake scope. Do not infer rarity from dots, compatibility, mode, character, or baseline stats. No reward observation created. Evidence maximum dimension 1900 pixels, kept under ignored content/evidence; original unchanged in upload session."
+    "language": "en"
+  },
+  {
+    "id": "screenshot-clean-racer-tooltip-16",
+    "title": "Owner screenshot 16 — Speeder Bike Clean Racer and Overtaking Surge tooltip",
+    "accessedAt": "2026-10-17",
+    "notes": "Actual build screen shows Speeder Bike and Clean Racer. Native-resolution crop confirms Overtaking Surge II in Ability 1; Status Scrubber is Ability 2 and Ion Blast is explicitly Crash Ability, not a regular slot. Generic Overtaking Surge tooltip: Gain Surging for 10s, lost on impact. Overtakes extend the duration and increase its potency. The 10-second duration is a conditional base, not fixed total duration. Afterburner Efficiency III title is visible, but its effect is obscured; no value is inferred from rank or dots. Optimized Fuel III, Optimized Surge II, and Extended Alarm IV are already cataloged; existing effects are not changed. No character, mode, or round is established; no general compatibility or baseline stats inferred. Evidence maximum dimension 1900 pixels; original unchanged in upload session.",
+    "kind": "screenshot",
+    "path": "content/evidence/screenshots/clean-racer-tooltip-16.png",
+    "capturedAt": null,
+    "platform": null,
+    "gameVersion": null,
+    "language": "en"
+  },
+  {
+    "id": "gameslantern-vehicle-parts",
+    "title": "Games Lantern — Galactic Racer vehicle parts",
+    "accessedAt": "2026-10-17",
+    "notes": "User-supplied supplementary catalog. Its tier, rarity, price, and unlock claims are reported facts, not independently screenshot-verified. Do not globally infer rarity from rank.",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts"
+  },
+  {
+    "id": "gameslantern-afterburner-efficiency-iii",
+    "title": "Games Lantern — Afterburner Efficiency III",
+    "accessedAt": "2026-10-17",
+    "notes": "Reports III as Epic with Afterburner duration 150% longer. Used to fill the obscured effect in owner screenshot 16; the effect and rarity remain reported, while the visible III rank retains screenshot provenance.",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-efficiency-iii"
+  },
+  {
+    "id": "swgalacticracer-wiki-home",
+    "title": "Star Wars Galactic Racer Wiki & Guide",
+    "accessedAt": "2026-10-17",
+    "notes": "User-supplied independent fan guide checked for background and class organization. Its own Official badges do not make its statements primary official evidence. No images or long guide text copied.",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/"
+  },
+  {
+    "id": "gameslantern-part-ability-catalyst",
+    "title": "Games Lantern — Ability Catalyst",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ability-catalyst"
+  },
+  {
+    "id": "gameslantern-part-acid-battery",
+    "title": "Games Lantern — Acid Battery",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/acid-battery"
+  },
+  {
+    "id": "gameslantern-part-acidic-fuel",
+    "title": "Games Lantern — Acidic Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/acidic-fuel"
+  },
+  {
+    "id": "gameslantern-part-acrid-alarm",
+    "title": "Games Lantern — Acrid Alarm",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/acrid-alarm"
+  },
+  {
+    "id": "gameslantern-part-aerial-intakes",
+    "title": "Games Lantern — Aerial Intakes",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/aerial-intakes"
+  },
+  {
+    "id": "gameslantern-part-aerial-surge",
+    "title": "Games Lantern — Aerial Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/aerial-surge"
+  },
+  {
+    "id": "gameslantern-part-afterburner-efficiency-i",
+    "title": "Games Lantern — Afterburner Efficiency I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-efficiency-i"
+  },
+  {
+    "id": "gameslantern-part-afterburner-efficiency-ii",
+    "title": "Games Lantern — Afterburner Efficiency II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-efficiency-ii"
+  },
+  {
+    "id": "gameslantern-part-afterburner-efficiency-iii",
+    "title": "Games Lantern — Afterburner Efficiency III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-efficiency-iii"
+  },
+  {
+    "id": "gameslantern-part-afterburner-efficiency-iv",
+    "title": "Games Lantern — Afterburner Efficiency IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-efficiency-iv"
+  },
+  {
+    "id": "gameslantern-part-afterburner-recharger",
+    "title": "Games Lantern — Afterburner Recharger",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-recharger"
+  },
+  {
+    "id": "gameslantern-part-afterburner-reconfiguration",
+    "title": "Games Lantern — Afterburner Reconfiguration",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-reconfiguration"
+  },
+  {
+    "id": "gameslantern-part-afterburner-reconfiguration-2",
+    "title": "Games Lantern — Afterburner Reconfiguration",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-reconfiguration-2"
+  },
+  {
+    "id": "gameslantern-part-afterburner-thermalizer",
+    "title": "Games Lantern — Afterburner Thermalizer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/afterburner-thermalizer"
+  },
+  {
+    "id": "gameslantern-part-amplifying-regulator",
+    "title": "Games Lantern — Amplifying Regulator",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/amplifying-regulator"
+  },
+  {
+    "id": "gameslantern-part-antacid-coating",
+    "title": "Games Lantern — Antacid Coating",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/antacid-coating"
+  },
+  {
+    "id": "gameslantern-part-anti-surge-device",
+    "title": "Games Lantern — Anti-Surge Device",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/anti-surge-device"
+  },
+  {
+    "id": "gameslantern-part-athermic-alarm",
+    "title": "Games Lantern — Athermic Alarm",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/athermic-alarm"
+  },
+  {
+    "id": "gameslantern-part-bleeding-edge-tech",
+    "title": "Games Lantern — Bleeding-Edge Tech",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/bleeding-edge-tech"
+  },
+  {
+    "id": "gameslantern-part-built-for-battle",
+    "title": "Games Lantern — Built for Battle",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/built-for-battle"
+  },
+  {
+    "id": "gameslantern-part-burn-protection",
+    "title": "Games Lantern — Burn Protection",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/burn-protection"
+  },
+  {
+    "id": "gameslantern-part-burning-contacts",
+    "title": "Games Lantern — Burning Contacts",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/burning-contacts"
+  },
+  {
+    "id": "gameslantern-part-burning-ramjet",
+    "title": "Games Lantern — Burning Ramjet",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/burning-ramjet"
+  },
+  {
+    "id": "gameslantern-part-calibrating-landings-i",
+    "title": "Games Lantern — Calibrating Landings I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/calibrating-landings-i"
+  },
+  {
+    "id": "gameslantern-part-calibrating-landings-ii",
+    "title": "Games Lantern — Calibrating Landings II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/calibrating-landings-ii"
+  },
+  {
+    "id": "gameslantern-part-calibrating-landings-iii",
+    "title": "Games Lantern — Calibrating Landings III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/calibrating-landings-iii"
+  },
+  {
+    "id": "gameslantern-part-charging-coils",
+    "title": "Games Lantern — Charging Coils",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/charging-coils"
+  },
+  {
+    "id": "gameslantern-part-charging-repulsors-i",
+    "title": "Games Lantern — Charging Repulsors I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/charging-repulsors-i"
+  },
+  {
+    "id": "gameslantern-part-charging-repulsors-ii",
+    "title": "Games Lantern — Charging Repulsors II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/charging-repulsors-ii"
+  },
+  {
+    "id": "gameslantern-part-chassis-cleansing",
+    "title": "Games Lantern — Chassis Cleansing",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/chassis-cleansing"
+  },
+  {
+    "id": "gameslantern-part-choking-burn",
+    "title": "Games Lantern — Choking Burn",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/choking-burn"
+  },
+  {
+    "id": "gameslantern-part-coldstart-afterburner",
+    "title": "Games Lantern — Coldstart Afterburner",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/coldstart-afterburner"
+  },
+  {
+    "id": "gameslantern-part-complex-interlocks",
+    "title": "Games Lantern — Complex Interlocks",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/complex-interlocks"
+  },
+  {
+    "id": "gameslantern-part-coolant-cycler-i",
+    "title": "Games Lantern — Coolant Cycler I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/coolant-cycler-i"
+  },
+  {
+    "id": "gameslantern-part-coolant-cycler-ii",
+    "title": "Games Lantern — Coolant Cycler II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/coolant-cycler-ii"
+  },
+  {
+    "id": "gameslantern-part-coolant-cycler-iii",
+    "title": "Games Lantern — Coolant Cycler III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/coolant-cycler-iii"
+  },
+  {
+    "id": "gameslantern-part-cooling-actuator-i",
+    "title": "Games Lantern — Cooling Actuator I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-actuator-i"
+  },
+  {
+    "id": "gameslantern-part-cooling-actuator-ii",
+    "title": "Games Lantern — Cooling Actuator II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-actuator-ii"
+  },
+  {
+    "id": "gameslantern-part-cooling-actuator-iii",
+    "title": "Games Lantern — Cooling Actuator III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-actuator-iii"
+  },
+  {
+    "id": "gameslantern-part-cooling-actuator-iv",
+    "title": "Games Lantern — Cooling Actuator IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-actuator-iv"
+  },
+  {
+    "id": "gameslantern-part-cooling-aerofoils",
+    "title": "Games Lantern — Cooling Aerofoils",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-aerofoils"
+  },
+  {
+    "id": "gameslantern-part-cooling-dampers-i",
+    "title": "Games Lantern — Cooling Dampers I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-dampers-i"
+  },
+  {
+    "id": "gameslantern-part-cooling-dampers-ii",
+    "title": "Games Lantern — Cooling Dampers II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-dampers-ii"
+  },
+  {
+    "id": "gameslantern-part-cooling-dampers-iii",
+    "title": "Games Lantern — Cooling Dampers III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-dampers-iii"
+  },
+  {
+    "id": "gameslantern-part-cooling-dampers-iv",
+    "title": "Games Lantern — Cooling Dampers IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-dampers-iv"
+  },
+  {
+    "id": "gameslantern-part-cooling-overcharge",
+    "title": "Games Lantern — Cooling Overcharge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-overcharge"
+  },
+  {
+    "id": "gameslantern-part-cooling-slipstream",
+    "title": "Games Lantern — Cooling Slipstream",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-slipstream"
+  },
+  {
+    "id": "gameslantern-part-cooling-surge",
+    "title": "Games Lantern — Cooling Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cooling-surge"
+  },
+  {
+    "id": "gameslantern-part-corrode-resistance",
+    "title": "Games Lantern — Corrode Resistance",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/corrode-resistance"
+  },
+  {
+    "id": "gameslantern-part-corrode-resistance-2",
+    "title": "Games Lantern — Corrode Resistance",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/corrode-resistance-2"
+  },
+  {
+    "id": "gameslantern-part-corrosion-shedding",
+    "title": "Games Lantern — Corrosion Shedding",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/corrosion-shedding"
+  },
+  {
+    "id": "gameslantern-part-corrosion-vulnerability",
+    "title": "Games Lantern — Corrosion Vulnerability",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/corrosion-vulnerability"
+  },
+  {
+    "id": "gameslantern-part-cracked-battery",
+    "title": "Games Lantern — Cracked Battery",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cracked-battery"
+  },
+  {
+    "id": "gameslantern-part-cracked-fuelpipes",
+    "title": "Games Lantern — Cracked Fuelpipes",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/cracked-fuelpipes"
+  },
+  {
+    "id": "gameslantern-part-critical-assist",
+    "title": "Games Lantern — Critical Assist",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/critical-assist"
+  },
+  {
+    "id": "gameslantern-part-critical-cooling",
+    "title": "Games Lantern — Critical Cooling",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/critical-cooling"
+  },
+  {
+    "id": "gameslantern-part-critical-hope",
+    "title": "Games Lantern — Critical Hope",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/critical-hope"
+  },
+  {
+    "id": "gameslantern-part-critical-injectors-i",
+    "title": "Games Lantern — Critical Injectors I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/critical-injectors-i"
+  },
+  {
+    "id": "gameslantern-part-critical-injectors-ii",
+    "title": "Games Lantern — Critical Injectors II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/critical-injectors-ii"
+  },
+  {
+    "id": "gameslantern-part-critical-shielding",
+    "title": "Games Lantern — Critical Shielding",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/critical-shielding"
+  },
+  {
+    "id": "gameslantern-part-critical-surging",
+    "title": "Games Lantern — Critical Surging",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/critical-surging"
+  },
+  {
+    "id": "gameslantern-part-dechoking-mechanism",
+    "title": "Games Lantern — Dechoking Mechanism",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/dechoking-mechanism"
+  },
+  {
+    "id": "gameslantern-part-defective-alarm",
+    "title": "Games Lantern — Defective Alarm",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/defective-alarm"
+  },
+  {
+    "id": "gameslantern-part-defensive-start",
+    "title": "Games Lantern — Defensive Start",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/defensive-start"
+  },
+  {
+    "id": "gameslantern-part-degraded-dampers",
+    "title": "Games Lantern — Degraded Dampers",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/degraded-dampers"
+  },
+  {
+    "id": "gameslantern-part-depleted-shielding",
+    "title": "Games Lantern — Depleted Shielding",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/depleted-shielding"
+  },
+  {
+    "id": "gameslantern-part-disregulated-heating",
+    "title": "Games Lantern — Disregulated Heating",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/disregulated-heating"
+  },
+  {
+    "id": "gameslantern-part-disrupted-fuel",
+    "title": "Games Lantern — Disrupted Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/disrupted-fuel"
+  },
+  {
+    "id": "gameslantern-part-disruption-protection",
+    "title": "Games Lantern — Disruption Protection",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/disruption-protection"
+  },
+  {
+    "id": "gameslantern-part-dissipative-plating-i",
+    "title": "Games Lantern — Dissipative Plating I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/dissipative-plating-i"
+  },
+  {
+    "id": "gameslantern-part-dissipative-plating-ii",
+    "title": "Games Lantern — Dissipative Plating II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/dissipative-plating-ii"
+  },
+  {
+    "id": "gameslantern-part-dissipative-plating-iii",
+    "title": "Games Lantern — Dissipative Plating III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/dissipative-plating-iii"
+  },
+  {
+    "id": "gameslantern-part-double-control-surfaces",
+    "title": "Games Lantern — Double Control Surfaces",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/double-control-surfaces"
+  },
+  {
+    "id": "gameslantern-part-draggy-control-surfaces",
+    "title": "Games Lantern — Draggy Control Surfaces",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/draggy-control-surfaces"
+  },
+  {
+    "id": "gameslantern-part-dud-battery",
+    "title": "Games Lantern — Dud Battery",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/dud-battery"
+  },
+  {
+    "id": "gameslantern-part-emergency-cooling",
+    "title": "Games Lantern — Emergency Cooling",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/emergency-cooling"
+  },
+  {
+    "id": "gameslantern-part-endothermic-repulsors",
+    "title": "Games Lantern — Endothermic Repulsors",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/endothermic-repulsors"
+  },
+  {
+    "id": "gameslantern-part-energy-surplus",
+    "title": "Games Lantern — Energy Surplus",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/energy-surplus"
+  },
+  {
+    "id": "gameslantern-part-enhanced-coolant-i",
+    "title": "Games Lantern — Enhanced Coolant I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enhanced-coolant-i"
+  },
+  {
+    "id": "gameslantern-part-enhanced-coolant-ii",
+    "title": "Games Lantern — Enhanced Coolant II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enhanced-coolant-ii"
+  },
+  {
+    "id": "gameslantern-part-enhanced-coolant-iii",
+    "title": "Games Lantern — Enhanced Coolant III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enhanced-coolant-iii"
+  },
+  {
+    "id": "gameslantern-part-enhanced-coolant-iv",
+    "title": "Games Lantern — Enhanced Coolant IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enhanced-coolant-iv"
+  },
+  {
+    "id": "gameslantern-part-enriched-fuel-i",
+    "title": "Games Lantern — Enriched Fuel I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enriched-fuel-i"
+  },
+  {
+    "id": "gameslantern-part-enriched-fuel-ii",
+    "title": "Games Lantern — Enriched Fuel II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enriched-fuel-ii"
+  },
+  {
+    "id": "gameslantern-part-enriched-fuel-iii",
+    "title": "Games Lantern — Enriched Fuel III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enriched-fuel-iii"
+  },
+  {
+    "id": "gameslantern-part-enriched-fuel-iv",
+    "title": "Games Lantern — Enriched Fuel IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enriched-fuel-iv"
+  },
+  {
+    "id": "gameslantern-part-enriched-fuel-iv-2",
+    "title": "Games Lantern — Enriched Fuel IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enriched-fuel-iv-2"
+  },
+  {
+    "id": "gameslantern-part-enriching-siphon",
+    "title": "Games Lantern — Enriching Siphon",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/enriching-siphon"
+  },
+  {
+    "id": "gameslantern-part-expanding-fueltank",
+    "title": "Games Lantern — Expanding Fueltank",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/expanding-fueltank"
+  },
+  {
+    "id": "gameslantern-part-explosive-burning",
+    "title": "Games Lantern — Explosive Burning",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/explosive-burning"
+  },
+  {
+    "id": "gameslantern-part-exposed-servos",
+    "title": "Games Lantern — Exposed Servos",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/exposed-servos"
+  },
+  {
+    "id": "gameslantern-part-extended-alarm-i",
+    "title": "Games Lantern — Extended Alarm I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/extended-alarm-i"
+  },
+  {
+    "id": "gameslantern-part-extended-alarm-ii",
+    "title": "Games Lantern — Extended Alarm II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/extended-alarm-ii"
+  },
+  {
+    "id": "gameslantern-part-extended-alarm-iii",
+    "title": "Games Lantern — Extended Alarm III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/extended-alarm-iii"
+  },
+  {
+    "id": "gameslantern-part-extended-alarm-iv",
+    "title": "Games Lantern — Extended Alarm IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/extended-alarm-iv"
+  },
+  {
+    "id": "gameslantern-part-extended-cooling-i",
+    "title": "Games Lantern — Extended Cooling I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/extended-cooling-i"
+  },
+  {
+    "id": "gameslantern-part-extended-cooling-ii",
+    "title": "Games Lantern — Extended Cooling II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/extended-cooling-ii"
+  },
+  {
+    "id": "gameslantern-part-extended-cooling-iii",
+    "title": "Games Lantern — Extended Cooling III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/extended-cooling-iii"
+  },
+  {
+    "id": "gameslantern-part-failsafe-coolant",
+    "title": "Games Lantern — Failsafe Coolant",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/failsafe-coolant"
+  },
+  {
+    "id": "gameslantern-part-faster-attachments-i",
+    "title": "Games Lantern — Faster Attachments I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/faster-attachments-i"
+  },
+  {
+    "id": "gameslantern-part-faster-attachments-ii",
+    "title": "Games Lantern — Faster Attachments II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/faster-attachments-ii"
+  },
+  {
+    "id": "gameslantern-part-faster-attachments-iii",
+    "title": "Games Lantern — Faster Attachments III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/faster-attachments-iii"
+  },
+  {
+    "id": "gameslantern-part-faster-attachments-iv",
+    "title": "Games Lantern — Faster Attachments IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/faster-attachments-iv"
+  },
+  {
+    "id": "gameslantern-part-faulty-abilities",
+    "title": "Games Lantern — Faulty Abilities",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/faulty-abilities"
+  },
+  {
+    "id": "gameslantern-part-faulty-activator",
+    "title": "Games Lantern — Faulty Activator",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/faulty-activator"
+  },
+  {
+    "id": "gameslantern-part-faulty-failsafe",
+    "title": "Games Lantern — Faulty Failsafe",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/faulty-failsafe"
+  },
+  {
+    "id": "gameslantern-part-flammable-manifold",
+    "title": "Games Lantern — Flammable Manifold",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/flammable-manifold"
+  },
+  {
+    "id": "gameslantern-part-fractured-abilities",
+    "title": "Games Lantern — Fractured Abilities",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fractured-abilities"
+  },
+  {
+    "id": "gameslantern-part-fragile-subsystems",
+    "title": "Games Lantern — Fragile Subsystems",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fragile-subsystems"
+  },
+  {
+    "id": "gameslantern-part-freeze-resistance-i",
+    "title": "Games Lantern — Freeze Resistance I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/freeze-resistance-i"
+  },
+  {
+    "id": "gameslantern-part-freeze-resistance-ii",
+    "title": "Games Lantern — Freeze Resistance II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/freeze-resistance-ii"
+  },
+  {
+    "id": "gameslantern-part-freeze-shedding",
+    "title": "Games Lantern — Freeze Shedding",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/freeze-shedding"
+  },
+  {
+    "id": "gameslantern-part-freeze-vulnerability",
+    "title": "Games Lantern — Freeze Vulnerability",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/freeze-vulnerability"
+  },
+  {
+    "id": "gameslantern-part-frost-protection",
+    "title": "Games Lantern — Frost Protection",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/frost-protection"
+  },
+  {
+    "id": "gameslantern-part-frosted-aerofoils",
+    "title": "Games Lantern — Frosted Aerofoils",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/frosted-aerofoils"
+  },
+  {
+    "id": "gameslantern-part-frosted-injectors",
+    "title": "Games Lantern — Frosted Injectors",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/frosted-injectors"
+  },
+  {
+    "id": "gameslantern-part-frozen-finesse",
+    "title": "Games Lantern — Frozen Finesse",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/frozen-finesse"
+  },
+  {
+    "id": "gameslantern-part-fuel-agitator-i",
+    "title": "Games Lantern — Fuel Agitator I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-agitator-i"
+  },
+  {
+    "id": "gameslantern-part-fuel-agitator-ii",
+    "title": "Games Lantern — Fuel Agitator II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-agitator-ii"
+  },
+  {
+    "id": "gameslantern-part-fuel-agitator-iii",
+    "title": "Games Lantern — Fuel Agitator III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-agitator-iii"
+  },
+  {
+    "id": "gameslantern-part-fuel-agitator-iv",
+    "title": "Games Lantern — Fuel Agitator IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-agitator-iv"
+  },
+  {
+    "id": "gameslantern-part-fuel-coolant-i",
+    "title": "Games Lantern — Fuel Coolant I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-coolant-i"
+  },
+  {
+    "id": "gameslantern-part-fuel-coolant-ii",
+    "title": "Games Lantern — Fuel Coolant II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-coolant-ii"
+  },
+  {
+    "id": "gameslantern-part-fuel-coolant-iii",
+    "title": "Games Lantern — Fuel Coolant III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-coolant-iii"
+  },
+  {
+    "id": "gameslantern-part-fuel-coolant-iv",
+    "title": "Games Lantern — Fuel Coolant IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-coolant-iv"
+  },
+  {
+    "id": "gameslantern-part-fuel-synthesis",
+    "title": "Games Lantern — Fuel Synthesis",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-synthesis"
+  },
+  {
+    "id": "gameslantern-part-fuel-vortexer-i",
+    "title": "Games Lantern — Fuel Vortexer I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-vortexer-i"
+  },
+  {
+    "id": "gameslantern-part-fuel-vortexer-ii",
+    "title": "Games Lantern — Fuel Vortexer II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-vortexer-ii"
+  },
+  {
+    "id": "gameslantern-part-fuel-vortexer-iii",
+    "title": "Games Lantern — Fuel Vortexer III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-vortexer-iii"
+  },
+  {
+    "id": "gameslantern-part-fuel-vortexer-iv",
+    "title": "Games Lantern — Fuel Vortexer IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/fuel-vortexer-iv"
+  },
+  {
+    "id": "gameslantern-part-glitched-fuel",
+    "title": "Games Lantern — Glitched Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/glitched-fuel"
+  },
+  {
+    "id": "gameslantern-part-hail-mary-reset-i",
+    "title": "Games Lantern — Hail-Mary Reset I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/hail-mary-reset-i"
+  },
+  {
+    "id": "gameslantern-part-hail-mary-reset-ii",
+    "title": "Games Lantern — Hail-Mary Reset II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/hail-mary-reset-ii"
+  },
+  {
+    "id": "gameslantern-part-hail-mary-reset-iii",
+    "title": "Games Lantern — Hail-Mary Reset III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/hail-mary-reset-iii"
+  },
+  {
+    "id": "gameslantern-part-heat-reduction-i",
+    "title": "Games Lantern — Heat Reduction I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heat-reduction-i"
+  },
+  {
+    "id": "gameslantern-part-heat-reduction-ii",
+    "title": "Games Lantern — Heat Reduction II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heat-reduction-ii"
+  },
+  {
+    "id": "gameslantern-part-heat-reduction-iii",
+    "title": "Games Lantern — Heat Reduction III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heat-reduction-iii"
+  },
+  {
+    "id": "gameslantern-part-heat-reduction-iv",
+    "title": "Games Lantern — Heat Reduction IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heat-reduction-iv"
+  },
+  {
+    "id": "gameslantern-part-heated-fuel-i",
+    "title": "Games Lantern — Heated Fuel I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heated-fuel-i"
+  },
+  {
+    "id": "gameslantern-part-heated-fuel-ii",
+    "title": "Games Lantern — Heated Fuel II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heated-fuel-ii"
+  },
+  {
+    "id": "gameslantern-part-heated-fuel-iii",
+    "title": "Games Lantern — Heated Fuel III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heated-fuel-iii"
+  },
+  {
+    "id": "gameslantern-part-heated-fuel-iv",
+    "title": "Games Lantern — Heated Fuel IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/heated-fuel-iv"
+  },
+  {
+    "id": "gameslantern-part-iced-fuel",
+    "title": "Games Lantern — Iced Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/iced-fuel"
+  },
+  {
+    "id": "gameslantern-part-iced-ignition",
+    "title": "Games Lantern — Iced Ignition",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/iced-ignition"
+  },
+  {
+    "id": "gameslantern-part-ignited-fuel",
+    "title": "Games Lantern — Ignited Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ignited-fuel"
+  },
+  {
+    "id": "gameslantern-part-impact-regulator-i",
+    "title": "Games Lantern — Impact Regulator I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/impact-regulator-i"
+  },
+  {
+    "id": "gameslantern-part-impact-regulator-ii",
+    "title": "Games Lantern — Impact Regulator II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/impact-regulator-ii"
+  },
+  {
+    "id": "gameslantern-part-impact-regulator-iii",
+    "title": "Games Lantern — Impact Regulator III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/impact-regulator-iii"
+  },
+  {
+    "id": "gameslantern-part-imprecise-calibration",
+    "title": "Games Lantern — Imprecise Calibration",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/imprecise-calibration"
+  },
+  {
+    "id": "gameslantern-part-improved-drafting",
+    "title": "Games Lantern — Improved Drafting",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/improved-drafting"
+  },
+  {
+    "id": "gameslantern-part-improved-regulators-i",
+    "title": "Games Lantern — Improved Regulators I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/improved-regulators-i"
+  },
+  {
+    "id": "gameslantern-part-improved-regulators-ii",
+    "title": "Games Lantern — Improved Regulators II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/improved-regulators-ii"
+  },
+  {
+    "id": "gameslantern-part-improved-regulators-ii-2",
+    "title": "Games Lantern — Improved Regulators II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/improved-regulators-ii-2"
+  },
+  {
+    "id": "gameslantern-part-improved-regulators-iii",
+    "title": "Games Lantern — Improved Regulators III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/improved-regulators-iii"
+  },
+  {
+    "id": "gameslantern-part-improved-regulators-iv",
+    "title": "Games Lantern — Improved Regulators IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/improved-regulators-iv"
+  },
+  {
+    "id": "gameslantern-part-incendiary-overcharge",
+    "title": "Games Lantern — Incendiary Overcharge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/incendiary-overcharge"
+  },
+  {
+    "id": "gameslantern-part-inefficient-aerodynamics",
+    "title": "Games Lantern — Inefficient Aerodynamics",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/inefficient-aerodynamics"
+  },
+  {
+    "id": "gameslantern-part-inertial-shield",
+    "title": "Games Lantern — Inertial Shield",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/inertial-shield"
+  },
+  {
+    "id": "gameslantern-part-insulated-servos-i",
+    "title": "Games Lantern — Insulated Servos I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/insulated-servos-i"
+  },
+  {
+    "id": "gameslantern-part-insulated-servos-ii",
+    "title": "Games Lantern — Insulated Servos II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/insulated-servos-ii"
+  },
+  {
+    "id": "gameslantern-part-insulated-servos-iii",
+    "title": "Games Lantern — Insulated Servos III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/insulated-servos-iii"
+  },
+  {
+    "id": "gameslantern-part-jolted-boost-i",
+    "title": "Games Lantern — Jolted Boost I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/jolted-boost-i"
+  },
+  {
+    "id": "gameslantern-part-jolted-boost-ii",
+    "title": "Games Lantern — Jolted Boost II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/jolted-boost-ii"
+  },
+  {
+    "id": "gameslantern-part-jolted-boost-iii",
+    "title": "Games Lantern — Jolted Boost III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/jolted-boost-iii"
+  },
+  {
+    "id": "gameslantern-part-kinetic-energizer-i",
+    "title": "Games Lantern — Kinetic Energizer I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/kinetic-energizer-i"
+  },
+  {
+    "id": "gameslantern-part-kinetic-energizer-ii",
+    "title": "Games Lantern — Kinetic Energizer II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/kinetic-energizer-ii"
+  },
+  {
+    "id": "gameslantern-part-kinetic-refueler-i",
+    "title": "Games Lantern — Kinetic Refueler I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/kinetic-refueler-i"
+  },
+  {
+    "id": "gameslantern-part-kinetic-refueler-ii",
+    "title": "Games Lantern — Kinetic Refueler II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/kinetic-refueler-ii"
+  },
+  {
+    "id": "gameslantern-part-kinetic-refueler-iii",
+    "title": "Games Lantern — Kinetic Refueler III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/kinetic-refueler-iii"
+  },
+  {
+    "id": "gameslantern-part-large-cross-section",
+    "title": "Games Lantern — Large Cross-Section",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/large-cross-section"
+  },
+  {
+    "id": "gameslantern-part-leaky-tank",
+    "title": "Games Lantern — Leaky Tank",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/leaky-tank"
+  },
+  {
+    "id": "gameslantern-part-lethal-velocity-i",
+    "title": "Games Lantern — Lethal Velocity I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/lethal-velocity-i"
+  },
+  {
+    "id": "gameslantern-part-lethal-velocity-ii",
+    "title": "Games Lantern — Lethal Velocity II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/lethal-velocity-ii"
+  },
+  {
+    "id": "gameslantern-part-lethal-velocity-iii",
+    "title": "Games Lantern — Lethal Velocity III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/lethal-velocity-iii"
+  },
+  {
+    "id": "gameslantern-part-lethal-velocity-iv",
+    "title": "Games Lantern — Lethal Velocity IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/lethal-velocity-iv"
+  },
+  {
+    "id": "gameslantern-part-lingering-frost",
+    "title": "Games Lantern — Lingering Frost",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/lingering-frost"
+  },
+  {
+    "id": "gameslantern-part-massive-momentum",
+    "title": "Games Lantern — Massive Momentum",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/massive-momentum"
+  },
+  {
+    "id": "gameslantern-part-old-dog-old-tricks",
+    "title": "Games Lantern — Old Dog, Old Tricks",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/old-dog-old-tricks"
+  },
+  {
+    "id": "gameslantern-part-only-human",
+    "title": "Games Lantern — Only Human",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/only-human"
+  },
+  {
+    "id": "gameslantern-part-optimized-fuel-i",
+    "title": "Games Lantern — Optimized Fuel I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-fuel-i"
+  },
+  {
+    "id": "gameslantern-part-optimized-fuel-ii",
+    "title": "Games Lantern — Optimized Fuel II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-fuel-ii"
+  },
+  {
+    "id": "gameslantern-part-optimized-fuel-iii",
+    "title": "Games Lantern — Optimized Fuel III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-fuel-iii"
+  },
+  {
+    "id": "gameslantern-part-optimized-fuel-iv",
+    "title": "Games Lantern — Optimized Fuel IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-fuel-iv"
+  },
+  {
+    "id": "gameslantern-part-optimized-inlets-i",
+    "title": "Games Lantern — Optimized Inlets I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-inlets-i"
+  },
+  {
+    "id": "gameslantern-part-optimized-inlets-ii",
+    "title": "Games Lantern — Optimized Inlets II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-inlets-ii"
+  },
+  {
+    "id": "gameslantern-part-optimized-inlets-iii",
+    "title": "Games Lantern — Optimized Inlets III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-inlets-iii"
+  },
+  {
+    "id": "gameslantern-part-optimized-nozzles",
+    "title": "Games Lantern — Optimized Nozzles",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-nozzles"
+  },
+  {
+    "id": "gameslantern-part-optimized-radiators-i",
+    "title": "Games Lantern — Optimized Radiators I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-radiators-i"
+  },
+  {
+    "id": "gameslantern-part-optimized-radiators-ii",
+    "title": "Games Lantern — Optimized Radiators II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-radiators-ii"
+  },
+  {
+    "id": "gameslantern-part-optimized-radiators-iii",
+    "title": "Games Lantern — Optimized Radiators III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-radiators-iii"
+  },
+  {
+    "id": "gameslantern-part-optimized-surge-i",
+    "title": "Games Lantern — Optimized Surge I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-surge-i"
+  },
+  {
+    "id": "gameslantern-part-optimized-surge-ii",
+    "title": "Games Lantern — Optimized Surge II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-surge-ii"
+  },
+  {
+    "id": "gameslantern-part-optimized-surge-iii",
+    "title": "Games Lantern — Optimized Surge III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/optimized-surge-iii"
+  },
+  {
+    "id": "gameslantern-part-overbuilt-engines",
+    "title": "Games Lantern — Overbuilt Engines",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overbuilt-engines"
+  },
+  {
+    "id": "gameslantern-part-overcharged-injector",
+    "title": "Games Lantern — Overcharged Injector",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overcharged-injector"
+  },
+  {
+    "id": "gameslantern-part-overcharged-supercharger",
+    "title": "Games Lantern — Overcharged Supercharger",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overcharged-supercharger"
+  },
+  {
+    "id": "gameslantern-part-overcharged-systems",
+    "title": "Games Lantern — Overcharged Systems",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overcharged-systems"
+  },
+  {
+    "id": "gameslantern-part-overcharging-afterburner",
+    "title": "Games Lantern — Overcharging Afterburner",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overcharging-afterburner"
+  },
+  {
+    "id": "gameslantern-part-overcharging-propellant",
+    "title": "Games Lantern — Overcharging Propellant",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overcharging-propellant"
+  },
+  {
+    "id": "gameslantern-part-overflow-shielding-i",
+    "title": "Games Lantern — Overflow Shielding I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overflow-shielding-i"
+  },
+  {
+    "id": "gameslantern-part-overflow-shielding-ii",
+    "title": "Games Lantern — Overflow Shielding II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overflow-shielding-ii"
+  },
+  {
+    "id": "gameslantern-part-overflow-shielding-iii",
+    "title": "Games Lantern — Overflow Shielding III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overflow-shielding-iii"
+  },
+  {
+    "id": "gameslantern-part-overheat-loop-i",
+    "title": "Games Lantern — Overheat Loop I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overheat-loop-i"
+  },
+  {
+    "id": "gameslantern-part-overheat-loop-ii",
+    "title": "Games Lantern — Overheat Loop II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overheat-loop-ii"
+  },
+  {
+    "id": "gameslantern-part-overheat-loop-iii",
+    "title": "Games Lantern — Overheat Loop III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overheat-loop-iii"
+  },
+  {
+    "id": "gameslantern-part-overheated-motivators",
+    "title": "Games Lantern — Overheated Motivators",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/overheated-motivators"
+  },
+  {
+    "id": "gameslantern-part-particulate-filter",
+    "title": "Games Lantern — Particulate Filter",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/particulate-filter"
+  },
+  {
+    "id": "gameslantern-part-phase-change-radiators-i",
+    "title": "Games Lantern — Phase-change Radiators I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/phase-change-radiators-i"
+  },
+  {
+    "id": "gameslantern-part-phase-change-radiators-ii",
+    "title": "Games Lantern — Phase-change Radiators II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/phase-change-radiators-ii"
+  },
+  {
+    "id": "gameslantern-part-phase-change-radiators-iii",
+    "title": "Games Lantern — Phase-change Radiators III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/phase-change-radiators-iii"
+  },
+  {
+    "id": "gameslantern-part-plug-f-power-cell",
+    "title": "Games Lantern — Plug-F Power Cell",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/plug-f-power-cell"
+  },
+  {
+    "id": "gameslantern-part-polished-inlets",
+    "title": "Games Lantern — Polished Inlets",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/polished-inlets"
+  },
+  {
+    "id": "gameslantern-part-power-cascade-i",
+    "title": "Games Lantern — Power Cascade I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/power-cascade-i"
+  },
+  {
+    "id": "gameslantern-part-power-cascade-ii",
+    "title": "Games Lantern — Power Cascade II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/power-cascade-ii"
+  },
+  {
+    "id": "gameslantern-part-power-cascade-iii",
+    "title": "Games Lantern — Power Cascade III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/power-cascade-iii"
+  },
+  {
+    "id": "gameslantern-part-protective-ignition-i",
+    "title": "Games Lantern — Protective Ignition I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/protective-ignition-i"
+  },
+  {
+    "id": "gameslantern-part-protective-ignition-ii",
+    "title": "Games Lantern — Protective Ignition II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/protective-ignition-ii"
+  },
+  {
+    "id": "gameslantern-part-protective-ignition-iii",
+    "title": "Games Lantern — Protective Ignition III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/protective-ignition-iii"
+  },
+  {
+    "id": "gameslantern-part-protective-overcharge",
+    "title": "Games Lantern — Protective Overcharge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/protective-overcharge"
+  },
+  {
+    "id": "gameslantern-part-purging-surge",
+    "title": "Games Lantern — Purging Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/purging-surge"
+  },
+  {
+    "id": "gameslantern-part-pyrophoric-surfaces",
+    "title": "Games Lantern — Pyrophoric Surfaces",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/pyrophoric-surfaces"
+  },
+  {
+    "id": "gameslantern-part-ramjet-accelerator-i",
+    "title": "Games Lantern — Ramjet Accelerator I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-accelerator-i"
+  },
+  {
+    "id": "gameslantern-part-ramjet-accelerator-ii",
+    "title": "Games Lantern — Ramjet Accelerator II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-accelerator-ii"
+  },
+  {
+    "id": "gameslantern-part-ramjet-accelerator-iii",
+    "title": "Games Lantern — Ramjet Accelerator III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-accelerator-iii"
+  },
+  {
+    "id": "gameslantern-part-ramjet-accelerator-iv",
+    "title": "Games Lantern — Ramjet Accelerator IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-accelerator-iv"
+  },
+  {
+    "id": "gameslantern-part-ramjet-cooling-i",
+    "title": "Games Lantern — Ramjet Cooling I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-cooling-i"
+  },
+  {
+    "id": "gameslantern-part-ramjet-cooling-ii",
+    "title": "Games Lantern — Ramjet Cooling II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-cooling-ii"
+  },
+  {
+    "id": "gameslantern-part-ramjet-cooling-iii",
+    "title": "Games Lantern — Ramjet Cooling III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-cooling-iii"
+  },
+  {
+    "id": "gameslantern-part-ramjet-cooling-iv",
+    "title": "Games Lantern — Ramjet Cooling IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-cooling-iv"
+  },
+  {
+    "id": "gameslantern-part-ramjet-power-i",
+    "title": "Games Lantern — Ramjet Power I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-power-i"
+  },
+  {
+    "id": "gameslantern-part-ramjet-power-ii",
+    "title": "Games Lantern — Ramjet Power II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-power-ii"
+  },
+  {
+    "id": "gameslantern-part-ramjet-power-iii",
+    "title": "Games Lantern — Ramjet Power III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-power-iii"
+  },
+  {
+    "id": "gameslantern-part-ramjet-power-iv",
+    "title": "Games Lantern — Ramjet Power IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-power-iv"
+  },
+  {
+    "id": "gameslantern-part-ramjet-reconfiguration",
+    "title": "Games Lantern — Ramjet Reconfiguration",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramjet-reconfiguration"
+  },
+  {
+    "id": "gameslantern-part-ramming-jet-i",
+    "title": "Games Lantern — Ramming Jet I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramming-jet-i"
+  },
+  {
+    "id": "gameslantern-part-ramming-jet-ii",
+    "title": "Games Lantern — Ramming Jet II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramming-jet-ii"
+  },
+  {
+    "id": "gameslantern-part-ramming-jet-iii",
+    "title": "Games Lantern — Ramming Jet III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/ramming-jet-iii"
+  },
+  {
+    "id": "gameslantern-part-reconstituted-fuel-i",
+    "title": "Games Lantern — Reconstituted Fuel I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/reconstituted-fuel-i"
+  },
+  {
+    "id": "gameslantern-part-reconstituted-fuel-ii",
+    "title": "Games Lantern — Reconstituted Fuel II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/reconstituted-fuel-ii"
+  },
+  {
+    "id": "gameslantern-part-reconstituted-fuel-iii",
+    "title": "Games Lantern — Reconstituted Fuel III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/reconstituted-fuel-iii"
+  },
+  {
+    "id": "gameslantern-part-recovery-coolant",
+    "title": "Games Lantern — Recovery Coolant",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/recovery-coolant"
+  },
+  {
+    "id": "gameslantern-part-recovery-shield",
+    "title": "Games Lantern — Recovery Shield",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/recovery-shield"
+  },
+  {
+    "id": "gameslantern-part-recovery-surge",
+    "title": "Games Lantern — Recovery Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/recovery-surge"
+  },
+  {
+    "id": "gameslantern-part-redline-purge",
+    "title": "Games Lantern — Redline Purge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/redline-purge"
+  },
+  {
+    "id": "gameslantern-part-redlining-power",
+    "title": "Games Lantern — Redlining Power",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/redlining-power"
+  },
+  {
+    "id": "gameslantern-part-refueling-abilities",
+    "title": "Games Lantern — Refueling Abilities",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/refueling-abilities"
+  },
+  {
+    "id": "gameslantern-part-release-actuators",
+    "title": "Games Lantern — Release Actuators",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/release-actuators"
+  },
+  {
+    "id": "gameslantern-part-reload-surge",
+    "title": "Games Lantern — Reload Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/reload-surge"
+  },
+  {
+    "id": "gameslantern-part-repulsor-surplus",
+    "title": "Games Lantern — Repulsor Surplus",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/repulsor-surplus"
+  },
+  {
+    "id": "gameslantern-part-repulsormod-i",
+    "title": "Games Lantern — Repulsormod I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/repulsormod-i"
+  },
+  {
+    "id": "gameslantern-part-repulsormod-ii",
+    "title": "Games Lantern — Repulsormod II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/repulsormod-ii"
+  },
+  {
+    "id": "gameslantern-part-repulsormod-iii",
+    "title": "Games Lantern — Repulsormod III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/repulsormod-iii"
+  },
+  {
+    "id": "gameslantern-part-repulsormod-iv",
+    "title": "Games Lantern — Repulsormod IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/repulsormod-iv"
+  },
+  {
+    "id": "gameslantern-part-residual-afterburner",
+    "title": "Games Lantern — Residual Afterburner",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/residual-afterburner"
+  },
+  {
+    "id": "gameslantern-part-robust-surge",
+    "title": "Games Lantern — Robust Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/robust-surge"
+  },
+  {
+    "id": "gameslantern-part-scrap-reclaimer",
+    "title": "Games Lantern — Scrap Reclaimer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/scrap-reclaimer"
+  },
+  {
+    "id": "gameslantern-part-scrap-recycler-i",
+    "title": "Games Lantern — Scrap Recycler I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/scrap-recycler-i"
+  },
+  {
+    "id": "gameslantern-part-scrap-recycler-ii",
+    "title": "Games Lantern — Scrap Recycler II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/scrap-recycler-ii"
+  },
+  {
+    "id": "gameslantern-part-scrap-recycler-iii",
+    "title": "Games Lantern — Scrap Recycler III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/scrap-recycler-iii"
+  },
+  {
+    "id": "gameslantern-part-scrap-recycler-iv",
+    "title": "Games Lantern — Scrap Recycler IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/scrap-recycler-iv"
+  },
+  {
+    "id": "gameslantern-part-scrap-reloader",
+    "title": "Games Lantern — Scrap Reloader",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/scrap-reloader"
+  },
+  {
+    "id": "gameslantern-part-shield-cycler-i",
+    "title": "Games Lantern — Shield Cycler I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shield-cycler-i"
+  },
+  {
+    "id": "gameslantern-part-shield-cycler-ii",
+    "title": "Games Lantern — Shield Cycler II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shield-cycler-ii"
+  },
+  {
+    "id": "gameslantern-part-shielding-fuel",
+    "title": "Games Lantern — Shielding Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shielding-fuel"
+  },
+  {
+    "id": "gameslantern-part-shielding-lead",
+    "title": "Games Lantern — Shielding Lead",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shielding-lead"
+  },
+  {
+    "id": "gameslantern-part-shielding-ramjet",
+    "title": "Games Lantern — Shielding Ramjet",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shielding-ramjet"
+  },
+  {
+    "id": "gameslantern-part-shielding-repulsor-i",
+    "title": "Games Lantern — Shielding Repulsor I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shielding-repulsor-i"
+  },
+  {
+    "id": "gameslantern-part-shielding-repulsor-ii",
+    "title": "Games Lantern — Shielding Repulsor II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shielding-repulsor-ii"
+  },
+  {
+    "id": "gameslantern-part-shielding-repulsor-iii",
+    "title": "Games Lantern — Shielding Repulsor III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shielding-repulsor-iii"
+  },
+  {
+    "id": "gameslantern-part-shielding-surge",
+    "title": "Games Lantern — Shielding Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/shielding-surge"
+  },
+  {
+    "id": "gameslantern-part-slipstream-intakes",
+    "title": "Games Lantern — Slipstream Intakes",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/slipstream-intakes"
+  },
+  {
+    "id": "gameslantern-part-small-thrusters",
+    "title": "Games Lantern — Small Thrusters",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/small-thrusters"
+  },
+  {
+    "id": "gameslantern-part-spark-plugs-i",
+    "title": "Games Lantern — Spark Plugs I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/spark-plugs-i"
+  },
+  {
+    "id": "gameslantern-part-spark-plugs-ii",
+    "title": "Games Lantern — Spark Plugs II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/spark-plugs-ii"
+  },
+  {
+    "id": "gameslantern-part-spark-plugs-iii",
+    "title": "Games Lantern — Spark Plugs III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/spark-plugs-iii"
+  },
+  {
+    "id": "gameslantern-part-spark-plugs-iv",
+    "title": "Games Lantern — Spark Plugs IV",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/spark-plugs-iv"
+  },
+  {
+    "id": "gameslantern-part-startup-malfunction",
+    "title": "Games Lantern — Startup Malfunction",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/startup-malfunction"
+  },
+  {
+    "id": "gameslantern-part-steering-malfunction",
+    "title": "Games Lantern — Steering Malfunction",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/steering-malfunction"
+  },
+  {
+    "id": "gameslantern-part-strained-circuits",
+    "title": "Games Lantern — Strained Circuits",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/strained-circuits"
+  },
+  {
+    "id": "gameslantern-part-strategic-ablation",
+    "title": "Games Lantern — Strategic Ablation",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/strategic-ablation"
+  },
+  {
+    "id": "gameslantern-part-subzero-cooling",
+    "title": "Games Lantern — Subzero Cooling",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/subzero-cooling"
+  },
+  {
+    "id": "gameslantern-part-superconducting-ramjet",
+    "title": "Games Lantern — Superconducting Ramjet",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/superconducting-ramjet"
+  },
+  {
+    "id": "gameslantern-part-supercooled-attachments",
+    "title": "Games Lantern — Supercooled Attachments",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/supercooled-attachments"
+  },
+  {
+    "id": "gameslantern-part-surging-alarm-i",
+    "title": "Games Lantern — Surging Alarm I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surging-alarm-i"
+  },
+  {
+    "id": "gameslantern-part-surging-alarm-ii",
+    "title": "Games Lantern — Surging Alarm II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surging-alarm-ii"
+  },
+  {
+    "id": "gameslantern-part-surging-alarm-iii",
+    "title": "Games Lantern — Surging Alarm III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surging-alarm-iii"
+  },
+  {
+    "id": "gameslantern-part-surging-fuel",
+    "title": "Games Lantern — Surging Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surging-fuel"
+  },
+  {
+    "id": "gameslantern-part-surging-inlets-i",
+    "title": "Games Lantern — Surging Inlets I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surging-inlets-i"
+  },
+  {
+    "id": "gameslantern-part-surging-inlets-ii",
+    "title": "Games Lantern — Surging Inlets II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surging-inlets-ii"
+  },
+  {
+    "id": "gameslantern-part-surging-inlets-iii",
+    "title": "Games Lantern — Surging Inlets III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surging-inlets-iii"
+  },
+  {
+    "id": "gameslantern-part-surplus-cooling",
+    "title": "Games Lantern — Surplus Cooling",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surplus-cooling"
+  },
+  {
+    "id": "gameslantern-part-surplus-surging",
+    "title": "Games Lantern — Surplus Surging",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/surplus-surging"
+  },
+  {
+    "id": "gameslantern-part-system-degausser-i",
+    "title": "Games Lantern — System Degausser I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/system-degausser-i"
+  },
+  {
+    "id": "gameslantern-part-system-degausser-ii",
+    "title": "Games Lantern — System Degausser II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/system-degausser-ii"
+  },
+  {
+    "id": "gameslantern-part-system-fragmentation",
+    "title": "Games Lantern — System Fragmentation",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/system-fragmentation"
+  },
+  {
+    "id": "gameslantern-part-system-surge",
+    "title": "Games Lantern — System Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/system-surge"
+  },
+  {
+    "id": "gameslantern-part-systematic-servicing",
+    "title": "Games Lantern — Systematic Servicing",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/systematic-servicing"
+  },
+  {
+    "id": "gameslantern-part-thermal-inverter",
+    "title": "Games Lantern — Thermal Inverter",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermal-inverter"
+  },
+  {
+    "id": "gameslantern-part-thermal-loop",
+    "title": "Games Lantern — Thermal Loop",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermal-loop"
+  },
+  {
+    "id": "gameslantern-part-thermoactive-fuel",
+    "title": "Games Lantern — Thermoactive Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermoactive-fuel"
+  },
+  {
+    "id": "gameslantern-part-thermocycling-dampers-i",
+    "title": "Games Lantern — Thermocycling Dampers I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermocycling-dampers-i"
+  },
+  {
+    "id": "gameslantern-part-thermocycling-dampers-ii",
+    "title": "Games Lantern — Thermocycling Dampers II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermocycling-dampers-ii"
+  },
+  {
+    "id": "gameslantern-part-thermophilic-fuel-i",
+    "title": "Games Lantern — Thermophilic Fuel I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermophilic-fuel-i"
+  },
+  {
+    "id": "gameslantern-part-thermophilic-fuel-ii",
+    "title": "Games Lantern — Thermophilic Fuel II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermophilic-fuel-ii"
+  },
+  {
+    "id": "gameslantern-part-thermophilic-fuel-iii",
+    "title": "Games Lantern — Thermophilic Fuel III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/thermophilic-fuel-iii"
+  },
+  {
+    "id": "gameslantern-part-uncapped-cooling",
+    "title": "Games Lantern — Uncapped Cooling",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/uncapped-cooling"
+  },
+  {
+    "id": "gameslantern-part-underbody-intakes-i",
+    "title": "Games Lantern — Underbody Intakes I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/underbody-intakes-i"
+  },
+  {
+    "id": "gameslantern-part-underbody-intakes-ii",
+    "title": "Games Lantern — Underbody Intakes II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/underbody-intakes-ii"
+  },
+  {
+    "id": "gameslantern-part-underbody-intakes-iii",
+    "title": "Games Lantern — Underbody Intakes III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/underbody-intakes-iii"
+  },
+  {
+    "id": "gameslantern-part-underclocking-device",
+    "title": "Games Lantern — Underclocking Device",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/underclocking-device"
+  },
+  {
+    "id": "gameslantern-part-unquenchable-components",
+    "title": "Games Lantern — Unquenchable Components",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/unquenchable-components"
+  },
+  {
+    "id": "gameslantern-part-unreliable-afterburner",
+    "title": "Games Lantern — Unreliable Afterburner",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/unreliable-afterburner"
+  },
+  {
+    "id": "gameslantern-part-unsettled-start",
+    "title": "Games Lantern — Unsettled Start",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/unsettled-start"
+  },
+  {
+    "id": "gameslantern-part-unstable-plating",
+    "title": "Games Lantern — Unstable Plating",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/unstable-plating"
+  },
+  {
+    "id": "gameslantern-part-volatile-battery",
+    "title": "Games Lantern — Volatile Battery",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/volatile-battery"
+  },
+  {
+    "id": "gameslantern-part-volatile-fuel",
+    "title": "Games Lantern — Volatile Fuel",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/volatile-fuel"
+  },
+  {
+    "id": "gameslantern-part-weak-ramjet",
+    "title": "Games Lantern — Weak Ramjet",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/weak-ramjet"
+  },
+  {
+    "id": "gameslantern-part-weakened-cockpit",
+    "title": "Games Lantern — Weakened Cockpit",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts/weakened-cockpit"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities",
+    "title": "Star Wars Galactic Racer Abilities",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-auto-scrubber",
+    "title": "Auto-Scrubber",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/auto-scrubber"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-auto-scrubber-ii",
+    "title": "Auto-Scrubber II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/auto-scrubber-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-auto-vent",
+    "title": "Auto-Vent",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/auto-vent"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-autopilot",
+    "title": "Autopilot",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/autopilot"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-charging-blast",
+    "title": "Charging Blast",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/charging-blast"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussion-mine",
+    "title": "Concussion Mine",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussion-mine"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussion-mine-ii",
+    "title": "Concussion Mine II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussion-mine-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussion-mine-iii",
+    "title": "Concussion Mine III",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussion-mine-iii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussive-bolt",
+    "title": "Concussive Bolt",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussive-bolt"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-concussive-bolt-ii",
+    "title": "Concussive Bolt II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/concussive-bolt-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-cooling-blast",
+    "title": "Cooling Blast",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/cooling-blast"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-corrosive-vent",
+    "title": "Corrosive Vent",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/corrosive-vent"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-flame-vent",
+    "title": "Flame Vent",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/flame-vent"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-freezing-concussion-mine",
+    "title": "Freezing Concussion Mine",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/freezing-concussion-mine"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-freezing-concussion-mine-ii",
+    "title": "Freezing Concussion Mine II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/freezing-concussion-mine-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-shield",
+    "title": "Impact Shield",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-shield"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-shield-ii",
+    "title": "Impact Shield II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-shield-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-surge",
+    "title": "Impact Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-surge"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-impact-surge-ii",
+    "title": "Impact Surge II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/impact-surge-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-ion-blast",
+    "title": "Ion Blast",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/ion-blast"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-ion-bolt",
+    "title": "Ion Bolt",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/ion-bolt"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-magnetic-shockwave",
+    "title": "Magnetic Shockwave",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/magnetic-shockwave"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-magnetic-shockwave-ii",
+    "title": "Magnetic Shockwave II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/magnetic-shockwave-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-bolt",
+    "title": "Multi-Bolt",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-bolt"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-bolt-ii",
+    "title": "Multi-Bolt II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-bolt-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-scrubber",
+    "title": "Multi-Scrubber",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-scrubber"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-multi-scrubber-ii",
+    "title": "Multi-Scrubber II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/multi-scrubber-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overcharged-autopilot",
+    "title": "Overcharged Autopilot",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/overcharged-autopilot"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overcharged-autopilot-ii",
+    "title": "Overcharged Autopilot II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/overcharged-autopilot-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overtaking-surge",
+    "title": "Overtaking Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/overtaking-surge"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-overtaking-surge-ii",
+    "title": "Overtaking Surge II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/overtaking-surge-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-shield",
+    "title": "Shield",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/shield"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-shielding-blast",
+    "title": "Shielding Blast",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/shielding-blast"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-shockwave",
+    "title": "Shockwave",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/shockwave"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-status-scrubber",
+    "title": "Status Scrubber",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/status-scrubber"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-supercooled-vent",
+    "title": "Supercooled Vent",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/supercooled-vent"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surge",
+    "title": "Surge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/surge"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-autopilot",
+    "title": "Surging Autopilot",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-autopilot"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-autopilot-ii",
+    "title": "Surging Autopilot II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-autopilot-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-shield",
+    "title": "Surging Shield",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-shield"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-surging-shield-ii",
+    "title": "Surging Shield II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/surging-shield-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vectored-shockwave",
+    "title": "Vectored Shockwave",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/vectored-shockwave"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vectored-shockwave-ii",
+    "title": "Vectored Shockwave II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/vectored-shockwave-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vent",
+    "title": "Vent",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/vent"
+  },
+  {
+    "id": "loadouts-gameslantern-abilities-vent-ii",
+    "title": "Vent II",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/abilities/vent-ii"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles",
+    "title": "Star Wars Galactic Racer Racer Styles",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-afterburner",
+    "title": "Afterburner",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/afterburner"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-brawler",
+    "title": "Brawler",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/brawler"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-bt310-quadra",
+    "title": "BT310 Quadra",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/bt310-quadra"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-clean-racer",
+    "title": "Clean Racer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/clean-racer"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-custom-ord-pedrovia",
+    "title": "Custom Ord Pedrovia",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/custom-ord-pedrovia"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-engineer",
+    "title": "Engineer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/engineer"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-exelbrok-xl-5115",
+    "title": "Exelbrok XL 5115",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/exelbrok-xl-5115"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-firebug",
+    "title": "Firebug",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/firebug"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-ice-cold",
+    "title": "Ice Cold",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/ice-cold"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-ipg-x1131-longtail",
+    "title": "IPG-X1131 LongTail",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/ipg-x1131-longtail"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-plug-f-mammoth",
+    "title": "Plug-F Mammoth",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/plug-f-mammoth"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-ramjet-rider",
+    "title": "Ramjet Rider",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/ramjet-rider"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-redliner",
+    "title": "Redliner",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/redliner"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-slipstreamer",
+    "title": "Slipstreamer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/slipstreamer"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-stunt-runner",
+    "title": "Stunt Runner",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/stunt-runner"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-survivor",
+    "title": "Survivor",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/survivor"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-tech-expert",
+    "title": "Tech Expert",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/tech-expert"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-tenacious",
+    "title": "Tenacious",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/tenacious"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-vulptereen-327",
+    "title": "Vulptereen 327",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/vulptereen-327"
+  },
+  {
+    "id": "loadouts-gameslantern-racer-styles-weaponized",
+    "title": "Weaponized",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racer-styles/weaponized"
+  },
+  {
+    "id": "loadouts-gameslantern-traits",
+    "title": "Star Wars Galactic Racer Traits",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/traits"
+  },
+  {
+    "id": "loadouts-gameslantern-vehicle-parts",
+    "title": "Star Wars Galactic Racer Vehicle Parts",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-parts"
+  },
+  {
+    "id": "loadouts-wiki-guide",
+    "title": "Latest racing guides",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/guide/"
+  },
+  {
+    "id": "loadouts-wiki-home",
+    "title": "Star Wars Galactic Racer: Racers, Vehicles & Track Guide",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/"
+  },
+  {
+    "id": "loadouts-wiki-tips-campaign-builds",
+    "title": "What to fit before the tour gets mean",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/tips/campaign-builds/"
+  },
+  {
+    "id": "loadouts-wiki-tips-eliminator",
+    "title": "Last speeder still moving",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/tips/eliminator/"
+  },
+  {
+    "id": "loadouts-wiki-tips-multiplayer-tour",
+    "title": "How the multiplayer tour differs from quick race",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/tips/multiplayer-tour/"
+  },
+  {
+    "id": "loadouts-wiki-unlocks",
+    "title": "What actually unlocks",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/unlocks/"
+  },
+  {
+    "id": "world-gl-planets-ando-prime",
+    "title": "GamesLantern — Ando Prime",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/planets/ando-prime"
+  },
+  {
+    "id": "world-gl-planets-crait",
+    "title": "GamesLantern — Crait",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/planets/crait"
+  },
+  {
+    "id": "world-gl-planets-derven-acos",
+    "title": "GamesLantern — Derven Acos",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/planets/derven-acos"
+  },
+  {
+    "id": "world-gl-planets-jakku",
+    "title": "GamesLantern — Jakku",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/planets/jakku"
+  },
+  {
+    "id": "world-gl-planets-lantaana",
+    "title": "GamesLantern — Lantaana",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/planets/lantaana"
+  },
+  {
+    "id": "world-gl-planets-sentinel-i",
+    "title": "GamesLantern — Sentinel I",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/planets/sentinel-i"
+  },
+  {
+    "id": "world-gl-planets-tatooine",
+    "title": "GamesLantern — Tatooine",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/planets/tatooine"
+  },
+  {
+    "id": "world-gl-racers-ary-quill",
+    "title": "GamesLantern — Ary Quill",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/ary-quill"
+  },
+  {
+    "id": "world-gl-racers-ben-quadinaros",
+    "title": "GamesLantern — Ben Quadinaros",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/ben-quadinaros"
+  },
+  {
+    "id": "world-gl-racers-biddy-blas",
+    "title": "GamesLantern — Biddy Blas",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/biddy-blas"
+  },
+  {
+    "id": "world-gl-racers-dud-bolt",
+    "title": "GamesLantern — Dud Bolt",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/dud-bolt"
+  },
+  {
+    "id": "world-gl-racers-fola-kanjen",
+    "title": "GamesLantern — Fola Kanjen",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/fola-kanjen"
+  },
+  {
+    "id": "world-gl-racers-gasgano",
+    "title": "GamesLantern — Gasgano",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/gasgano"
+  },
+  {
+    "id": "world-gl-racers-goli-02-r0",
+    "title": "GamesLantern — Goli & 02-R0",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/goli-02-r0"
+  },
+  {
+    "id": "world-gl-racers-griff-halloran",
+    "title": "GamesLantern — Griff Halloran",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/griff-halloran"
+  },
+  {
+    "id": "world-gl-racers-hibi",
+    "title": "GamesLantern — Hibi",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/hibi"
+  },
+  {
+    "id": "world-gl-racers-katja-mox",
+    "title": "GamesLantern — Katja Mox",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/katja-mox"
+  },
+  {
+    "id": "world-gl-racers-kestar-bool",
+    "title": "GamesLantern — Kestar Bool",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/kestar-bool"
+  },
+  {
+    "id": "world-gl-racers-lyren-shok",
+    "title": "GamesLantern — Lyren Shok",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/lyren-shok"
+  },
+  {
+    "id": "world-gl-racers-malis-vazosk",
+    "title": "GamesLantern — Malis Vazosk",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/malis-vazosk"
+  },
+  {
+    "id": "world-gl-racers-nik-skandaro",
+    "title": "GamesLantern — Nik Skandaro",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/nik-skandaro"
+  },
+  {
+    "id": "world-gl-racers-ody-mandrell",
+    "title": "GamesLantern — Ody Mandrell",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/ody-mandrell"
+  },
+  {
+    "id": "world-gl-racers-sebulba",
+    "title": "GamesLantern — Sebulba",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/sebulba"
+  },
+  {
+    "id": "world-gl-racers-sen-fira",
+    "title": "GamesLantern — Sen Fira",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/sen-fira"
+  },
+  {
+    "id": "world-gl-racers-shade",
+    "title": "GamesLantern — Shade",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/shade"
+  },
+  {
+    "id": "world-gl-racers-soren-zaks",
+    "title": "GamesLantern — Soren Zaks",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/soren-zaks"
+  },
+  {
+    "id": "world-gl-racers-teemto-pagalies",
+    "title": "GamesLantern — Teemto Pagalies",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/racers/teemto-pagalies"
+  },
+  {
+    "id": "world-gl-tracks-ahlren-jungle-speedway",
+    "title": "GamesLantern — Ahlren Jungle Speedway",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/ahlren-jungle-speedway"
+  },
+  {
+    "id": "world-gl-tracks-andobi-edge",
+    "title": "GamesLantern — Andobi Edge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/andobi-edge"
+  },
+  {
+    "id": "world-gl-tracks-bool-river-run",
+    "title": "GamesLantern — Bool River Run",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/bool-river-run"
+  },
+  {
+    "id": "world-gl-tracks-caustic-fields",
+    "title": "GamesLantern — Caustic Fields",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/caustic-fields"
+  },
+  {
+    "id": "world-gl-tracks-cor-loop-b-short-01",
+    "title": "GamesLantern — COR [LOOP B - SHORT 01]",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/cor-loop-b-short-01"
+  },
+  {
+    "id": "world-gl-tracks-corrosion-hypersphere",
+    "title": "GamesLantern — Corrosion Hypersphere",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/corrosion-hypersphere"
+  },
+  {
+    "id": "world-gl-tracks-crimson-mines",
+    "title": "GamesLantern — Crimson Mines",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/crimson-mines"
+  },
+  {
+    "id": "world-gl-tracks-crystal-caverns",
+    "title": "GamesLantern — Crystal Caverns",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/crystal-caverns"
+  },
+  {
+    "id": "world-gl-tracks-dai-bendu-ascension",
+    "title": "GamesLantern — Dai Bendu Ascension",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/dai-bendu-ascension"
+  },
+  {
+    "id": "world-gl-tracks-debris-dunes",
+    "title": "GamesLantern — Debris Dunes",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/debris-dunes"
+  },
+  {
+    "id": "world-gl-tracks-dhunkri-river-circuit",
+    "title": "GamesLantern — Dhunkri River Circuit",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/dhunkri-river-circuit"
+  },
+  {
+    "id": "world-gl-tracks-fallen-empire",
+    "title": "GamesLantern — Fallen Empire",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/fallen-empire"
+  },
+  {
+    "id": "world-gl-tracks-forgil-canyon",
+    "title": "GamesLantern — Forgil Canyon",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/forgil-canyon"
+  },
+  {
+    "id": "world-gl-tracks-geothermal-tour",
+    "title": "GamesLantern — Geothermal Tour",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/geothermal-tour"
+  },
+  {
+    "id": "world-gl-tracks-griffins-flight",
+    "title": "GamesLantern — Griffin's Flight",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/griffins-flight"
+  },
+  {
+    "id": "world-gl-tracks-holdfasts-folly",
+    "title": "GamesLantern — Holdfast's Folly",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/holdfasts-folly"
+  },
+  {
+    "id": "world-gl-tracks-hunk-of-junk",
+    "title": "GamesLantern — Hunk of Junk",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/hunk-of-junk"
+  },
+  {
+    "id": "world-gl-tracks-ice-field-circuit",
+    "title": "GamesLantern — Ice Field Circuit",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/ice-field-circuit"
+  },
+  {
+    "id": "world-gl-tracks-mawhonic-speedway",
+    "title": "GamesLantern — Mawhonic Speedway",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/mawhonic-speedway"
+  },
+  {
+    "id": "world-gl-tracks-mineral-loop",
+    "title": "GamesLantern — Mineral Loop",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/mineral-loop"
+  },
+  {
+    "id": "world-gl-tracks-monastery-mountains",
+    "title": "GamesLantern — Monastery Mountains",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/monastery-mountains"
+  },
+  {
+    "id": "world-gl-tracks-moro-kehn-tunnels",
+    "title": "GamesLantern — Moro Kehn Tunnels",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/moro-kehn-tunnels"
+  },
+  {
+    "id": "world-gl-tracks-mos-espa-speedway",
+    "title": "GamesLantern — Mos Espa Speedway",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/mos-espa-speedway"
+  },
+  {
+    "id": "world-gl-tracks-mountain-to-sea",
+    "title": "GamesLantern — Mountain to Sea",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/mountain-to-sea"
+  },
+  {
+    "id": "world-gl-tracks-overflow-rally",
+    "title": "GamesLantern — Overflow Rally",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/overflow-rally"
+  },
+  {
+    "id": "world-gl-tracks-prologue-ando-prime",
+    "title": "GamesLantern — Prologue",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-ando-prime"
+  },
+  {
+    "id": "world-gl-tracks-prologue-crait",
+    "title": "GamesLantern — Prologue",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-crait"
+  },
+  {
+    "id": "world-gl-tracks-prologue-jakku",
+    "title": "GamesLantern — Prologue",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-jakku"
+  },
+  {
+    "id": "world-gl-tracks-prologue-sentinel-i",
+    "title": "GamesLantern — Prologue",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/prologue-sentinel-i"
+  },
+  {
+    "id": "world-gl-tracks-quadinaros-revenge",
+    "title": "GamesLantern — Quadinaros' Revenge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/quadinaros-revenge"
+  },
+  {
+    "id": "world-gl-tracks-rhodochrosite-run",
+    "title": "GamesLantern — Rhodochrosite Run",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/rhodochrosite-run"
+  },
+  {
+    "id": "world-gl-tracks-salt-circle",
+    "title": "GamesLantern — Salt Circle",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/salt-circle"
+  },
+  {
+    "id": "world-gl-tracks-scrap-spiral",
+    "title": "GamesLantern — Scrap Spiral",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/scrap-spiral"
+  },
+  {
+    "id": "world-gl-tracks-sebulbas-challenge",
+    "title": "GamesLantern — Sebulba's Challenge",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/sebulbas-challenge"
+  },
+  {
+    "id": "world-gl-tracks-sentinel-lakes",
+    "title": "GamesLantern — Sentinel Lakes",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/sentinel-lakes"
+  },
+  {
+    "id": "world-gl-tracks-skakoan-gambit",
+    "title": "GamesLantern — Skakoan Gambit",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/skakoan-gambit"
+  },
+  {
+    "id": "world-gl-tracks-stadium-showdown",
+    "title": "GamesLantern — Stadium Showdown",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/stadium-showdown"
+  },
+  {
+    "id": "world-gl-tracks-star-destroyer-speedway",
+    "title": "GamesLantern — Star Destroyer Speedway",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/star-destroyer-speedway"
+  },
+  {
+    "id": "world-gl-tracks-the-acid-ring",
+    "title": "GamesLantern — The Acid Ring",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-acid-ring"
+  },
+  {
+    "id": "world-gl-tracks-the-galactic-gauntlet",
+    "title": "GamesLantern — The Galactic Gauntlet",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-galactic-gauntlet"
+  },
+  {
+    "id": "world-gl-tracks-the-galactic-league-championship",
+    "title": "GamesLantern — The Galactic League Championship",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-galactic-league-championship"
+  },
+  {
+    "id": "world-gl-tracks-the-giants-graveyard",
+    "title": "GamesLantern — The Giants' Graveyard",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-giants-graveyard"
+  },
+  {
+    "id": "world-gl-tracks-the-pyroducts",
+    "title": "GamesLantern — The Pyroducts",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-pyroducts"
+  },
+  {
+    "id": "world-gl-tracks-the-qualifier",
+    "title": "GamesLantern — The Qualifier",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-qualifier"
+  },
+  {
+    "id": "world-gl-tracks-the-war-fields",
+    "title": "GamesLantern — The War Fields",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/the-war-fields"
+  },
+  {
+    "id": "world-gl-tracks-vonium-pipeline",
+    "title": "GamesLantern — Vonium Pipeline",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/tracks/vonium-pipeline"
+  },
+  {
+    "id": "world-gl-vehicle-classes-landspeeder",
+    "title": "GamesLantern — Landspeeder",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/landspeeder"
+  },
+  {
+    "id": "world-gl-vehicle-classes-podracer",
+    "title": "GamesLantern — Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/podracer"
+  },
+  {
+    "id": "world-gl-vehicle-classes-skim-speeder",
+    "title": "GamesLantern — Skim Speeder",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/skim-speeder"
+  },
+  {
+    "id": "world-gl-vehicle-classes-speeder-bike",
+    "title": "GamesLantern — Speeder Bike",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicle-classes/speeder-bike"
+  },
+  {
+    "id": "world-gl-vehicles-am-1",
+    "title": "GamesLantern — AM-1",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/am-1"
+  },
+  {
+    "id": "world-gl-vehicles-arz-41",
+    "title": "GamesLantern — ARZ 41",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/arz-41"
+  },
+  {
+    "id": "world-gl-vehicles-ben-quadinaross-podracer",
+    "title": "GamesLantern — Ben Quadinaros's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ben-quadinaross-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-ben-quadinaross-podracer-aged",
+    "title": "GamesLantern — Ben Quadinaros's Podracer (Aged)",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ben-quadinaross-podracer-aged"
+  },
+  {
+    "id": "world-gl-vehicles-cesca",
+    "title": "GamesLantern — Cesca",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/cesca"
+  },
+  {
+    "id": "world-gl-vehicles-ciza-t",
+    "title": "GamesLantern — Ciza T",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ciza-t"
+  },
+  {
+    "id": "world-gl-vehicles-darc-x",
+    "title": "GamesLantern — Darc X",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/darc-x"
+  },
+  {
+    "id": "world-gl-vehicles-drd-61",
+    "title": "GamesLantern — DRD 61",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/drd-61"
+  },
+  {
+    "id": "world-gl-vehicles-dreshi",
+    "title": "GamesLantern — Dre'shi",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/dreshi"
+  },
+  {
+    "id": "world-gl-vehicles-dud-bolts-podracer",
+    "title": "GamesLantern — Dud Bolt's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/dud-bolts-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-dud-bolts-podracer-aged",
+    "title": "GamesLantern — Dud Bolt's Podracer (Aged)",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/dud-bolts-podracer-aged"
+  },
+  {
+    "id": "world-gl-vehicles-gasganos-podracer",
+    "title": "GamesLantern — Gasgano's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/gasganos-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-gasganos-podracer-aged",
+    "title": "GamesLantern — Gasgano's Podracer (Aged)",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/gasganos-podracer-aged"
+  },
+  {
+    "id": "world-gl-vehicles-hc-8",
+    "title": "GamesLantern — HC-8",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/hc-8"
+  },
+  {
+    "id": "world-gl-vehicles-jakobeast",
+    "title": "GamesLantern — Jakobeast",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/jakobeast"
+  },
+  {
+    "id": "world-gl-vehicles-kestar-bools-podracer",
+    "title": "GamesLantern — Kestar Bool's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/kestar-bools-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-killion",
+    "title": "GamesLantern — Killion",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/killion"
+  },
+  {
+    "id": "world-gl-vehicles-kjc-99",
+    "title": "GamesLantern — KJC 99",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/kjc-99"
+  },
+  {
+    "id": "world-gl-vehicles-ko-5",
+    "title": "GamesLantern — KO-5",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ko-5"
+  },
+  {
+    "id": "world-gl-vehicles-kreed",
+    "title": "GamesLantern — Kreed",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/kreed"
+  },
+  {
+    "id": "world-gl-vehicles-magus",
+    "title": "GamesLantern — Magus",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/magus"
+  },
+  {
+    "id": "world-gl-vehicles-moksi",
+    "title": "GamesLantern — Mok'si",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/moksi"
+  },
+  {
+    "id": "world-gl-vehicles-msm-04",
+    "title": "GamesLantern — MSM 04",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/msm-04"
+  },
+  {
+    "id": "world-gl-vehicles-napaco-d",
+    "title": "GamesLantern — Napaco D",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/napaco-d"
+  },
+  {
+    "id": "world-gl-vehicles-nl-4",
+    "title": "GamesLantern — NL-4",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/nl-4"
+  },
+  {
+    "id": "world-gl-vehicles-novyok",
+    "title": "GamesLantern — Novyok",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/novyok"
+  },
+  {
+    "id": "world-gl-vehicles-ody-mandrells-podracer",
+    "title": "GamesLantern — Ody Mandrell's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ody-mandrells-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-ody-mandrells-podracer-aged",
+    "title": "GamesLantern — Ody Mandrell's Podracer (Aged)",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ody-mandrells-podracer-aged"
+  },
+  {
+    "id": "world-gl-vehicles-pelake",
+    "title": "GamesLantern — Pel'ake",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/pelake"
+  },
+  {
+    "id": "world-gl-vehicles-rak-s",
+    "title": "GamesLantern — Rak S",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/rak-s"
+  },
+  {
+    "id": "world-gl-vehicles-rar-27",
+    "title": "GamesLantern — RAR 27",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/rar-27"
+  },
+  {
+    "id": "world-gl-vehicles-rathtar",
+    "title": "GamesLantern — Rathtar",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/rathtar"
+  },
+  {
+    "id": "world-gl-vehicles-reek",
+    "title": "GamesLantern — Reek",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/reek"
+  },
+  {
+    "id": "world-gl-vehicles-revasi-g",
+    "title": "GamesLantern — Revasi G",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/revasi-g"
+  },
+  {
+    "id": "world-gl-vehicles-ricon",
+    "title": "GamesLantern — Ri'con",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/ricon"
+  },
+  {
+    "id": "world-gl-vehicles-sah-66",
+    "title": "GamesLantern — SAH 66",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/sah-66"
+  },
+  {
+    "id": "world-gl-vehicles-sebulbas-podracer",
+    "title": "GamesLantern — Sebulba's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/sebulbas-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-shades-podracer",
+    "title": "GamesLantern — Shade's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/shades-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-shades-podracer-phase-2",
+    "title": "GamesLantern — Shade's Podracer (Phase 2)",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/shades-podracer-phase-2"
+  },
+  {
+    "id": "world-gl-vehicles-shades-podracer-phase-3",
+    "title": "GamesLantern — Shade's Podracer (Phase 3)",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/shades-podracer-phase-3"
+  },
+  {
+    "id": "world-gl-vehicles-sling",
+    "title": "GamesLantern — Sling",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/sling"
+  },
+  {
+    "id": "world-gl-vehicles-starweb",
+    "title": "GamesLantern — Starweb",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/starweb"
+  },
+  {
+    "id": "world-gl-vehicles-su-3",
+    "title": "GamesLantern — SU-3",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/su-3"
+  },
+  {
+    "id": "world-gl-vehicles-tahan",
+    "title": "GamesLantern — Ta'han",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/tahan"
+  },
+  {
+    "id": "world-gl-vehicles-teemto-pagaliess-podracer",
+    "title": "GamesLantern — Teemto Pagalies's Podracer",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/teemto-pagaliess-podracer"
+  },
+  {
+    "id": "world-gl-vehicles-vornskr",
+    "title": "GamesLantern — Vornskr",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/vornskr"
+  },
+  {
+    "id": "world-gl-vehicles-wi-9",
+    "title": "GamesLantern — WI-9",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/wi-9"
+  },
+  {
+    "id": "world-gl-vehicles-wist-l",
+    "title": "GamesLantern — Wist L",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/wist-l"
+  },
+  {
+    "id": "world-gl-vehicles-zaknee",
+    "title": "GamesLantern — Zak'nee",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/zaknee"
+  },
+  {
+    "id": "world-gl-vehicles-zillo",
+    "title": "GamesLantern — Zillo",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://galacticracer.gameslantern.com/vehicles/zillo"
+  },
+  {
+    "id": "world-wiki-characters-darius-pax",
+    "title": "Galactic Racer Wiki — Darius Pax",
+    "accessedAt": "2026-10-17",
+    "kind": "secondary",
+    "url": "https://swgalacticracer.wiki/characters/darius-pax/"
   }
 ]

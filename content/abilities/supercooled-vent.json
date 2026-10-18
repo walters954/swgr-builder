@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "kind": "ability",
+  "id": "supercooled-vent",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Supercooled Vent",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-supercooled-vent"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Gain Cooled and reduce Ramjet heat while gradually gaining Frozen . Upon fully Frozen , Vent disengages.",
+    "sourceIds": [
+      "loadouts-gameslantern-abilities-supercooled-vent"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "compatibleModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general mode compatibility established."
+  },
+  "compatibleVehicleClasses": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "No general vehicle-class compatibility established."
+  },
+  "variants": [
+    {
+      "id": "supercooled-vent-observed",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "description": {
+        "status": "reported",
+        "value": "Gain Cooled and reduce Ramjet heat while gradually gaining Frozen . Upon fully Frozen , Vent disengages.",
+        "sourceIds": [
+          "loadouts-gameslantern-abilities-supercooled-vent"
+        ]
+      },
+      "energyCost": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "cooldownSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "durationSeconds": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "large-cross-section",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Large Cross-Section",
+    "sourceIds": [
+      "gameslantern-part-large-cross-section"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Vehicle drag is increased, reducing top speed.",
+    "sourceIds": [
+      "gameslantern-part-large-cross-section"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-large-cross-section"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Vehicle drag is increased, reducing top speed.",
+        "sourceIds": [
+          "gameslantern-part-large-cross-section"
+        ]
+      },
+      "priceCredits": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "unlock": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      }
+    }
+  ]
+}

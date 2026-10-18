@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "wi-9",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "WI-9",
+    "sourceIds": [
+      "world-gl-vehicles-wi-9"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "WI-9 is a landspeeder kit from Kuat Special Vehicles.",
+    "sourceIds": [
+      "world-gl-vehicles-wi-9"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-wi-9"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Kuat Special Vehicles",
+    "sourceIds": [
+      "world-gl-vehicles-wi-9"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

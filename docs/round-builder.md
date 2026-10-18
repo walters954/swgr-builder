@@ -33,6 +33,14 @@ The following is the original design direction, not a checklist of completed fea
 
 The editor supports adding and cloning rounds using complete snapshots. Once saved, each round is independent: changing an early round should not silently mutate later rounds. A future explicit “apply to following rounds” action can handle intentional propagation.
 
+## Imported catalog and visual selections
+
+The builder consumes published imported catalog records; six ambiguous vehicle-named style drafts and Flame Vent remain hidden. Style options distinguish campaign ranks from multiplayer loadouts. Source records may include internal/prologue variants and are reported, not a guarantee of playability or legal combinations.
+
+Shared `GameCard` panels display Part-family picker choices, installed Parts, and selected abilities/Crash Ability/style with explicit variants, Roman rank labels, and highlighted existing terms. The picker pages 24 Part families; search covers all eligible records, not just the current page. Wiki uses the same cards in previews/details with Load more in increments of 36 and explicitly sourced price/unlock details. Prices are not a simulated budget or proof that random rewards will offer an item.
+
+Only nine pictograms are actual owner-upload game crops; remaining icons are illustrative Lucide fallbacks. See [game-card-artwork.md](game-card-artwork.md) for normalization and provenance. Neither card styling nor a selected loadout introduces fake game stats, legality checks, accounts, or server persistence. The parent reports 52 tests passing; final refresh checks and production publication are pending, separately from earlier production verification.
+
 ## Implemented foundation
 
 `src/lib/builds/plan.ts` exports:
@@ -62,7 +70,7 @@ This schema validates shape, IDs, duplicate selections, and chronological round 
 
 - Screenshot 11: Skim Speeder, Stunt Runner, displayed speed 371; Vectored Shockwave II and Impact Surge II confirmed by native crop; 4/4 Parts observed but installed identities unknown because the Parts are partially obscured. Do not carry over screenshot 10’s inventory.
 
-Screenshot 11 confirms Vectored Shockwave II and Impact Surge II from a native-resolution crop. The Vectored Shockwave tooltip reads exactly: “Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.” This establishes its generic description, not a numerical rank-II difference. Impact Surge II’s effect remains unknown. The general Ability tooltip describes offensive, defensive, or utility equippable technology that consumes Energy; it gives no numeric Energy cost. Parts are partially obscured: `installedParts` remains unknown despite the observed 4/4 count, with no inventory carried over from screenshot 10.
+Screenshot 11 confirms Vectored Shockwave II and Impact Surge II from a native-resolution crop. The Vectored Shockwave tooltip reads exactly: “Blast nearby opponents away, propelling you forward and applying System Malfunction to affected opponents.” This establishes its generic description, not a numerical rank-II difference. Screenshot 11 alone leaves Impact Surge II’s effect unknown; later imported descriptions are separately reported. The general Ability tooltip describes offensive, defensive, or utility equippable technology that consumes Energy; it gives no numeric Energy cost. Parts are partially obscured: `installedParts` remains unknown despite the observed 4/4 count, with no inventory carried over from screenshot 10.
 
 These are five evidence snapshots, **not confirmed consecutive rounds**. The screenshots do not name their mode, character, or round. Do not attach them to Griff Halloran just because his panel was supplied earlier.
 

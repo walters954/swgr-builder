@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "weaponized",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Weaponized",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-weaponized"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A deadly style for those interested in playing offense.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-weaponized"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Prepared",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-weaponized"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Ion Bolt Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-weaponized"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Energy Leech",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-weaponized"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Hitting 2 opponents with Abilities recovers 1 Energy .",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-weaponized"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Tooled Up",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-weaponized"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Shockwave and Concussion Mine Abilities installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-weaponized"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

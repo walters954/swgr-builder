@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "redliner",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Redliner",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-redliner"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A high-risk style for those who dare to push their Ramjet to the limit.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-redliner"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Not explicitly stated on the source page."
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Extra Fuel",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Surge Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Critical Ramjet Power",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Redlining , Ramjet is more powerful.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Multiplayer"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Early Warning",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Multiplayer"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining zone increased by 100%.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Multiplayer"
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "impact-regulator",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Impact Regulator",
+    "sourceIds": [
+      "gameslantern-part-impact-regulator-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Concussed clears quickly, then massively increases Speed for 10s.",
+    "sourceIds": [
+      "gameslantern-part-impact-regulator-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Concussed clears quickly, then massively increases Speed for 10s.",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 35 events.",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Concussed clears quickly, then massively increases Speed for 20s.",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 35 events.",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Concussed clears quickly, then massively increases Speed for 30s.",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 70 events.",
+        "sourceIds": [
+          "gameslantern-part-impact-regulator-iii"
+        ]
+      }
+    }
+  ]
+}

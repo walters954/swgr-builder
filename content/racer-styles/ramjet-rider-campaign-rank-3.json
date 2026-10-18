@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "ramjet-rider-campaign-rank-3",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ramjet Rider",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-ramjet-rider"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A controlled style for those looking to extend Ramjet as long as possible.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-ramjet-rider"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 3",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-ramjet-rider"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Exhaust",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Vent Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Optimal Heatsinks",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Cooled is more potent.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Clean Air",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon taking first position, gain Cooled for 10s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Clean Air II",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon taking first, second, or third position, gain Cooled for 10s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-ramjet-rider"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    }
+  ]
+}

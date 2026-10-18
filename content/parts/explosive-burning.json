@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "explosive-burning",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Explosive Burning",
+    "sourceIds": [
+      "gameslantern-part-explosive-burning"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: After 3s of Burning, vehicle will Crash.",
+    "sourceIds": [
+      "gameslantern-part-explosive-burning"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-explosive-burning"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "After 3s of Burning, vehicle will Crash.",
+        "sourceIds": [
+          "gameslantern-part-explosive-burning"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-explosive-burning"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-explosive-burning"
+        ]
+      }
+    }
+  ]
+}

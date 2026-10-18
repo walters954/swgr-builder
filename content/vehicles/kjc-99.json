@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "kind": "vehicle",
+  "id": "kjc-99",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "KJC 99",
+    "sourceIds": [
+      "world-gl-vehicles-kjc-99"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "KJC 99 is a landspeeder kit from Jadrax Race Rigs.",
+    "sourceIds": [
+      "world-gl-vehicles-kjc-99"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "vehicleClass": {
+    "status": "reported",
+    "value": "landspeeder",
+    "sourceIds": [
+      "world-gl-vehicles-kjc-99"
+    ]
+  },
+  "manufacturer": {
+    "status": "reported",
+    "value": "Jadrax Race Rigs",
+    "sourceIds": [
+      "world-gl-vehicles-kjc-99"
+    ]
+  },
+  "availableModes": {
+    "status": "unknown",
+    "value": null,
+    "sourceIds": [],
+    "notes": "Kit listing is not evidence of global mode availability."
+  }
+}

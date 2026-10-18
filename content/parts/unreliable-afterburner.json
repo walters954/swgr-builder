@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "unreliable-afterburner",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Unreliable Afterburner",
+    "sourceIds": [
+      "gameslantern-part-unreliable-afterburner"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: During System Malfunction, Afterburner tank is emptied.",
+    "sourceIds": [
+      "gameslantern-part-unreliable-afterburner"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-unreliable-afterburner"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "During System Malfunction, Afterburner tank is emptied.",
+        "sourceIds": [
+          "gameslantern-part-unreliable-afterburner"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-unreliable-afterburner"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-unreliable-afterburner"
+        ]
+      }
+    }
+  ]
+}

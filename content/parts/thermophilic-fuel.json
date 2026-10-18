@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "thermophilic-fuel",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Thermophilic Fuel",
+    "sourceIds": [
+      "gameslantern-part-thermophilic-fuel-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Redlining adds +3% Afterburner power, lost on Crash.",
+    "sourceIds": [
+      "gameslantern-part-thermophilic-fuel-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining adds +3% Afterburner power, lost on Crash.",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 30 events.",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining adds +7% Afterburner power, lost on Crash.",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 65 events.",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining adds +10% Afterburner power, lost on Crash.",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 97 events.",
+        "sourceIds": [
+          "gameslantern-part-thermophilic-fuel-iii"
+        ]
+      }
+    }
+  ]
+}

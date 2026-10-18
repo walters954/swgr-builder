@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "superconducting-ramjet",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Superconducting Ramjet",
+    "sourceIds": [
+      "gameslantern-part-superconducting-ramjet"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "While Frozen, Ramjet is 100% more powerful.",
+    "sourceIds": [
+      "gameslantern-part-superconducting-ramjet"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-superconducting-ramjet"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Frozen, Ramjet is 100% more powerful.",
+        "sourceIds": [
+          "gameslantern-part-superconducting-ramjet"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-superconducting-ramjet"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 40 events.",
+        "sourceIds": [
+          "gameslantern-part-superconducting-ramjet"
+        ]
+      }
+    }
+  ]
+}

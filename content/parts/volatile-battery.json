@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "volatile-battery",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Volatile Battery",
+    "sourceIds": [
+      "gameslantern-part-volatile-battery"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Start a race with +4 Energy, lost on Crash.",
+    "sourceIds": [
+      "gameslantern-part-volatile-battery"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-volatile-battery"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start a race with +4 Energy, lost on Crash.",
+        "sourceIds": [
+          "gameslantern-part-volatile-battery"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-volatile-battery"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 8 events.",
+        "sourceIds": [
+          "gameslantern-part-volatile-battery"
+        ]
+      }
+    }
+  ]
+}

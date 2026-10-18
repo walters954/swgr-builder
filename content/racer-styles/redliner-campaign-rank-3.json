@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "redliner-campaign-rank-3",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Redliner",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-redliner"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A high-risk style for those who dare to push their Ramjet to the limit.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-redliner"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 3",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-redliner"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Critical Ramjet Power",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Redlining , Ramjet is more powerful.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Early Warning",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining zone increased by 100%.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Early Warning II",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Redlining zone increased by an additional 100%.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Safety Bypass",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon disengaging Ramjet , it can be re-engaged within a brief window.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-redliner"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    }
+  ]
+}

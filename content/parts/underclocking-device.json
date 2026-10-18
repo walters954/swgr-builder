@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "underclocking-device",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Underclocking Device",
+    "sourceIds": [
+      "gameslantern-part-underclocking-device"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: Overcharged is blocked.",
+    "sourceIds": [
+      "gameslantern-part-underclocking-device"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-underclocking-device"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Overcharged is blocked.",
+        "sourceIds": [
+          "gameslantern-part-underclocking-device"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-underclocking-device"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-underclocking-device"
+        ]
+      }
+    }
+  ]
+}

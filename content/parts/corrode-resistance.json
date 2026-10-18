@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "corrode-resistance",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Corrode Resistance",
+    "sourceIds": [
+      "gameslantern-part-corrode-resistance"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Takes 200% longer to Crash from Corroded.",
+    "sourceIds": [
+      "gameslantern-part-corrode-resistance"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-corrode-resistance"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Takes 200% longer to Crash from Corroded.",
+        "sourceIds": [
+          "gameslantern-part-corrode-resistance"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-corrode-resistance"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 40 events.",
+        "sourceIds": [
+          "gameslantern-part-corrode-resistance"
+        ]
+      }
+    },
+    {
+      "id": "corrode-resistance-2",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-corrode-resistance-2"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Takes 200% longer to Crash from Corroded.",
+        "sourceIds": [
+          "gameslantern-part-corrode-resistance-2"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-corrode-resistance-2"
+        ]
+      },
+      "unlock": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      }
+    }
+  ]
+}

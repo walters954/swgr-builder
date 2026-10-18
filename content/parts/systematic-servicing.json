@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "systematic-servicing",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Systematic Servicing",
+    "sourceIds": [
+      "gameslantern-part-systematic-servicing"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Perfect recovery from Critical Malfunction recovers a Crash.",
+    "sourceIds": [
+      "gameslantern-part-systematic-servicing"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-systematic-servicing"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Perfect recovery from Critical Malfunction recovers a Crash.",
+        "sourceIds": [
+          "gameslantern-part-systematic-servicing"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-systematic-servicing"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 20 events.",
+        "sourceIds": [
+          "gameslantern-part-systematic-servicing"
+        ]
+      }
+    }
+  ]
+}

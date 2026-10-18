@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "degraded-dampers",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Degraded Dampers",
+    "sourceIds": [
+      "gameslantern-part-degraded-dampers"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Fault drawback: On landing, System Malfunction and become Concussed.",
+    "sourceIds": [
+      "gameslantern-part-degraded-dampers"
+    ]
+  },
+  "tags": [
+    "fault"
+  ],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "unranked",
+      "rank": {
+        "status": "unknown",
+        "value": null,
+        "sourceIds": [],
+        "notes": "Not explicitly stated on the source page."
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Faulty",
+        "sourceIds": [
+          "gameslantern-part-degraded-dampers"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "On landing, System Malfunction and become Concussed.",
+        "sourceIds": [
+          "gameslantern-part-degraded-dampers"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 250,
+        "sourceIds": [
+          "gameslantern-part-degraded-dampers"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-degraded-dampers"
+        ]
+      }
+    }
+  ]
+}

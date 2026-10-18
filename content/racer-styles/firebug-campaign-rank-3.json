@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "firebug-campaign-rank-3",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Firebug",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-firebug"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A potent style built for bursts of extreme speed with a short but powerful Ramjet.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-firebug"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 3",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-firebug"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Heat Recycler",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Burning , Afterburner and Ramjet are significantly more powerful.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Afterfire",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Upon engaging Ramjet , gain Burning for 5s.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Firestarter",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Flame Vent Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Unlimited Power",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      },
+      "description": {
+        "status": "reported",
+        "value": "While Burning , Afterburner does not consume fuel and Ramjet does not gain heat.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-firebug"
+        ],
+        "notes": "Campaign rank 3"
+      }
+    }
+  ]
+}

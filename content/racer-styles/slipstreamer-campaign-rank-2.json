@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "kind": "racer-style",
+  "id": "slipstreamer-campaign-rank-2",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Slipstreamer",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-slipstreamer"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "A smooth style for using opponents' slipstreams to overtake them.",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-slipstreamer"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "rank": {
+    "status": "reported",
+    "value": "Campaign rank 2",
+    "sourceIds": [
+      "loadouts-gameslantern-racer-styles-slipstreamer"
+    ]
+  },
+  "traits": [
+    {
+      "name": {
+        "status": "reported",
+        "value": "Extra Fuel",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-slipstreamer"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Start with Surge Ability installed.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-slipstreamer"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Stronger Slipstreaming",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-slipstreamer"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Slipstreaming is more potent.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-slipstreamer"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    },
+    {
+      "name": {
+        "status": "reported",
+        "value": "Airflow Alignment",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-slipstreamer"
+        ],
+        "notes": "Campaign rank 2"
+      },
+      "description": {
+        "status": "reported",
+        "value": "Retain Slipstreaming for an increased duration upon leaving an opponent's slipstream.",
+        "sourceIds": [
+          "loadouts-gameslantern-racer-styles-slipstreamer"
+        ],
+        "notes": "Campaign rank 2"
+      }
+    }
+  ]
+}

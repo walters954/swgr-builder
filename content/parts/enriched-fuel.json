@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "kind": "part",
+  "id": "enriched-fuel",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Enriched Fuel",
+    "sourceIds": [
+      "gameslantern-part-enriched-fuel-i"
+    ]
+  },
+  "aliases": [],
+  "summary": {
+    "status": "reported",
+    "value": "Afterburner speed boost increased by 10%.",
+    "sourceIds": [
+      "gameslantern-part-enriched-fuel-i"
+    ]
+  },
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": null,
+  "variants": [
+    {
+      "id": "i",
+      "rank": {
+        "status": "reported",
+        "value": "I",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-i"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Common",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-i"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner speed boost increased by 10%.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-i"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2000,
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-i"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-i"
+        ]
+      }
+    },
+    {
+      "id": "ii",
+      "rank": {
+        "status": "reported",
+        "value": "II",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-ii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Rare",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-ii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner speed boost increased by 25%.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-ii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 2500,
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-ii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Start the Campaign.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-ii"
+        ]
+      }
+    },
+    {
+      "id": "iii",
+      "rank": {
+        "status": "reported",
+        "value": "III",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iii"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Epic",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iii"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner speed boost increased by 50%.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iii"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 3000,
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iii"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 20 events.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iii"
+        ]
+      }
+    },
+    {
+      "id": "iv",
+      "rank": {
+        "status": "reported",
+        "value": "IV",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner speed boost increased by 100%.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 91 events.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv"
+        ]
+      }
+    },
+    {
+      "id": "enriched-fuel-iv-2",
+      "rank": {
+        "status": "reported",
+        "value": "IV",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv-2"
+        ]
+      },
+      "rarity": {
+        "status": "reported",
+        "value": "Legendary",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv-2"
+        ]
+      },
+      "description": {
+        "status": "reported",
+        "value": "Afterburner speed boost increased by 100%.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv-2"
+        ]
+      },
+      "priceCredits": {
+        "status": "reported",
+        "value": 4000,
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv-2"
+        ]
+      },
+      "unlock": {
+        "status": "reported",
+        "value": "Complete 91 events.",
+        "sourceIds": [
+          "gameslantern-part-enriched-fuel-iv-2"
+        ]
+      }
+    }
+  ]
+}

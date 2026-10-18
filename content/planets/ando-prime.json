@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "kind": "planet",
+  "id": "ando-prime",
+  "publication": "published",
+  "name": {
+    "status": "reported",
+    "value": "Ando Prime",
+    "sourceIds": [
+      "world-gl-planets-ando-prime"
+    ]
+  },
+  "summary": {
+    "status": "reported",
+    "value": "Ando Prime is a racing destination in the Galactic League.",
+    "sourceIds": [
+      "world-gl-planets-ando-prime"
+    ]
+  },
+  "aliases": [],
+  "tags": [],
+  "image": null,
+  "updatedAt": "2026-10-17",
+  "gameVersion": null,
+  "editorialNotes": "Third-party reported facts; recorded contexts are not universal compatibility.",
+  "environment": {
+    "status": "reported",
+    "value": "Frozen tundra with steep cliffs.",
+    "sourceIds": [
+      "world-gl-planets-ando-prime"
+    ]
+  }
+}
